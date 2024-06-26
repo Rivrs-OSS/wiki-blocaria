@@ -30,5 +30,5 @@ En concassant une géode, tu récupères une géode plus ou moins rare. Voici le
 * <mark style="color:yellow;">**Échange au spawn**</mark>** :** Les géodes sont échangeables avec l’Antiquaire au spawn contre une variété d’objets plus ou moins rares. Une vingtaine d’objets disponibles changent chaque semaine parmi une vaste liste d’objets, allant de meubles décoratifs à des objets de grande rareté. Les prix varient en fonction de la rareté des objets.
 
 {% hint style="success" %}
-Ce système de géodes ajoute une dimension excitante et stratégique au gameplay, offrant des récompenses précieuses et une nouvelle manière d’interagir avec le monde de Blocaria.
+Ce système de géodes ajoute une dimension stratégique, offrant des récompenses précieuses et une nouvelle manière d’interagir avec le monde de Blocaria.
 {% endhint %}
