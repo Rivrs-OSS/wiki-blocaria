@@ -36,17 +36,17 @@ Attention, certains objets sont uniquement vendables.
 
 Vous pourrez également retrouver certains PNJ dans le spawn proposant d'autres articles non disponibles dans le <mark style="color:yellow;">**`/shop`**</mark>. Voici les différents autres commerçants présents au <mark style="color:yellow;">**`/spawn`**</mark>, utiles pour la progression de votre aventure :
 
-<mark style="color:yellow;">**Fleuriste**</mark>** :**
+<mark style="color:yellow;">**Prestige Florist**</mark>** :**
 
 * <mark style="color:yellow;">**Produits**</mark>** :** Vends une variété de fleurs dans des pots, de différentes tailles.
 * <mark style="color:yellow;">**Utilité**</mark>** :** Idéal pour décorer ta box.
 
-<mark style="color:yellow;">**Mobilier**</mark>** :**
+<mark style="color:yellow;">**Minkea**</mark>** :**
 
 * <mark style="color:yellow;">**Produits**</mark>** :** Vends une large gamme de meubles différents.
 * <mark style="color:yellow;">**Utilité**</mark>** :** Personnalise et meuble ton espace avec des objets uniques.
 
-<mark style="color:yellow;">**Poissonnerie**</mark>** :**
+<mark style="color:yellow;">**Poissonnier**</mark>** :**
 
 * <mark style="color:yellow;">**Produits**</mark>** :** Revente de poissons customisés et normaux.
 * <mark style="color:yellow;">**Utilité**</mark>** :** Vends tes poissons pêchés ou achète des poissons pour cuisiner (redirection du <mark style="color:yellow;">**`/fish shop`**</mark>).
@@ -56,7 +56,19 @@ Vous pourrez également retrouver certains PNJ dans le spawn proposant d'autres 
 * <mark style="color:yellow;">**Produits**</mark>** :** Échange des géodes ouvertes contre des bijoux.
 * <mark style="color:yellow;">**Utilité**</mark>** :** Obtiens des bijoux de base pour commencer à équiper ton personnage.
 
-<mark style="color:yellow;">**Vêtements**</mark>** :**
+<mark style="color:yellow;">**Crimson's Cosmetics**</mark>** :**
 
 * <mark style="color:yellow;">**Produits**</mark>** :** Système de cosmétiques.
 * <mark style="color:yellow;">**Utilité**</mark>** :** Personnalise l'apparence de ton personnage avec des vêtements uniques.
+
+**Barmaid**
+
+* **Produits :** Ventes de différentes boissons avec un pourcentage de récompense suivant la boisson.
+
+**Marché Noir**
+
+* **Produits :** 5 marchandises sont générées par jour, achetables en quantité limitée et uniquement avec des crânes.
+
+**Forgeron**
+
+* **Produits :** Permet de réparer vos objets grâce à la poudre de perlimpinpin.
