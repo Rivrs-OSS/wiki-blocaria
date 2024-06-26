@@ -26,25 +26,20 @@ Dans toutes les boutiques, lorsque tu passes le curseur sur un objet, tu verras 
 * <mark style="color:yellow;">**Produits**</mark>** :** Vends une large gamme de meubles différents.
 * <mark style="color:yellow;">**Utilité**</mark>** :** Personnalise et meuble ton espace avec des objets uniques.
 
-<mark style="color:yellow;">**Bijouterie**</mark>** :**
+<mark style="color:yellow;">**Constructeur**</mark>** :**
 
-* <mark style="color:yellow;">**Produits**</mark>** :** Vends des bijoux, en lien avec le système de RPG Inventory.
-* <mark style="color:yellow;">**Utilité**</mark>** :** Obtiens des bijoux de base pour commencer à équiper ton personnage.
-
-<mark style="color:yellow;">**Scierie**</mark>** :**
-
-* <mark style="color:yellow;">**Produits**</mark>** :** Revente de bois.
+* <mark style="color:yellow;">**Produits**</mark>** :** Vente de blocs de construction.
 * <mark style="color:yellow;">**Utilité**</mark>** :** Achète des matériaux de construction (redirection du <mark style="color:yellow;">**`/shop`**</mark>).
 
 <mark style="color:yellow;">**Poissonnerie**</mark>** :**
 
 * <mark style="color:yellow;">**Produits**</mark>** :** Revente de poissons customisés et normaux.
-* <mark style="color:yellow;">**Utilité**</mark>** :** Vends tes poissons pêchés ou achète des poissons pour cuisiner (redirection du <mark style="color:yellow;">**`/shop`**</mark>).
+* <mark style="color:yellow;">**Utilité**</mark>** :** Vends tes poissons pêchés ou achète des poissons pour cuisiner (redirection du <mark style="color:yellow;">**`/fish shop`**</mark>).
 
 <mark style="color:yellow;">**Antiquaire**</mark>** :**
 
-* <mark style="color:yellow;">**Produits**</mark>** :** Échange des objets obtenus avec les géodes.
-* <mark style="color:yellow;">**Utilité**</mark>** :** Échange tes géodes contre des objets rares et précieux.
+* <mark style="color:yellow;">**Produits**</mark>** :** Échange des géodes ouvertes contre des bijoux.
+* <mark style="color:yellow;">**Utilité**</mark>** :** Obtiens des bijoux de base pour commencer à équiper ton personnage.
 
 <mark style="color:yellow;">**Vêtements**</mark>** :**
 
