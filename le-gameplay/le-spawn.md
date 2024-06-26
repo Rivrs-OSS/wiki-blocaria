@@ -12,11 +12,11 @@ Cela te permet de te téléporter directement à la zone de ton choix, facilitan
 
 ## <mark style="color:yellow;">Shop Général</mark>
 
-Sur Blocaria, vous pouvez accéder facilement au marché du spawn en utilisant la commande <mark style="color:yellow;">**`/shop`**</mark>. C'est l'endroit idéal pour vendre et acheter vos matériaux à des PNJ.&#x20;
+Sur Blocaria, tu peux accéder facilement au marché du spawn en utilisant la commande <mark style="color:yellow;">**`/shop`**</mark>. C'est l'endroit idéal pour vendre et acheter tes matériaux à des PNJ.
 
-Le <mark style="color:yellow;">**`/shop`**</mark> de Blocaria répertorie une variété d'articles dans différentes catégories, vous permettant d'acheter et de vendre des ressources sans avoir à les obtenir manuellement.
+Le <mark style="color:yellow;">**`/shop`**</mark> de Blocaria répertorie une variété d'articles dans différentes catégories, te permettant d'acheter et de vendre des ressources sans avoir à les obtenir manuellement.
 
-Dans toutes les boutiques, lorsque tu passes le curseur sur un objet, tu verras les détails pertinents, comme le prix d'achat et le prix de vente.&#x20;
+Dans toutes les boutiques, lorsque tu passes le curseur sur un objet, tu verras les détails pertinents, comme le prix d'achat et le prix de vente.
 
 {% hint style="warning" %}
 Attention, certains objets sont uniquement vendables.
