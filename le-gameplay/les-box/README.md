@@ -21,7 +21,9 @@ Grâce à ces drops personnalisés, tu découvriras dès le début que le serveu
 
 ## <mark style="color:yellow;">**Biomes customisés**</mark>
 
-Le système de biomes customisés modifie ton expérience de jeu en ajoutant des éléments utiles à ton gameplay. Voici les nouveaux biomes et leurs spécificités :&#x20;
+Le système de biomes customisés modifie ton expérience de jeu en ajoutant des éléments utiles à ton gameplay.&#x20;
+
+Voici les nouveaux biomes et leurs spécificités :&#x20;
 
 ### <mark style="color:yellow;">**Biome Savane**</mark>
 
