@@ -6,7 +6,7 @@ description: Retrouvez ici toutes les informations concernant les événements
 
 Les événements proposés ici seront uniquement des événements récurrents automatiquement lancés.&#x20;
 
-Voici les différents types d’événements que tu pourras expérimenter sur le serveur, pour retrouver ces événements, il suffit d'utiliser la commande <mark style="color:yellow;">**`/events`**</mark> :&#x20;
+Voici les différents types d’événements que tu pourras expérimenter sur le serveur, pour retrouver ces événements et les récompenses correspondantes, il suffit d'utiliser la commande <mark style="color:yellow;">**`/events`**</mark> :&#x20;
 
 ## <mark style="color:yellow;">**Quels sont les différents événements ?**</mark>
 
