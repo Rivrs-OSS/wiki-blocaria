@@ -4,19 +4,37 @@ description: Retrouvez ici toutes les informations concernant le spawn
 
 # 🌎 Le Spawn
 
-## <mark style="color:yellow;">Interaction avec le spawn</mark>&#x20;
-
-### <mark style="color:yellow;">Codex</mark>
+## <mark style="color:yellow;">Codex</mark>
 
 Les zones importantes que tu as précédemment visitées sont disponibles dans le <mark style="color:yellow;">**`/codex`**</mark>.
 
 Cela te permet de te téléporter directement à la zone de ton choix, facilitant ainsi tes déplacements et rendant ton exploration plus fluide.
 
-### <mark style="color:yellow;">Système de boutique</mark>
+## <mark style="color:yellow;">Shop Général</mark>
 
-Dans toutes les boutiques, lorsque tu passes le curseur sur un objet, tu verras les détails pertinents, comme le prix, la description et les statistiques.
+Sur Blocaria, vous pouvez accéder facilement au marché du spawn en utilisant la commande <mark style="color:yellow;">**`/shop`**</mark>. C'est l'endroit idéal pour vendre et acheter vos matériaux à des PNJ.&#x20;
 
-#### <mark style="color:yellow;">**Liste des boutiques et leur fonctionnement**</mark>
+Le <mark style="color:yellow;">**`/shop`**</mark> de Blocaria répertorie une variété d'articles dans différentes catégories, vous permettant d'acheter et de vendre des ressources sans avoir à les obtenir manuellement.
+
+Dans toutes les boutiques, lorsque tu passes le curseur sur un objet, tu verras les détails pertinents, comme le prix d'achat et le prix de vente.&#x20;
+
+{% hint style="warning" %}
+Attention, certains objets sont uniquement vendables.
+{% endhint %}
+
+### <mark style="color:yellow;">Les Catégories</mark>
+
+* <mark style="color:yellow;">**Agriculture**</mark>** :** Articles liés à l'agriculture, tels que les graines, les plantes et les produits agricoles.
+* <mark style="color:yellow;">**Nourriture**</mark>** :** Aliments pour restaurer la santé et la saturation du joueur.
+* <mark style="color:yellow;">**Minerais**</mark>** :** Ressources minérales comme le fer, l'or, le diamant, etc.
+* <mark style="color:yellow;">**Loots des Mobs**</mark>** :** Objets obtenus en tuant des créatures.
+* <mark style="color:yellow;">**Spawners**</mark>** :** Blocs de génération de créatures. Débloquable au <mark style="color:yellow;">**rang**</mark> de <mark style="color:yellow;">**Villageois**</mark>.
+* <mark style="color:yellow;">**Objets Divers**</mark>** :** Articles variés, souvent utiles dans le gameplay.
+* <mark style="color:yellow;">**Blocs**</mark>** :** Différents types de blocs pour la construction et la décoration.
+
+## <mark style="color:yellow;">Autres Commerçants au Spawn</mark>
+
+Vous pourrez également retrouver certains PNJ dans le spawn proposant d'autres articles non disponibles dans le <mark style="color:yellow;">**`/shop`**</mark>. Voici les différents autres commerçants présents au <mark style="color:yellow;">**`/spawn`**</mark>, utiles pour la progression de votre aventure :
 
 <mark style="color:yellow;">**Fleuriste**</mark>** :**
 
@@ -27,11 +45,6 @@ Dans toutes les boutiques, lorsque tu passes le curseur sur un objet, tu verras 
 
 * <mark style="color:yellow;">**Produits**</mark>** :** Vends une large gamme de meubles différents.
 * <mark style="color:yellow;">**Utilité**</mark>** :** Personnalise et meuble ton espace avec des objets uniques.
-
-<mark style="color:yellow;">**Architecte**</mark>** :**
-
-* <mark style="color:yellow;">**Produits**</mark>** :** Vente de blocs de construction.
-* <mark style="color:yellow;">**Utilité**</mark>** :** Achète des matériaux de construction (redirection du <mark style="color:yellow;">**`/shop`**</mark>).
 
 <mark style="color:yellow;">**Poissonnerie**</mark>** :**
 
