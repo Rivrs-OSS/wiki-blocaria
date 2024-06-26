@@ -8,9 +8,9 @@ description: >-
 
 ## <mark style="color:yellow;">Coffre de Vente</mark>
 
-### <mark style="color:yellow;">C</mark><mark style="color:yellow;">**réer un Coffre de Vente dans votre Ville**</mark>
+### <mark style="color:yellow;">C</mark><mark style="color:yellow;">**réer un Coffre de Vente dans votre Box**</mark>
 
-Si vous souhaitez vendre des items dans votre ville, suivez ces étapes simples pour créer un coffre de vente : &#x20;
+Si vous souhaitez vendre des items dans votre box, suivez ces étapes simples pour créer un coffre de vente : &#x20;
 
 <mark style="color:yellow;">**Placez un Coffre**</mark>** :** Posez un coffre dans votre box à l'emplacement souhaité.
 

@@ -18,7 +18,7 @@ Le règlement est susceptible de changer à tout moment sans préavis, nous vous
 
 * Vous êtes entièrement responsable de votre compte Minecraft, ainsi que de votre mot de passe. Il est interdit de donner ou de prêter son compte ainsi que son mot de passe à une personne tierce. Nous ne prenons en aucun cas une part de responsabilité si une personne autre que vous se connecte dessus. Si une règle n’est pas respectée par votre compte même si ce n’est pas vous dessus, une sanction adéquate sera mise en place.
 * Votre pseudonyme doit être respectueux et ne doit pas faire référence à des insultes, de la politique ou à toute forme de discrimination (racisme, xénophobie, misogynie, homophobie, transphobie, etc.).
-* Votre nick (surnom disponible avec un grade) doit également respecter ces règles. De plus, il est interdit d'utiliser votre surnom afin de faire de la pub (pour un pw, une ville, une chaine youtube etc) ou d'usurper l'identité d'un autre joueur, un membre du staff ou une personne connue.
+* Votre nick (surnom disponible avec un grade) doit également respecter ces règles. De plus, il est interdit d'utiliser votre surnom afin de faire de la pub (pour un pw, une box, une chaine youtube etc) ou d'usurper l'identité d'un autre joueur, un membre du staff ou une personne connue.
 * Votre skin doit être correct et respecter les règles en vigueur sur notre serveur. Les skins insultants, discriminatoires, sexistes ou provocants envers une personne morale ou physique sont interdits.
 * Toute forme d'harcèlement est interdite et entraînera de très lourdes sanctions.
 * Nous ne prenons pas en charge les transferts de compte.
@@ -47,7 +47,7 @@ Le règlement est susceptible de changer à tout moment sans préavis, nous vous
   * La mendicité (demander des items, de l'argent, etc.).
 * **Où qu'ils soient les messages sont sanctionnables :**
   * Chat public.
-  * Chat de ville.
+  * Chat de box.
   * Messages privés.
   * Panneaux.
   * Etc.
