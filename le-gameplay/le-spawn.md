@@ -38,37 +38,32 @@ Vous pourrez également retrouver certains PNJ dans le spawn proposant d'autres 
 
 <mark style="color:yellow;">**Prestige Florist**</mark>** :**
 
-* <mark style="color:yellow;">**Produits**</mark>** :** Vends une variété de fleurs dans des pots, de différentes tailles.
-* <mark style="color:yellow;">**Utilité**</mark>** :** Idéal pour décorer ta box.
+* <mark style="color:yellow;">**Produits**</mark>** :** Vends une variété de fleurs dans des pots de différentes tailles. Idéal pour décorer ta box et ajouter une touche de nature à ton espace.
 
 <mark style="color:yellow;">**Minkea**</mark>** :**
 
-* <mark style="color:yellow;">**Produits**</mark>** :** Vends une large gamme de meubles différents.
-* <mark style="color:yellow;">**Utilité**</mark>** :** Personnalise et meuble ton espace avec des objets uniques.
+* <mark style="color:yellow;">**Produits**</mark>** :** Offre une large gamme de meubles uniques. Parfait pour personnaliser et meubler ton espace avec style et originalité.
 
 <mark style="color:yellow;">**Poissonnier**</mark>** :**
 
-* <mark style="color:yellow;">**Produits**</mark>** :** Revente de poissons customisés et normaux.
-* <mark style="color:yellow;">**Utilité**</mark>** :** Vends tes poissons pêchés ou achète des poissons pour cuisiner (redirection du <mark style="color:yellow;">**`/fish shop`**</mark>).
+* <mark style="color:yellow;">**Produits**</mark>** :** Revend de poissons customisés et normaux (redirection du <mark style="color:yellow;">**`/fish shop`**</mark>).
 
 <mark style="color:yellow;">**Antiquaire**</mark>** :**
 
-* <mark style="color:yellow;">**Produits**</mark>** :** Échange des géodes ouvertes contre des bijoux.
-* <mark style="color:yellow;">**Utilité**</mark>** :** Obtiens des bijoux de base pour commencer à équiper ton personnage.
+* <mark style="color:yellow;">**Produits**</mark>** :** Échange des géodes ouvertes contre des bijoux. Parfait pour obtenir des bijoux de base et commencer à équiper ton personnage.
 
 <mark style="color:yellow;">**Crimson's Cosmetics**</mark>** :**
 
-* <mark style="color:yellow;">**Produits**</mark>** :** Système de cosmétiques.
-* <mark style="color:yellow;">**Utilité**</mark>** :** Personnalise l'apparence de ton personnage avec des vêtements uniques.
+* <mark style="color:yellow;">**Produits**</mark>** :** Propose un système de cosmétiques. Personnalise l'apparence de ton personnage avec des vêtements uniques et stylés.
 
-**Barmaid**
+<mark style="color:yellow;">**Barmaid**</mark>
 
-* **Produits :** Ventes de différentes boissons avec un pourcentage de récompense suivant la boisson.
+* <mark style="color:yellow;">**Produits**</mark>** :** Vente de différentes boissons avec un pourcentage de récompense variable suivant la boisson choisie.
 
-**Marché Noir**
+<mark style="color:yellow;">**Marché Noir**</mark>
 
-* **Produits :** 5 marchandises sont générées par jour, achetables en quantité limitée et uniquement avec des crânes.
+* <mark style="color:yellow;">**Produits**</mark>** :** 5 marchandises générées par jour, disponibles en quantité limitée et achetables uniquement avec des crânes.
 
-**Forgeron**
+<mark style="color:yellow;">**Forgeron**</mark>
 
-* **Produits :** Permet de réparer vos objets grâce à la poudre de perlimpinpin.
+* <mark style="color:yellow;">**Produits**</mark>** :** Permet de réparer tes objets grâce à la poudre de perlimpinpin, garantissant la longévité de ton équipement.
