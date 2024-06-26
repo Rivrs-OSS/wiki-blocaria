@@ -4,12 +4,14 @@ description: Retrouvez ici toutes les informations concernant les box
 
 # 📦 Les Box
 
-## <mark style="color:yellow;">**Système de box**</mark>
+<mark style="color:yellow;">**Système de box**</mark>
 
 Dans le mode de jeu "box", le système de box est crucial. Voici comment il fonctionne :
 
-<mark style="color:yellow;">**Création de la box**</mark>** :** Utilise la commande <mark style="color:yellow;">**`/box create <nom>`**</mark> pour créer ta box. Une fois créée, tu apparaîtras dans une zone de 4x4 blocs.\
-\
+<mark style="color:yellow;">**Création de la box**</mark>** :** Utilise la commande <mark style="color:yellow;">**`/box create <nom>`**</mark> pour créer ta box. Une fois créée, tu apparaîtras dans une zone de 4x4 blocs.
+
+<figure><img src="../../.gitbook/assets/Capture d’écran 2024-06-26 à 14.24.25 (2).png" alt=""><figcaption><p><strong>Aperçu d'un Box</strong></p></figcaption></figure>
+
 <mark style="color:yellow;">**Biomes customisés**</mark>** :** Lors de la création de ta box, tu apparaîtras dans un biome ressemblant à une plaine, mais enrichi en arbres, avec deux nouveaux animaux :&#x20;
 
 * <mark style="color:yellow;">**Cerf**</mark>** :** Très utile pour commencer, il droppe du cuir et des bâtons.
