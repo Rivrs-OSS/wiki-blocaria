@@ -10,7 +10,7 @@ Voici une description détaillée de chaque grade et les avantages associés :&#
 
 ## <mark style="color:yellow;">Paysan</mark>
 
-<mark style="color:yellow;">**Niveau Requis**</mark>** :** 5
+<mark style="color:yellow;">**Niveau Requis**</mark>** (**<mark style="color:yellow;">**`/personnage`**</mark>**) :** 5
 
 <mark style="color:yellow;">**Prix**</mark>** :** 200,000
 
@@ -32,7 +32,7 @@ Voici une description détaillée de chaque grade et les avantages associés :&#
 
 ## <mark style="color:yellow;">V</mark><mark style="color:yellow;">**illageois**</mark>
 
-<mark style="color:yellow;">**Niveau Requis**</mark>** :** 15
+<mark style="color:yellow;">**Niveau Requis**</mark>** (**<mark style="color:yellow;">**`/personnage`**</mark>**) :** 15
 
 <mark style="color:yellow;">**Prix**</mark>** :** 1,000,000
 
@@ -53,7 +53,7 @@ Voici une description détaillée de chaque grade et les avantages associés :&#
 
 ## <mark style="color:yellow;">Artisan</mark>
 
-<mark style="color:yellow;">**Niveau Requis**</mark>** :** 30
+<mark style="color:yellow;">**Niveau Requis**</mark>** (**<mark style="color:yellow;">**`/personnage`**</mark>**) :** 30
 
 <mark style="color:yellow;">**Prix**</mark>** :** 5,000,000
 
@@ -74,7 +74,7 @@ Voici une description détaillée de chaque grade et les avantages associés :&#
 
 ## <mark style="color:yellow;">Marquis</mark>
 
-<mark style="color:yellow;">**Niveau Requis**</mark>** :** 40
+<mark style="color:yellow;">**Niveau Requis**</mark>** (**<mark style="color:yellow;">**`/personnage`**</mark>**) :** 40
 
 <mark style="color:yellow;">**Prix**</mark>** :** 10,000,000
 
@@ -97,7 +97,7 @@ Voici une description détaillée de chaque grade et les avantages associés :&#
 
 ## <mark style="color:yellow;">Seigneur</mark>
 
-<mark style="color:yellow;">**Niveau Requis**</mark>** :** 50
+<mark style="color:yellow;">**Niveau Requis**</mark>** (**<mark style="color:yellow;">**`/personnage`**</mark>**) :** 50
 
 <mark style="color:yellow;">**Prix**</mark>** :** 15,000,000
 
@@ -121,7 +121,7 @@ Voici une description détaillée de chaque grade et les avantages associés :&#
 
 ## <mark style="color:yellow;">Prince</mark>
 
-<mark style="color:yellow;">**Niveau Requis**</mark>** :** 70
+<mark style="color:yellow;">**Niveau Requis**</mark>** (**<mark style="color:yellow;">**`/personnage`**</mark>**) :** 70
 
 <mark style="color:yellow;">**Prix**</mark>** :** 50,000,000
 
@@ -143,7 +143,7 @@ Voici une description détaillée de chaque grade et les avantages associés :&#
 
 ## <mark style="color:yellow;">Roi</mark>
 
-<mark style="color:yellow;">**Niveau Requis**</mark>** :** 100
+<mark style="color:yellow;">**Niveau Requis**</mark>** (**<mark style="color:yellow;">**`/personnage`**</mark>**) :** 100
 
 <mark style="color:yellow;">**Prix**</mark>** :** 100,000,000
 
