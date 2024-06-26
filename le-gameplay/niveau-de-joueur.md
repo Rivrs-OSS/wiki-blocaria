@@ -16,10 +16,6 @@ Dans le menu du personnage <mark style="color:yellow;">**`/personnage`**</mark>,
 
 <mark style="color:yellow;">**Informations**</mark>** :** Cet onglet te montre en temps réel les ressources que tu peux ou ne peux plus échanger pour augmenter de niveau. Ce menu est interactif car les ressources requises changent au fil de ton aventure.
 
-{% hint style="info" %}
-Augmente les niveaux de tes personnages pour accéder à de nouvelles fonctionnalités à l'avenir. Alors, n'attends pas et booste-les dès maintenant !
-{% endhint %}
-
 ## <mark style="color:yellow;">Q</mark><mark style="color:yellow;">**uelles sont les ressources précieuses ?**</mark>
 
 Les ressources précieuses sont variées et incluent :
@@ -34,6 +30,6 @@ En outre, un ajout important est celui des géodes. Une fois ouvertes, elles peu
 
 Le niveau de personnage sert principalement de prérequis pour augmenter de rang. Plus rarement, il peut être un prérequis pour des fonctionnalités annexes, telles que les trophées.
 
-{% hint style="success" %}
-En augmentant ton niveau de personnage, tu pourras débloquer de nouvelles possibilités et progresser dans ton aventure sur le serveur.
+{% hint style="info" %}
+Augmente les niveaux de tes personnages pour accéder à de nouvelles fonctionnalités à l'avenir. Alors, n'attends pas et booste-les dès maintenant !
 {% endhint %}
