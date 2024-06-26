@@ -8,6 +8,8 @@ Pour augmenter la taille de ta box, tu dois compléter des quêtes en coopérati
 
 Utilise la commande <mark style="color:yellow;">**`/missions`**</mark> pour y accéder.
 
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p><strong>Aperçu du</strong> <mark style="color:yellow;"><strong><code>/missions</code></strong></mark></p></figcaption></figure>
+
 ## <mark style="color:yellow;">Catégories de quêtes</mark>
 
 ### <mark style="color:yellow;">Introduction</mark>
@@ -28,21 +30,21 @@ Utilise la commande <mark style="color:yellow;">**`/missions`**</mark> pour y ac
 ### <mark style="color:yellow;">**Intermédiaire**</mark>
 
 * <mark style="color:yellow;">**Objectif**</mark>** :** Continuer à améliorer la taille de ta box.
-* <mark style="color:yellow;">**Quêtes**</mark>** :** 50 quêtes.
+* <mark style="color:yellow;">**Quêtes**</mark>** :** 46 quêtes.
 * <mark style="color:yellow;">**Récompenses**</mark>** :** Amélioration de la taille de la box et autres récompenses.
 * <mark style="color:yellow;">**Exemple**</mark>** :** Casser 15.000 melons.
 
 ### <mark style="color:yellow;">Difficile</mark>
 
 * <mark style="color:yellow;">**Objectif**</mark>** :** Pour les joueurs avancés cherchant des défis.
-* <mark style="color:yellow;">**Quêtes**</mark>** :** 40 quêtes.
+* <mark style="color:yellow;">**Quêtes**</mark>** :** 38 quêtes.
 * <mark style="color:yellow;">**Récompenses**</mark>** :** Amélioration de la taille de la box et autres récompenses.
 * <mark style="color:yellow;">**Exemple**</mark>** :** Casser 250.000 patates.
 
 ### <mark style="color:yellow;">Extrême</mark>
 
 * <mark style="color:yellow;">**Objectif**</mark>** :** Pour les joueurs expérimentés cherchant des défis intenses.
-* <mark style="color:yellow;">**Quêtes**</mark>** :** 30 quêtes.
+* <mark style="color:yellow;">**Quêtes**</mark>** :** 27 quêtes.
 * <mark style="color:yellow;">**Récompenses**</mark>** :** Amélioration de la taille de la box et autres récompenses.
 * <mark style="color:yellow;">**Exemple**</mark>** :** Tuer 7.500 anacondas.
 
@@ -63,4 +65,4 @@ Utilise la commande <mark style="color:yellow;">**`/missions`**</mark> pour y ac
 
 ### <mark style="color:yellow;">Or</mark><mark style="color:yellow;">**dre de réalisation des quêtes**</mark>&#x20;
 
-Pour les quêtes intermédiaires et au-delà, tu peux les réaliser dans l'ordre de ton choix. Par exemple, si tu es dans la catégorie Intermédiaire, tu peux commencer par la quête 10, 9, ou 3, peu importe.
+Pour pouvoir accéder aux niveaux de quête suivants, il est nécessaire de terminer la catégorie initiale.
