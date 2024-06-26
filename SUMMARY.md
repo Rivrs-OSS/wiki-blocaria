@@ -11,7 +11,7 @@
 
 * [📦 Les Box](le-gameplay/les-box/README.md)
   * [🪙 Système de Valeur](le-gameplay/les-box/systeme-de-valeur.md)
-  * [📜 Quêtes Coopératives](le-gameplay/les-box/quetes-cooperatives.md)
+  * [📜 Missions Coopératives](le-gameplay/les-box/missions-cooperatives.md)
   * [🔼 Amélioration de Box](le-gameplay/les-box/amelioration-de-box.md)
   * [👁️‍🗨️ Les Warps](le-gameplay/les-box/les-warps.md)
   * [🎁 Coffre de Vente](le-gameplay/les-box/coffre-de-vente.md)
