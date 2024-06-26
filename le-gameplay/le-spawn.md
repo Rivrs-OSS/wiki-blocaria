@@ -34,7 +34,7 @@ Attention, certains objets sont uniquement vendables.
 
 ## <mark style="color:yellow;">Autres Commerçants au Spawn</mark>
 
-Vous pourrez également retrouver certains PNJ dans le spawn proposant d'autres articles non disponibles dans le <mark style="color:yellow;">**`/shop`**</mark>. Voici les différents autres commerçants présents au <mark style="color:yellow;">**`/spawn`**</mark>, utiles pour la progression de votre aventure :
+Tu pourras également retrouver certains PNJ dans le spawn proposant d'autres articles non disponibles dans le <mark style="color:yellow;">**`/shop`**</mark>. Voici les différents autres commerçants présents au <mark style="color:yellow;">**`/spawn`**</mark>, utiles pour la progression de ton aventure :
 
 <mark style="color:yellow;">**Prestige Florist**</mark>** :**
 
