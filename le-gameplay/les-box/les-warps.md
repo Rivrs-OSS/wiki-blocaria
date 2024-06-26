@@ -20,7 +20,7 @@ Ces warps peuvent être utilisés pour se déplacer rapidement à travers le mon
 ### <mark style="color:yellow;">Warps Personnels</mark>&#x20;
 
 * <mark style="color:yellow;">**`/pwarps create [...]`**</mark> : Crée un nouveau warp personnel avec le nom spécifié.
-* **`/pwarps delete [...]`** : Supprime le warp personnel spécifié.
+* <mark style="color:yellow;">**`/pwarps delete [...]`**</mark> : Supprime le warp personnel spécifié.
 * <mark style="color:yellow;">**`/pwarps list`**</mark> : Affiche la liste de vos warps personnels.
 * <mark style="color:yellow;">**`/pwarps teleport [...]`**</mark> : Se téléporte au warp personnel spécifié.
 
@@ -29,4 +29,4 @@ Ces warps peuvent être utilisés pour se déplacer rapidement à travers le mon
 * <mark style="color:yellow;">**`/pwarp [nom du warp]`**</mark> : Téléporte-vous au warp public spécifié.
 * <mark style="color:yellow;">**`/pwarp info [nom du warp]`**</mark> : Affiche des informations sur le warp public spécifié.
 * <mark style="color:yellow;">**`/pwarp list`**</mark> : Affiche une liste de tous les warps publics disponibles.
-* **`/pwarp setlocation [nom du warp]`** : Définit la position actuelle comme emplacement du warp public spécifié.
+* <mark style="color:yellow;">**`/pwarp setlocation [nom du warp]`**</mark> : Définit la position actuelle comme emplacement du warp public spécifié.

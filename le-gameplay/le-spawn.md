@@ -8,7 +8,9 @@ description: Retrouvez ici toutes les informations concernant le spawn
 
 ### <mark style="color:yellow;">Codex</mark>
 
-Les zones importantes que tu as précédemment visitées sont disponibles dans le <mark style="color:yellow;">**`/codex`**</mark>. Cela te permet de te téléporter directement à la zone de ton choix, facilitant ainsi tes déplacements et rendant ton exploration plus fluide.
+Les zones importantes que tu as précédemment visitées sont disponibles dans le <mark style="color:yellow;">**`/codex`**</mark>.
+
+Cela te permet de te téléporter directement à la zone de ton choix, facilitant ainsi tes déplacements et rendant ton exploration plus fluide.
 
 ### <mark style="color:yellow;">Système de boutique</mark>
 
@@ -26,7 +28,7 @@ Dans toutes les boutiques, lorsque tu passes le curseur sur un objet, tu verras 
 * <mark style="color:yellow;">**Produits**</mark>** :** Vends une large gamme de meubles différents.
 * <mark style="color:yellow;">**Utilité**</mark>** :** Personnalise et meuble ton espace avec des objets uniques.
 
-<mark style="color:yellow;">**Constructeur**</mark>** :**
+<mark style="color:yellow;">**Architecte**</mark>** :**
 
 * <mark style="color:yellow;">**Produits**</mark>** :** Vente de blocs de construction.
 * <mark style="color:yellow;">**Utilité**</mark>** :** Achète des matériaux de construction (redirection du <mark style="color:yellow;">**`/shop`**</mark>).

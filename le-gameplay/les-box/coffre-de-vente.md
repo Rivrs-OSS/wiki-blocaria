@@ -26,7 +26,7 @@ Si vous souhaitez vendre des items dans votre box, suivez ces étapes simples po
 En suivant ces étapes, vous pouvez établir un système de vente dans votre box, offrant aux autres joueurs la possibilité d'acheter les items que vous proposez.
 {% endhint %}
 
-<mark style="color:yellow;">**Augmentation de la capacité de shop**</mark>** :** La quantité de shops personnels que tu peux créer est augmentable en obtenant des grades.
+<mark style="color:yellow;">**Augmentation de la capacité de shop**</mark>** :** La quantité de shops personnels que tu peux créer est augmentable en améliorant ton rang.
 
-* <mark style="color:yellow;">**Achats**</mark>** :** Ces grades sont achetables via la boutique en ligne.
+* <mark style="color:yellow;">**Achats**</mark>** :** Des grades sont achetables via la boutique en ligne.
 * <mark style="color:yellow;">**Farm**</mark>** :** Tu peux aussi les obtenir en farmant des yuzu et en les échangeant via la commande <mark style="color:yellow;">**`/ranks`**</mark>.
