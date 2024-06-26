@@ -16,6 +16,10 @@ Dans le menu du personnage <mark style="color:yellow;">**`/personnage`**</mark>,
 
 <mark style="color:yellow;">**Informations**</mark>** :** Cet onglet te montre en temps réel les ressources que tu peux ou ne peux plus échanger pour augmenter de niveau. Ce menu est interactif car les ressources requises changent au fil de ton aventure.
 
+{% hint style="info" %}
+Augmente les niveaux de tes personnages pour accéder à de nouvelles fonctionnalités à l'avenir. Alors, n'attends pas et booste-les dès maintenant !
+{% endhint %}
+
 ## <mark style="color:yellow;">Q</mark><mark style="color:yellow;">**uelles sont les ressources précieuses ?**</mark>
 
 Les ressources précieuses sont variées et incluent :
