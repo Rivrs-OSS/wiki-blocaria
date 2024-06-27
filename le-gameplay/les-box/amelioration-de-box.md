@@ -4,9 +4,13 @@ description: Retrouvez ici toutes les informations concernant l'amélioration de
 
 # 🔼 Amélioration de Box
 
-Tu peux améliorer divers aspects de ta box, indépendamment de sa taille.&#x20;
+Tu peux améliorer divers aspects de ta box, indépendamment de sa taille, en payant avec des yuzus. Les améliorations peuvent être effectuées jusqu'à cinq fois pour atteindre la limite maximale.&#x20;
+
+Tu peux retrouver le prix de ces améliorations dans le <mark style="color:yellow;">**`/box upgrade`**</mark>.
 
 Voici les différentes améliorations possibles :&#x20;
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:yellow;"><strong><code>/box upgrade</code></strong></mark></p></figcaption></figure>
 
 ### <mark style="color:yellow;">N</mark><mark style="color:yellow;">**ombre de membres sur ta box**</mark>
 
