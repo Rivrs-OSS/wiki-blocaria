@@ -8,6 +8,8 @@ Sur Blocaria, tu peux accéder à une boutique variée en utilisant la commande 
 
 Cette section détaille les différentes catégories d'articles disponibles à l'achat, chacun offrant des avantages spécifiques pour améliorer ton expérience de jeu.&#x20;
 
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:yellow;"><strong><code>/boutique</code></strong></mark></p></figcaption></figure>
+
 Voici un aperçu des différentes options disponibles dans la boutique : &#x20;
 
 ## <mark style="color:yellow;">Crédits Gemmes</mark>
@@ -20,37 +22,37 @@ Pour acheter dans notre boutique, tu dois d'abord acheter des gemmes depuis notr
 
 ## <mark style="color:yellow;">Grades</mark>
 
-**Commandes : **<mark style="color:yellow;">**`/boutique_rank`**</mark>
+**Commandes : **<mark style="color:yellow;">**`/grades`**</mark>
 
 Améliore ton expérience de jeu en obtenant divers avantages grâce à un grade. En cliquant, tu accèdes à la section des grades où tu peux choisir et acheter des grades.
 
 ## <mark style="color:yellow;">Clés</mark>
 
-**Commandes : **<mark style="color:yellow;">**`/boutique_keys`**</mark>
+**Commandes : **<mark style="color:yellow;">**`/cles`**</mark>
 
-Achète des clés pour obtenir rapidement des objets puissants et stylés. En cliquant, tu accèdes à la section des clés pour choisir et acheter les clés disponibles.
+Achète des clés pour obtenir rapidement des objets puissants et utile pour ton aventure. En cliquant, tu accèdes à la section des clés pour choisir et acheter les clés disponibles.
 
 ## <mark style="color:yellow;">Générateurs</mark>
 
-**Commandes : **<mark style="color:yellow;">**`/boutique_generator`**</mark>
+**Commandes : **<mark style="color:yellow;">**`/spawners`**</mark>
 
 Achète des générateurs à créatures pour extraire les bénéfices immédiatement. En cliquant, tu accèdes à la section des générateurs pour acheter celui qui te convient.
 
 ## <mark style="color:yellow;">**Abonnement Premium**</mark>
 
-**Commandes : **<mark style="color:yellow;">**`/boutique_premium_main`**</mark>
+**Commandes : **<mark style="color:yellow;">**`/premium`**</mark>
 
 Achète un abonnement pour obtenir des avantages temporaires. En cliquant, tu accèdes à la section des abonnements Premium pour choisir et acheter un abonnement.
 
-## <mark style="color:yellow;">Divers</mark>
+## <mark style="color:yellow;">Édition Limitée</mark>
 
-**Commandes : **<mark style="color:yellow;">**`/boutique_divers`**</mark>
+**Commandes : **<mark style="color:yellow;">**`/boutique`**</mark>
 
-Équipe-toi de certains objets et avantages utiles pour ton aventure. En cliquant, tu accèdes à la section divers pour voir et acheter les objets disponibles.
+Équipe-toi de certains objets utiles pour ton aventure disponibles durant une durée très limitée. En cliquant, tu accèdes à la section limitée pour voir et acheter les objets disponibles.
 
 ## <mark style="color:yellow;">Objets</mark>
 
-**Commandes : **<mark style="color:yellow;">**`/boutique_items`**</mark>
+**Commandes : **<mark style="color:yellow;">**`/objetsvip`**</mark>
 
 Équipe-toi de certains objets puissants qui t'accompagneront pendant toute l'aventure. En cliquant, tu accèdes à la section des objets pour choisir et acheter les objets disponibles.
 
