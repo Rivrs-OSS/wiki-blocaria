@@ -23,6 +23,8 @@ Grâce à ces drops personnalisés, tu découvriras dès le début que le serveu
 
 Le système de biomes customisés modifie ton expérience de jeu en ajoutant des éléments utiles à ton gameplay.&#x20;
 
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:yellow;"><strong><code>/box biome</code></strong></mark></p></figcaption></figure>
+
 Voici les nouveaux biomes et leurs spécificités :&#x20;
 
 ### <mark style="color:yellow;">**Biome Savane**</mark>
