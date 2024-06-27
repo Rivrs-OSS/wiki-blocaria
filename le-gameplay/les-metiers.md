@@ -39,23 +39,15 @@ En augmentant tes niveaux dans chaque métier, tu obtiendras différentes récom
 
 ## <mark style="color:yellow;">**Système de palier journalier**</mark>
 
-<mark style="color:yellow;">**Objectifs quotidiens**</mark>** :** Un objectif est aléatoirement tiré chaque jour (par exemple, “Tuer 5000 cochons dans ta box”).&#x20;
+<mark style="color:yellow;">**Objectif quotidien**</mark> : Chaque jour, un objectif aléatoire est assigné au métier que tu exerces (par exemple, “Tuer 5000 cochons dans ta box” si tu as choisi le métier de chasseur). Une fois l’objectif rempli, tu obtiens un bonus de +1% par jour pour ton expérience métier, jusqu’à un maximum de 15%. Ce boost est global et te permet de progresser plus rapidement dans les métiers. De plus, une récompense supplémentaire peut être obtenue.&#x20;
 
-Une fois l’objectif rempli, tu obtiens de l’expérience pour ton niveau de personnage, l’ouverture d’une caisse avec des lots intéressants, et un bonus de +1%/jour (bloqué à 15% maximum).&#x20;
-
-Ce boost de % est un bonus global qui te permet de progresser plus rapidement dans les métiers.
-
-<mark style="color:yellow;">**Compatibilité**</mark>** :** Ce système de boost doit s'additionner aux autres boosts. Par exemple, si tu as un objet qui te confère un boost de 5% dans les métiers, il doit s’ajouter à ce boost.
-
-{% hint style="warning" %}
-<mark style="color:yellow;">**Important**</mark>** :** Si tu ne complètes pas l’objectif quotidien, ton bonus journalier sera réinitialisé à zéro.
+{% hint style="info" %}
+Si tu disposes de <mark style="color:yellow;">**l'abonnement Premium**</mark>, la récompense est doublée !
 {% endhint %}
 
-### <mark style="color:yellow;">**Liste des objectifs possibles**</mark>
+<mark style="color:yellow;">**Compatibilité**</mark>** :** Ce système de boost s'additionne aux autres boosts. Par exemple, si tu possèdes un objet qui te confère un boost de 5% dans les métiers, ce bonus s’ajoutera à celui de l’objectif quotidien.
 
-* Poser, casser, pêcher, sauter, bêcher, récolter
-* Tuer , enchanter, élever, fabriquer
-* Parcourir des blocs à pied
+<mark style="color:yellow;">**Important**</mark>** :** Si tu ne complètes pas l’objectif quotidien, ton bonus journalier sera réinitialisé à zéro.
 
 {% hint style="success" %}
 En réalisant ces objectifs, tu pourras progresser rapidement dans tes métiers et obtenir diverses récompenses pour améliorer ton expérience de jeu !
