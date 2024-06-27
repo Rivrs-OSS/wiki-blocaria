@@ -21,7 +21,7 @@ Tu peux obtenir de la valeur en effectuant différentes actions liées aux diver
 
 Tu peux retrouver toutes les actions et leurs gains associés en effectuant la commande <mark style="color:yellow;">**`/jobs`**</mark>. Le menu des jobs s'ouvrira et il te suffira de choisir le métier qui t'intéresse pour connaître les gains.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:yellow;"><strong><code>/jobs</code></strong></mark></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:yellow;"><strong><code>/jobs</code></strong></mark></p></figcaption></figure>
 
 En effectuant ces actions, tu as une chance d’obtenir un bonus qui s’affichera à l’écran et te donnera un ticket de valeur d’un certain montant, défini en fonction de ton niveau de personnage.&#x20;
 
