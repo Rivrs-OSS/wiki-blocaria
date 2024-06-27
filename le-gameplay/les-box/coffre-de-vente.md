@@ -12,6 +12,8 @@ description: >-
 
 Si vous souhaitez vendre des items dans votre box, suivez ces étapes simples pour créer un coffre de vente : &#x20;
 
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p><strong>Aperçu de l'interface du Coffre de Vente</strong></p></figcaption></figure>
+
 <mark style="color:yellow;">**Placez un Coffre**</mark>** :** Posez un coffre dans votre box à l'emplacement souhaité.
 
 <mark style="color:yellow;">**Sélectionnez l'Item à Vendre**</mark>** :** Tenez l'item que vous souhaitez vendre dans votre main.
