@@ -24,7 +24,9 @@ La partie basse te permettra de : <mark style="color:yellow;">**réinitialiser t
 
 ## <mark style="color:yellow;">**Biomes customisés**</mark>
 
-Le système de biomes customisés modifie ton expérience de jeu en ajoutant des éléments utiles à ton gameplay.&#x20;
+Le système de biomes customisés te permettra de récupérer de nouvelles ressources essentielles à ta progression sur le serveur. La box que tu as créée se situe au centre de la carte ci-dessous. Plus tu accomplis de missions coopératives, plus la taille de ta box s'étend, te permettant ainsi d'accéder aux différents biomes disponibles.
+
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p><strong>Aperçu de la </strong><mark style="color:yellow;"><strong>map</strong></mark></p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:yellow;"><strong><code>/box biome</code></strong></mark></p></figcaption></figure>
 
