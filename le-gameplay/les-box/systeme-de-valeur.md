@@ -10,7 +10,11 @@ Cela te permettra non seulement de te positionner dans un classement indicatif, 
 
 ## <mark style="color:yellow;">C</mark><mark style="color:yellow;">**omment obtenir de la valeur ?**</mark>
 
-Tu peux obtenir de la valeur en effectuant différentes actions liées aux divers métiers disponibles :
+Tu peux obtenir de la valeur en effectuant différentes actions liées aux divers métiers disponibles :&#x20;
+
+{% hint style="danger" %}
+Attention ! Tu ne pourras obtenir des points de valeur que si tu as débloqué le métier en question.
+{% endhint %}
 
 * <mark style="color:yellow;">**Fermier**</mark> : Récolter des cultures, reproduire des animaux, tondre des moutons et apprivoiser des animaux.
 * <mark style="color:yellow;">**Mineur**</mark> : Extraire des minerais et les faire cuire.
