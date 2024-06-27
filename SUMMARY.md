@@ -31,3 +31,4 @@
 * [🏦 Hôtel des Ventes](le-gameplay/hotel-des-ventes.md)
 * [📚 Les Collections](le-gameplay/les-collections.md)
 * [🏆 Les Trophées](le-gameplay/les-trophees.md)
+* [💎 La Boutique](le-gameplay/la-boutique.md)
