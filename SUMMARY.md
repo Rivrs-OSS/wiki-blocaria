@@ -33,3 +33,4 @@
 * [🏆 Les Trophées](le-gameplay/les-trophees.md)
 * [💎 La Boutique](le-gameplay/la-boutique/README.md)
   * [👑 Les Grades](le-gameplay/la-boutique/les-grades.md)
+  * [🎗️ Abonnement Premium](le-gameplay/la-boutique/abonnement-premium.md)
