@@ -6,33 +6,36 @@ description: Retrouvez ici toutes les informations concernant les métiers
 
 ## <mark style="color:yellow;">Comment</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">**débloquer les métiers ?**</mark>
 
-Les métiers sont déblocables avec les rangs. Les rangs demandent une suite de prérequis, dont le niveau de personnage. Plus ton rang est élevé, plus tu as accès à des métiers.&#x20;
+À ton arrivée sur le serveur, tu auras l'occasion de choisir un métier initial. Ensuite, il faudra débloquer les autres métiers en progressant dans les rangs.&#x20;
 
-Voici l’ordre chronologique d’accès aux métiers :
+Chaque rang nécessite une série de prérequis, dont le niveau de ton personnage. Plus ton rang est élevé, plus tu auras accès à des métiers diversifiés.
 
-<mark style="color:yellow;">**Chasseur**</mark>** :** Tuez des monstres et des créatures pour obtenir de l’XP et de l’argent.
+Tu auras la possibilité de choisir ton métier de départ et de débloquer d'autres métiers en atteignant certains rangs.&#x20;
 
-<mark style="color:yellow;">**Agriculteur**</mark>** :** Casse et plante des cultures pour obtenir de l’XP et de l’argent.
+Fais un choix judicieux, car ton métier te permettra de gagner de l'expérience et de l'argent dans le domaine choisi :
 
-<mark style="color:yellow;">**Mineur**</mark>** :** Casse des minerais et cuis-les dans un four pour obtenir de l’XP et de l’argent.
+* <mark style="color:yellow;">**Fermier**</mark> : Récolter des cultures, reproduire des animaux, tondre des moutons et apprivoiser des animaux.
+* <mark style="color:yellow;">**Mineur**</mark> : Extraire des minerais et les faire cuire.
+* <mark style="color:yellow;">**Pêcheur**</mark> : Pêcher des ressources, cuire des poissons et les tuer directement.
+* <mark style="color:yellow;">**Chasseur**</mark> : Tuer des animaux, des monstres et des mobs personnalisés.
+* <mark style="color:yellow;">**Bûcheron**</mark> : Abattre des arbres, cuire le bois et l'écorcer.
+* <mark style="color:yellow;">**Explorateur**</mark> : (Fonctionnalité à venir !)
 
-<mark style="color:yellow;">**Pêcheur**</mark>** :** Pêche des poissons et cuis-les pour obtenir de l’XP et de l’argent.
+{% hint style="warning" %}
+Assure-toi de sélectionner le métier qui correspond le mieux à ton style de jeu et à tes objectifs sur le serveur.
+{% endhint %}
 
-<mark style="color:yellow;">**Bûcheron**</mark>** :** Casse des bûches et fabrique des planches pour obtenir de l’XP et de l’argent.
-
-<mark style="color:yellow;">**Explorateur**</mark>** :** Découvre le monde, complète des quêtes, améliore la taille de ta box et fais des donjons pour obtenir de l’XP et de l’argent.
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:yellow;"><strong><code>/jobs</code></strong></mark></p></figcaption></figure>
 
 ## <mark style="color:yellow;">C</mark><mark style="color:yellow;">**omment fonctionnent les métiers ?**</mark>
 
-<mark style="color:yellow;">**Récompenses**</mark>** :** À chaque niveau dans chaque métier, une récompense est accordée. Toutes les 5 récompenses, une récompense exclusive est réservée aux abonnés Premium.
+En augmentant tes niveaux dans chaque métier, tu obtiendras différentes récompenses. Tu peux retrouver les récompenses en haut à droite de chaque métier dans le menu <mark style="color:yellow;">**`/jobs`**</mark>. Note que certaines récompenses sont disponibles uniquement avec l'abonnement Premium.
 
-<mark style="color:yellow;">**Écusson**</mark>** :** À côté de ton pseudonyme dans le TAB, une fois arrivé au niveau 100 d’un métier, un écusson apparaît.&#x20;
+<mark style="color:yellow;">**Paliers**</mark>** :** À chaque niveau atteint dans un métier, une récompense est accordée. Toutes les 5 récompenses, une récompense exclusive est réservée aux abonnés Premium.
 
-Si tu as l'abonnement Premium, cet écusson est doré.&#x20;
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption><p><strong>Aperu du palier des </strong><mark style="color:yellow;"><strong>métiers</strong></mark></p></figcaption></figure>
 
-Si tu as terminé 3 ou 4 métiers à 100%, les écussons changent toutes les 8 secondes pour afficher l’ensemble des métiers terminés.&#x20;
-
-Si tu n’as pas de métier du tout, alors il y a l’affichage de l’étoile de l’abonnement si tu en possèdes un.
+<mark style="color:yellow;">**Écusson**</mark>** :** Une fois arrivé au niveau 100 d’un métier, un écusson apparaît à côté de ton pseudonyme dans le TAB. Si tu as l'abonnement Premium, cet écusson est doré. Si tu as terminé 3 ou 4 métiers à 100%, les écussons changent toutes les 8 secondes pour afficher l’ensemble des métiers terminés. Si tu n’as pas de métier du tout, alors l’étoile de l’abonnement s’affiche si tu en possèdes un.
 
 ## <mark style="color:yellow;">**Système de palier journalier**</mark>
 
