@@ -10,7 +10,7 @@ Dans le mode de jeu "box", le système de box est crucial. Voici comment il fonc
 
 <mark style="color:yellow;">**Création de la box**</mark>** :** Utilise la commande <mark style="color:yellow;">**`/box create <nom>`**</mark> pour créer ta box. Une fois créée, tu apparaîtras dans une zone de 4x4 blocs.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p><strong>Aperçu d'un Box</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p><strong>Aperçu d'un Box</strong></p></figcaption></figure>
 
 <mark style="color:yellow;">**Biomes customisés**</mark>** :** Lors de la création de ta box, tu apparaîtras dans un biome ressemblant à une plaine, mais enrichi en arbres, avec deux nouveaux animaux :&#x20;
 

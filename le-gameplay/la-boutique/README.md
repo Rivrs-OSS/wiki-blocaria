@@ -8,7 +8,7 @@ Sur Blocaria, tu peux accéder à une boutique variée en utilisant la commande 
 
 Cette section détaille les différentes catégories d'articles disponibles à l'achat, chacun offrant des avantages spécifiques pour améliorer ton expérience de jeu.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:yellow;"><strong><code>/boutique</code></strong></mark></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:yellow;"><strong><code>/boutique</code></strong></mark></p></figcaption></figure>
 
 Voici un aperçu des différentes options disponibles dans la boutique : &#x20;
 
