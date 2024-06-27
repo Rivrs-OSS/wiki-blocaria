@@ -33,7 +33,7 @@ En augmentant tes niveaux dans chaque métier, tu obtiendras différentes récom
 
 <mark style="color:yellow;">**Paliers**</mark>** :** À chaque niveau atteint dans un métier, une récompense est accordée. Toutes les 5 récompenses, une récompense exclusive est réservée aux abonnés Premium.
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption><p><strong>Aperu du palier des </strong><mark style="color:yellow;"><strong>métiers</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption><p><strong>Aperçu du palier des </strong><mark style="color:yellow;"><strong>métiers</strong></mark></p></figcaption></figure>
 
 <mark style="color:yellow;">**Écusson**</mark>** :** Une fois arrivé au niveau 100 d’un métier, un écusson apparaît à côté de ton pseudonyme dans le TAB. Si tu as l'abonnement Premium, cet écusson est doré. Si tu as terminé 3 ou 4 métiers à 100%, les écussons changent toutes les 8 secondes pour afficher l’ensemble des métiers terminés. Si tu n’as pas de métier du tout, alors l’étoile de l’abonnement s’affiche si tu en possèdes un.
 
