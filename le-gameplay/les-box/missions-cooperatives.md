@@ -8,7 +8,7 @@ Pour augmenter la taille de ta box, tu dois compléter des missions en coopérat
 
 Utilise la commande <mark style="color:yellow;">**`/missions`**</mark> pour y accéder.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p><strong>Aperçu du</strong> <mark style="color:yellow;"><strong><code>/missions</code></strong></mark></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p><strong>Aperçu du</strong> <mark style="color:yellow;"><strong><code>/missions</code></strong></mark></p></figcaption></figure>
 
 ## <mark style="color:yellow;">Catégories de missions</mark>
 
