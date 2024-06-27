@@ -12,12 +12,13 @@ Dans le mode de jeu "box", le système de box est crucial. Voici comment il fonc
 
 <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p><strong>Aperçu d'un Box</strong></p></figcaption></figure>
 
-<mark style="color:yellow;">**Biomes customisés**</mark>** :** Lors de la création de ta box, tu apparaîtras dans un biome ressemblant à une plaine, mais enrichi en arbres, avec deux nouveaux animaux :&#x20;
+Tu peux ouvrir le menu de ta box grâce à la commande <mark style="color:yellow;">**`/box menu`**</mark>. Dans ce menu, tu retrouveras toutes les informations importantes pour gérer ta box.&#x20;
 
-* <mark style="color:yellow;">**Cerf**</mark>** :** Très utile pour commencer, il droppe du cuir et des bâtons.
-* <mark style="color:yellow;">**Écureuil**</mark>** :** Il droppe du cuir et des noisettes.
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:yellow;"><strong><code>/box menu</code></strong></mark></p></figcaption></figure>
 
-Grâce à ces drops personnalisés, tu découvriras dès le début que le serveur offre de nouveaux objets vendables au <mark style="color:yellow;">**`/shop`**</mark>.
+En haut du menu, tu trouveras : le <mark style="color:yellow;">**classement des box**</mark>, les <mark style="color:yellow;">**infos sur ta box**</mark>, et la <mark style="color:yellow;">**liste des missions coopératives**</mark>.
+
+La partie basse te permettra de : <mark style="color:yellow;">**réinitialiser ta box**</mark> si nécessaire, voir <mark style="color:yellow;">**les membres de ta box**</mark> et gérer les <mark style="color:yellow;">**différents rangs à l'intérieur**</mark>, afficher la <mark style="color:yellow;">**banque de la box**</mark> ainsi que l'historique des transactions, les <mark style="color:yellow;">**permissions**</mark> selon les différents rangs de la ville, les <mark style="color:yellow;">**paramètres généraux de la box**</mark>, les <mark style="color:yellow;">**blocs présents dans la box**</mark> à titre indicatif, les <mark style="color:yellow;">**nouveaux biomes**</mark> et leurs spécificités, ainsi que les différentes <mark style="color:yellow;">**améliorations possibles**</mark> pour ta box.
 
 ## <mark style="color:yellow;">**Biomes customisés**</mark>
 
@@ -25,7 +26,12 @@ Le système de biomes customisés modifie ton expérience de jeu en ajoutant des
 
 <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:yellow;"><strong><code>/box biome</code></strong></mark></p></figcaption></figure>
 
-Voici les nouveaux biomes et leurs spécificités :&#x20;
+Lors de la création de ta box, tu apparaîtras dans un biome ressemblant à une plaine, mais enrichi en arbres, avec deux nouveaux animaux :&#x20;
+
+* <mark style="color:yellow;">**Cerf**</mark>** :** Très utile pour commencer, il droppe du cuir et des bâtons.
+* <mark style="color:yellow;">**Écureuil**</mark>** :** Il droppe du cuir et des noisettes.
+
+Grâce à ces drops personnalisés, tu découvriras dès le début que le serveur offre de nouveaux objets vendables au <mark style="color:yellow;">**`/shop`**</mark>.
 
 ### <mark style="color:yellow;">**Biome Savane**</mark>
 
