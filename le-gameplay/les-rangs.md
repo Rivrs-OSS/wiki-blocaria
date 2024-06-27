@@ -6,6 +6,8 @@ description: Retrouvez ici toutes les informations concernant les rangs
 
 Sur le serveur Blocaria, les grades jouent un rôle crucial dans la progression et les avantages que chaque joueur peut obtenir.&#x20;
 
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:yellow;"><strong><code>/rangs</code></strong></mark></p></figcaption></figure>
+
 Voici une description détaillée de chaque grade et les avantages associés :&#x20;
 
 ## <mark style="color:yellow;">Paysan</mark>
