@@ -12,16 +12,16 @@ Cela te permettra non seulement de te positionner dans un classement indicatif, 
 
 Tu peux obtenir de la valeur en effectuant différentes actions liées aux divers métiers disponibles :&#x20;
 
-{% hint style="danger" %}
-Attention ! Tu ne pourras obtenir des points de valeur que si tu as débloqué le métier en question.
-{% endhint %}
-
 * <mark style="color:yellow;">**Fermier**</mark> : Récolter des cultures, reproduire des animaux, tondre des moutons et apprivoiser des animaux.
 * <mark style="color:yellow;">**Mineur**</mark> : Extraire des minerais et les faire cuire.
 * <mark style="color:yellow;">**Pêcheur**</mark> : Pêcher des ressources, cuire des poissons et les tuer directement.
 * <mark style="color:yellow;">**Chasseur**</mark> : Tuer des animaux, des monstres et des mobs personnalisés.
 * <mark style="color:yellow;">**Bûcheron**</mark> : Abattre des arbres, cuire le bois et l'écorcer.
 * <mark style="color:yellow;">**Explorateur**</mark> : (Fonctionnalité à venir !)
+
+{% hint style="danger" %}
+Attention ! Tu ne pourras obtenir des points de valeur que si tu as débloqué le métier en question.
+{% endhint %}
 
 Tu peux retrouver toutes les actions et leurs gains associés en effectuant la commande <mark style="color:yellow;">**`/jobs`**</mark>. Le menu des jobs s'ouvrira et il te suffira de choisir le métier qui t'intéresse pour connaître les gains.
 
