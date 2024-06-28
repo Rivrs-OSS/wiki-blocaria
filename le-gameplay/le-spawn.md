@@ -8,7 +8,7 @@ description: Retrouvez ici toutes les informations concernant le spawn
 
 Les zones importantes que tu as précédemment visitées sont disponibles dans le <mark style="color:yellow;">**`/codex`**</mark>.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:yellow;"><strong><code>/codex</code></strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:yellow;"><strong><code>/codex</code></strong></mark></p></figcaption></figure>
 
 Cela te permet de te téléporter directement à la zone de ton choix, facilitant ainsi tes déplacements et rendant ton exploration plus fluide.
 

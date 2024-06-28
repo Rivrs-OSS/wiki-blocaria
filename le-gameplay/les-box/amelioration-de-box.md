@@ -10,7 +10,7 @@ Tu peux retrouver le prix de ces améliorations dans le <mark style="color:yello
 
 Voici les différentes améliorations possibles :&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:yellow;"><strong><code>/box upgrade</code></strong></mark></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:yellow;"><strong><code>/box upgrade</code></strong></mark></p></figcaption></figure>
 
 ### <mark style="color:yellow;">N</mark><mark style="color:yellow;">**ombre de membres sur ta box**</mark>
 
@@ -27,7 +27,7 @@ Voici les différentes améliorations possibles :&#x20;
 
 * Permet d'augmenter la <mark style="color:yellow;">**production de minerais**</mark> dans ta box.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:yellow;"><strong><code>/gen</code></strong></mark></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:yellow;"><strong><code>/gen</code></strong></mark></p></figcaption></figure>
 
 ### <mark style="color:yellow;">L</mark><mark style="color:yellow;">**imite d’entonnoirs**</mark>
 

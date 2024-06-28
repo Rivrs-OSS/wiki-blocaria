@@ -6,17 +6,22 @@ description: Retrouvez ici toutes les informations concernant les classements
 
 En favorisant l'aspect non compétitif du serveur, les classements sont conçus pour être une source de divertissement pour chaque joueur plutôt qu'une source de compétition.
 
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:yellow;"><strong><code>/classements</code></strong></mark></p></figcaption></figure>
+
+À gauche du menu, tu peux retrouver tes statistiques, notamment tes points dans la catégorie sélectionnée et ta position dans celle-ci.
+
 {% hint style="warning" %}
 Il n’y aura aucune récompense pour chaque classement sauf deux exceptions.
 {% endhint %}
 
 ## <mark style="color:yellow;">Q</mark><mark style="color:yellow;">**uels sont les différents classements ?**</mark>
 
-{% hint style="info" %}
-À gauche du menu, tu peux retrouver tes stats, tes points dans la catégorie sélectionnée et ta position.
+* <mark style="color:yellow;">**Niveaux de Box**</mark> : Suivi des niveaux des box. Les membres de la meilleure box de chaque mois obtiendront un grade <mark style="color:yellow;">**Champion**</mark>, purement esthétique.&#x20;
+
+{% hint style="warning" %}
+Attention, ce grade est réinitialisé chaque début de mois pour laisser une chance aux autres. 😉
 {% endhint %}
 
-* <mark style="color:yellow;">**Niveaux de Box**</mark> : Suivi des niveaux des boxs. Les membres de la meilleure box de chaque mois obtiendront un grade <mark style="color:yellow;">**Champion**</mark>, purement esthétique.
 * <mark style="color:yellow;">**Vote**</mark> : Chaque fin de mois, les 10 meilleurs votants obtiendront des Gemmes en fonction de leur position dans le classement.
 * <mark style="color:yellow;">**Collections**</mark> : Chaque fois qu’un joueur ajoute un objet customisé dans sa collection, il obtient un point pour le classement collection. Cela donne une utilité à la collecte d’objets.
 * <mark style="color:yellow;">**Niveau de personnage**</mark> : Suivi des niveaux de personnage.

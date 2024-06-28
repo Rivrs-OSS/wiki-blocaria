@@ -12,7 +12,7 @@ Ce niveau permet de débloquer divers éléments du jeu et témoigne de ta progr
 
 Dans le menu du personnage <mark style="color:yellow;">**`/personnage`**</mark>, tu trouveras trois onglets principaux :&#x20;
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:yellow;"><strong><code>/personnage</code></strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:yellow;"><strong><code>/personnage</code></strong></mark></p></figcaption></figure>
 
 <mark style="color:yellow;">**Ressources Précieuses**</mark>** :** Cet onglet te montre en temps réel les ressources que tu peux ou ne peux plus échanger pour augmenter de niveau.&#x20;
 
