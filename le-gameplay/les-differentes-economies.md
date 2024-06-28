@@ -4,50 +4,45 @@ description: Retrouvez ici toutes les informations concernant les différentes �
 
 # 💰 Les Différentes Économies
 
-Les économies définissent les différents moyens de paiement disponibles en jeu.
+Les économies définissent les différents moyens de paiement disponibles en jeu.&#x20;
+
+Voici les différentes économies disponibles :
 
 ## <mark style="color:yellow;">**Quelles sont les différentes économies ?**</mark>
 
-<mark style="color:yellow;">**Yuzu (Ɏ)**</mark>** :**
+### <mark style="color:yellow;">Y</mark><mark style="color:yellow;">**uzu**</mark>
 
-* **Description :** La monnaie principale obtenue en vendant des objets dans le <mark style="color:yellow;">**`/shop`**</mark>.
-* **Utilisation :** Achat de divers items et services sur le serveur.
+Le Yuzu est la monnaie principale du serveur. Tu peux l'obtenir en participant aux différents métiers, en accomplissant des rituels, en étant actif sur le serveur, ou en vendant des objets dans le <mark style="color:yellow;">**`/shop`**</mark>. Cette monnaie est essentielle pour débloquer les améliorations de ta box et acheter certains items indispensables pour progresser dans le jeu.
 
-<mark style="color:yellow;">**Gemmes**</mark>** :**
+### <mark style="color:yellow;">Gemmes</mark>
 
-* **Description :** De couleur violette, elles représentent les crédits ou points boutique.
-* **Utilisation :** Achat d'objets spéciaux et de services premium.
+Les Gemmes, de couleur bleue, représentent les crédits ou points boutique du serveur. Elles te permettent d'acheter des objets spéciaux et des services premium qui ne sont pas disponibles via le Yuzu. Ces gemmes ajoutent une autre dimension à ton expérience de jeu en offrant des options exclusives et des avantages supplémentaires.
 
-<mark style="color:yellow;">**Crânes**</mark>** :**
+### <mark style="color:yellow;">Crânes</mark>
 
-* **Description :** L'économie parallèle obtenable en jouant et dans les caisses. Ils sont échangeables sur le marché noir et sont un prérequis pour certains trophées.
-* **Utilisation :** Achat d'objets exclusifs et spéciaux sur le marché noir.
+Les Crânes constituent une économie parallèle, obtenue en jouant activement dans ta box. Ils ajoutent une couche de stratégie et de complexité au jeu. Tu peux les échanger sur le marché noir contre des items inédits, et ils sont également nécessaires pour obtenir certains trophées.
 
 ### <mark style="color:yellow;">C</mark><mark style="color:yellow;">**’est quoi le système des crânes ?**</mark>
 
-Contrairement aux rituels qui ne sont pas obtenables en payant avec de l’XP, les crânes sont une ressource précieuse ajoutant une dimension stratégique au jeu. Ils sont obtenables de plusieurs façons :
+Les crânes sont une ressource précieuse qui apporte une dimension stratégique au jeu. Voici comment les obtenir :
 
-* **Dans **<mark style="color:yellow;">**les caisses**</mark> (gratuites et payantes)
-* En <mark style="color:yellow;">**tuant des monstres**</mark>, peu importe le type de créature.
-
-Chaque monstre tué donne une chance d’obtenir des crânes.
+* En détruisant des blocs, quel que soit le type de bloc, avec chaque bloc offrant une chance d'obtenir des crânes.
+* En tuant des monstres, quel que soit le type de créature, avec chaque monstre offrant une chance d'obtenir des crânes.
 
 ### <mark style="color:yellow;">C</mark><mark style="color:yellow;">**omment échanger les crânes ?**</mark>
 
-Pour échanger les crânes contre des objets, tu auras accès à un marché noir.&#x20;
+Pour échanger tes crânes contre des objets, tu peux accéder au marché noir.&#x20;
 
 Voici comment cela fonctionne :
 
-<mark style="color:yellow;">**Réinitialisation quotidienne**</mark>** :**
+<mark style="color:yellow;">**Réinitialisation quotidienne**</mark>
 
-* Tous les jours à 19h15, le marché noir est réinitialisé.
-* Une nouvelle liste de 5 objets est tirée aléatoirement.
+Chaque jour à 19h15, le marché noir est réinitialisé, offrant une nouvelle liste de cinq objets disponibles à l'achat.
 
-<mark style="color:yellow;">**Limites d'achat**</mark>** :**
+<mark style="color:yellow;">**Limites d'achat**</mark>
 
-* Chaque objet est achetable 3 fois pour l'ensemble du serveur.
-* **Exemple :** Pour 1500 crânes, tu peux acheter un générateur à vache, limité à 2 achats par joueur et 3 achats pour l'ensemble du serveur.
+Chaque objet peut être acheté trois fois au total pour l'ensemble du serveur. Par exemple, pour 1500 crânes, tu peux acquérir un générateur à vache, mais chaque joueur est limité à deux achats, et seulement trois générateurs peuvent être achetés par l'ensemble des joueurs.
 
 {% hint style="success" %}
-Le système des crânes et le marché noir ajoutent une couche de stratégie et de planification, encourageant les joueurs à participer activement pour obtenir des récompenses exclusives.
+Viens essayer toutes les monnaies et participe activement pour obtenir des récompenses exclusives !
 {% endhint %}
