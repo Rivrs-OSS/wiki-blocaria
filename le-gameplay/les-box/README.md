@@ -12,7 +12,7 @@ Dans le mode de jeu "box", le système de box est crucial. Voici comment il fonc
 
 Une fois créée, tu apparaîtras dans une zone de 4x4 blocs.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p><strong>Aperçu d'une Box</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p><strong>Aperçu d'une Box</strong></p></figcaption></figure>
 
 Tu peux ouvrir le menu de ta box grâce à la commande <mark style="color:yellow;">**`/box menu`**</mark>. Dans ce menu, tu retrouveras toutes les informations importantes pour gérer ta box.&#x20;
 
