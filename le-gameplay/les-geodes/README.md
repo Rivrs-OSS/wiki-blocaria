@@ -22,6 +22,8 @@ En concassant une géode, tu récupères une géode plus ou moins rare. Voici le
 * <mark style="color:yellow;">**Géode d’améthyste**</mark> (⭐⭐⭐⭐)
 * <mark style="color:yellow;">**Géode d’agate**</mark> (⭐⭐⭐⭐⭐)
 
+Lors du concassage, tu peux également obtenir de la <mark style="color:yellow;">**poudre de perlimpinpin**</mark>, essentielle pour augmenter tes niveaux de personnage et réparer tes objets à la forge.
+
 <mark style="color:yellow;">**Risques**</mark>** :** Il y a aussi une chance que la géode ne donne rien, avec un message indiquant “Oh mince ! La géode n’a rien donné…”.
 
 ## <mark style="color:yellow;">E</mark><mark style="color:yellow;">**t qu’est-ce que les joueurs font de leurs géodes ?**</mark>

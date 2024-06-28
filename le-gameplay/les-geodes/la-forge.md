@@ -10,7 +10,7 @@ Dans cette interface, tu retrouveras quatre éléments :
 
 <mark style="color:yellow;">**En haut à gauche**</mark> : L'item que tu souhaites réparer.
 
-<mark style="color:yellow;">**En haut à droite**</mark> : La [**poudre de perlimpinpin**](./)
+<mark style="color:yellow;">**En haut à droite**</mark> : La [**poudre de perlimpinpin**](./)**.**
 
 <mark style="color:yellow;">**Au milieu**</mark> : Le résultat de la réparation, incluant la durabilité de l'item.
 
