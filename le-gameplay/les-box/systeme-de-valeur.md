@@ -8,6 +8,10 @@ Comme mentionné précédemment, tu auras la possibilité et le devoir de créer
 
 Cela te permettra non seulement de te positionner dans un classement indicatif, mais aussi de te fixer des objectifs supplémentaires pour débloquer diverses améliorations de ta box.
 
+{% hint style="warning" %}
+À noter que les valeurs de box sont réinitialisées chaque mois.
+{% endhint %}
+
 ## <mark style="color:yellow;">C</mark><mark style="color:yellow;">**omment obtenir de la valeur ?**</mark>
 
 Tu peux obtenir de la valeur en effectuant différentes actions liées aux divers métiers disponibles :&#x20;
