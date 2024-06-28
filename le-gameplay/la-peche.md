@@ -11,7 +11,7 @@ Le système de pêche de Blocaria transforme complètement la pêche traditionne
 ### <mark style="color:yellow;">Affichage</mark>
 
 * La canne à pêche fait des allers-retours à la surface de l'eau, avec 1 à 3 poissons représentés par des triangles inversés.&#x20;
-* Clique lorsque la pointe de la canne est sous un triangle pour maximiser ta prise.&#x20;
+* Clique lorsque le point jaune de la canne est sous un triangle pour maximiser ta prise.&#x20;
 * Un clic au bon moment attrape un poisson supplémentaire. Sinon, le poisson s'échappe et la pêche est annulée.
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p><strong>Aperçu de l'interface de </strong><mark style="color:yellow;"><strong>pêche</strong></mark></p></figcaption></figure>
