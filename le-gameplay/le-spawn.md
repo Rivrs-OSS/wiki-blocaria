@@ -40,32 +40,32 @@ Tu pourras également retrouver certains PNJ dans le spawn proposant d'autres ar
 
 <mark style="color:yellow;">**Prestige Florist**</mark>** :**
 
-* <mark style="color:yellow;">**Produits**</mark>** :** Vends une variété de fleurs dans des pots de différentes tailles. Idéal pour décorer ta box et ajouter une touche de nature à ton espace.
+Vends une variété de fleurs dans des pots de différentes tailles. Idéal pour décorer ta box et ajouter une touche de nature à ton espace.
 
 <mark style="color:yellow;">**Minkea**</mark>** :**
 
-* <mark style="color:yellow;">**Produits**</mark>** :** Offre une large gamme de meubles uniques. Parfait pour personnaliser et meubler ton espace avec style et originalité.
+Offre une large gamme de meubles uniques. Parfait pour personnaliser et meubler ton espace avec style et originalité.
 
 <mark style="color:yellow;">**Poissonnier**</mark>** :**
 
-* <mark style="color:yellow;">**Produits**</mark>** :** Revend de poissons customisés et normaux (redirection du <mark style="color:yellow;">**`/fish shop`**</mark>).
+Revend de poissons customisés et normaux (redirection du <mark style="color:yellow;">**`/fish shop`**</mark>).
 
 <mark style="color:yellow;">**Antiquaire**</mark>** :**
 
-* <mark style="color:yellow;">**Produits**</mark>** :** Échange des géodes ouvertes contre des bijoux. Parfait pour obtenir des bijoux de base et commencer à équiper ton personnage.
+Échange des géodes ouvertes contre des bijoux. Parfait pour obtenir des bijoux de base et commencer à équiper ton personnage.
 
 <mark style="color:yellow;">**Crimson's Cosmetics**</mark>** :**
 
-* <mark style="color:yellow;">**Produits**</mark>** :** Propose un système de cosmétiques. Personnalise l'apparence de ton personnage avec des vêtements uniques et stylés.
+Propose un système de cosmétiques. Personnalise l'apparence de ton personnage avec des vêtements uniques et stylés.
 
 <mark style="color:yellow;">**Barmaid**</mark>
 
-* <mark style="color:yellow;">**Produits**</mark>** :** Vente de différentes boissons avec un pourcentage de récompense variable suivant la boisson choisie.
+Vente de différentes boissons avec un pourcentage de récompense variable suivant la boisson choisie.
 
 <mark style="color:yellow;">**Marché Noir**</mark>
 
-* <mark style="color:yellow;">**Produits**</mark>** :** 5 marchandises générées par jour, disponibles en quantité limitée et achetables uniquement avec des crânes.
+Permet d'acheter 5 marchandises générées par jour, disponibles en quantité limitée et achetables uniquement avec des crânes.
 
 <mark style="color:yellow;">**Forgeron**</mark>
 
-* <mark style="color:yellow;">**Produits**</mark>** :** Permet de réparer tes objets grâce à la poudre de perlimpinpin, garantissant la longévité de ton équipement.
+Permet de réparer tes objets grâce à la poudre de perlimpinpin, garantissant la longévité de ton équipement.
