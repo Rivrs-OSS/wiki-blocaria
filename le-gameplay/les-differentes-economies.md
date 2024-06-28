@@ -41,7 +41,7 @@ Chaque jour à 19h15, le marché noir est réinitialisé, offrant une nouvelle l
 
 <mark style="color:yellow;">**Limites d'achat**</mark>
 
-Chaque objet peut être acheté trois fois au total pour l'ensemble du serveur. Par exemple, pour 1500 crânes, tu peux acquérir un générateur à vache, mais chaque joueur est limité à deux achats, et seulement trois générateurs peuvent être achetés par l'ensemble des joueurs.
+La plupart des objets peuvent être achetés jusqu'à trois fois par joueur, avec certains articles limités à un achat minimum. Par exemple, pour 1500 crânes, tu peux acquérir un générateur à vache, mais chaque joueur est limité à deux achats par jour.
 
 {% hint style="success" %}
 Viens essayer toutes les monnaies et participe activement pour obtenir des récompenses exclusives !
