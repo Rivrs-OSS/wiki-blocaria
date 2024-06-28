@@ -10,10 +10,11 @@ Le système de pêche de Blocaria transforme complètement la pêche traditionne
 
 ### <mark style="color:yellow;">Affichage</mark>
 
-* Une canne à pêche fait des allers-retours et entre 1 et 3 poissons apparaissent à l'écran.
-* Si tu cliques au mauvais endroit, la pêche est annulée.
-* Si tu cliques au bon moment, tu peux attraper un poisson supplémentaire.
-* Si tu rates le moment pour attraper l'autre poisson, tu n'en récupères qu'un seul.
+* La canne à pêche effectue des allers-retours à la surface de l'eau, faisant apparaître entre 1 et 3 poissons à l'écran, représentés par des triangles inversés.
+* Pour maximiser ta prise, clique lorsque la pointe de la canne à pêche se trouve directement sous un triangle. Si tu cliques au mauvais moment, la pêche est annulée.
+* En cliquant au bon moment, tu peux attraper un poisson supplémentaire. Si tu rates ce moment, tu ne récupères qu'un seul poisson.
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p><strong>Aperçu de l'interface de </strong><mark style="color:yellow;"><strong>pêche</strong></mark></p></figcaption></figure>
 
 ### <mark style="color:yellow;">D</mark><mark style="color:yellow;">**es poissons customisés ?**</mark>
 
@@ -24,5 +25,5 @@ Oui, lors de la pêche, tu peux attraper un total de 15 poissons customisés, r�
 Les poissons peuvent être vendus à un marchand dans le spawn. Le prix de vente dépend du type de poisson, de sa rareté, de son poids et de sa longueur. De plus, pour certaines quêtes ou trophées, il pourra être nécessaire de fournir des poissons spécifiques pour progresser.
 
 {% hint style="success" %}
-Ce système de pêche innovant ajoute une dimension ludique et interactive à l'expérience de pêche, offrant des récompenses attractives et une nouvelle manière de s'engager dans le gameplay de Blocaria.
+Profite de ce mécanisme pour rendre chaque session de pêche encore plus amusante et gratifiante !
 {% endhint %}
