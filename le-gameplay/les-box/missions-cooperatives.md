@@ -65,4 +65,4 @@ Utilise la commande <mark style="color:yellow;">**`/missions`**</mark> pour y ac
 
 ### <mark style="color:yellow;">Or</mark><mark style="color:yellow;">**dre de réalisation des missions**</mark>&#x20;
 
-Pour pouvoir accéder aux niveaux de quête suivants, il est nécessaire de terminer la catégorie initiale.
+Pour accéder aux niveaux de quête suivants, vous devez d'abord terminer la catégorie initiale. Cependant, au sein de chaque catégorie, vous êtes libre d'effectuer les quêtes dans l'ordre de votre choix.

@@ -14,7 +14,11 @@ Dans le menu du personnage <mark style="color:yellow;">**`/personnage`**</mark>,
 
 <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:yellow;"><strong><code>/personnage</code></strong></mark></p></figcaption></figure>
 
-<mark style="color:yellow;">**Ressources Précieuses**</mark>** :** Cet onglet te montre en temps réel les ressources que tu peux ou ne peux plus échanger pour augmenter de niveau. Ce menu est interactif car les ressources requises changent au fil de ton aventure.
+<mark style="color:yellow;">**Ressources Précieuses**</mark>** :** Cet onglet te montre en temps réel les ressources que tu peux ou ne peux plus échanger pour augmenter de niveau.&#x20;
+
+{% hint style="warning" %}
+Ce menu est interactif car les ressources requises changent au fil de ton aventure.
+{% endhint %}
 
 <mark style="color:yellow;">**Dépôts de Ressources**</mark>** :** Cet onglet est destiné au placement des ressources précieuses pour augmenter ton niveau.
 
