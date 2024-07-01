@@ -6,6 +6,8 @@ description: Retrouvez ici toutes les informations concernant l'abonnement premi
 
 Grâce à l'abonnement premium, tu peux bénéficier d'avantages exclusifs qui amélioreront ton expérience de jeu. Chaque abonnement est cumulable, ce qui te permet de prolonger sa durée en en achetant plusieurs.
 
+<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:yellow;"><strong>Premium</strong></mark></p></figcaption></figure>
+
 ## <mark style="color:yellow;">Abonnement Premium</mark>
 
 <mark style="color:yellow;">**Prix**</mark>** :** 1800 gemmes - 1 mois, 3600 gemmes - 2 mois, 5130 gemmes (5% de réduction) - 3 mois
