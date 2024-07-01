@@ -19,7 +19,7 @@ Les machines personnalisées offrent la possibilité de transformer ou d'éditer
 * Seuls les joueurs ayant le niveau requis dans le métier de Mineur peuvent utiliser le Concasseur, même si un autre joueur le pose pour eux.
 * Les joueurs sans le niveau requis ne peuvent pas échanger les géodes concassées pour augmenter leur niveau de personnage ou avec l'antiquaire.
 
-### <mark style="color:yellow;">**Teinturerie**</mark>
+### <mark style="color:yellow;">**Teinturerie (À venir !)**</mark>
 
 <mark style="color:yellow;">**Fonction**</mark>** :** Permet de teindre le mobilier des joueurs dans la couleur souhaitée.
 
@@ -30,7 +30,7 @@ Les machines personnalisées offrent la possibilité de transformer ou d'éditer
 * Seuls les joueurs ayant le niveau requis dans le métier de Chasseur peuvent utiliser la Teinturerie, même si un autre joueur la pose pour eux.
 * Les joueurs ne peuvent pas utiliser la table de craft classique pour teindre le mobilier avec du colorant.
 
-### <mark style="color:yellow;">Puits</mark>
+### <mark style="color:yellow;">Puits</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">**(À venir !)**</mark>
 
 <mark style="color:yellow;">**Fonction**</mark>** :** Permet d’obtenir de l’eau de manière illimitée.
 

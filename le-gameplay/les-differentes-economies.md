@@ -10,9 +10,9 @@ Voici les différentes économies disponibles :
 
 ## <mark style="color:yellow;">**Quelles sont les différentes économies ?**</mark>
 
-### <mark style="color:yellow;">Y</mark><mark style="color:yellow;">**uzu**</mark>
+### <mark style="color:yellow;">Monnaie</mark>
 
-Le Yuzu est la monnaie principale du serveur. Tu peux l'obtenir en participant aux différents métiers, en accomplissant des rituels, en étant actif sur le serveur, ou en vendant des objets dans le <mark style="color:yellow;">**`/shop`**</mark>. Cette monnaie est essentielle pour débloquer les améliorations de ta box et acheter certains items indispensables pour progresser dans le jeu.
+La Monnaie est la devise principale du serveur. Tu peux l'obtenir en participant aux différents métiers, en accomplissant des rituels, en étant actif sur le serveur, ou en vendant des objets dans le <mark style="color:yellow;">**`/shop`**</mark>. Cette monnaie est essentielle pour débloquer les améliorations de ta box et acheter certains items indispensables pour progresser dans le jeu.
 
 ### <mark style="color:yellow;">Gemmes</mark>
 
