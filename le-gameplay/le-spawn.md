@@ -38,11 +38,11 @@ Attention, certains objets sont uniquement vendables.
 
 Tu pourras également retrouver certains PNJ dans le spawn proposant d'autres articles non disponibles dans le <mark style="color:yellow;">**`/shop`**</mark>. Voici les différents autres commerçants présents au <mark style="color:yellow;">**`/spawn`**</mark>, utiles pour la progression de ton aventure :
 
-<mark style="color:yellow;">**Prestige Florist**</mark>** :**
+<mark style="color:yellow;">**Fleuriste**</mark>** :**
 
 Vends une variété de fleurs dans des pots de différentes tailles. Idéal pour décorer ta box et ajouter une touche de nature à ton espace.
 
-<mark style="color:yellow;">**Minkea**</mark>** :**
+<mark style="color:yellow;">**Minekea**</mark>** :**
 
 Offre une large gamme de meubles uniques. Parfait pour personnaliser et meubler ton espace avec style et originalité.
 
@@ -54,7 +54,7 @@ Revend de poissons customisés et normaux (redirection du <mark style="color:yel
 
 Échange des géodes ouvertes contre des bijoux. Parfait pour obtenir des bijoux de base et commencer à équiper ton personnage.
 
-<mark style="color:yellow;">**Crimson's Cosmetics**</mark>** :**
+<mark style="color:yellow;">**Luxury Cosmetique**</mark>** :**
 
 Propose un système de cosmétiques. Personnalise l'apparence de ton personnage avec des vêtements uniques et stylés.
 

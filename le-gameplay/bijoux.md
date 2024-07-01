@@ -1,18 +1,18 @@
 ---
-description: Retrouvez ici toutes les informations concernant le RPG Inventory
+description: Retrouvez ici toutes les informations concernant les bijoux
 ---
 
-# ®️ RPG Inventory
+# ®️ Bijoux
 
-## <mark style="color:yellow;">C</mark><mark style="color:yellow;">**’est quoi RPG Inventory ?**</mark>
+## <mark style="color:yellow;">En quoi consiste les Bijoux</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">**?**</mark>
 
-Le système RPG Inventory permet aux joueurs d’avoir <mark style="color:yellow;">**quatre objets spéciaux**</mark> avec des capacités spécifiques.&#x20;
+Le système de bijoux permet aux joueurs d’avoir <mark style="color:yellow;">**quatre objets spéciaux**</mark> avec des capacités spécifiques.&#x20;
 
 Ce système peut être lucratif car certains de ces objets seront vendables dans notre boutique, favorisant ainsi le commerce entre joueurs. Ces objets peuvent également être mis en vente à l’hôtel des ventes.
 
 ## <mark style="color:yellow;">C</mark><mark style="color:yellow;">**omment ça fonctionne concrètement ?**</mark>
 
-Dans l’inventaire, quatre slots en haut à gauche sont bloqués et réservés pour le RPG Inventory. Chaque slot peut accueillir un type d’objet spécifique :&#x20;
+Dans l’inventaire, quatre slots en haut à gauche sont bloqués et réservés pour les bijoux. Chaque slot peut accueillir un type d’objet spécifique :&#x20;
 
 ### <mark style="color:blue;">Colliers</mark>
 

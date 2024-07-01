@@ -11,7 +11,7 @@
 
 * [📦 Les Box](le-gameplay/les-box/README.md)
   * [🪙 Système de Valeur](le-gameplay/les-box/systeme-de-valeur.md)
-  * [📜 Missions Coopératives](le-gameplay/les-box/missions-cooperatives.md)
+  * [📜 Missions](le-gameplay/les-box/missions.md)
   * [🔼 Amélioration de Box](le-gameplay/les-box/amelioration-de-box.md)
   * [👁️‍🗨️ Les Warps](le-gameplay/les-box/les-warps.md)
   * [🎁 Coffre de Vente](le-gameplay/les-box/coffre-de-vente.md)
@@ -21,7 +21,7 @@
 * [👑 Les Rangs](le-gameplay/les-rangs.md)
 * [🥇 Les Classements](le-gameplay/les-classements.md)
 * [🎪 Les Événements](le-gameplay/les-evenements.md)
-* [®️ RPG Inventory](le-gameplay/rpg-inventory.md)
+* [®️ Bijoux](le-gameplay/bijoux.md)
 * [🎣 La Pêche](le-gameplay/la-peche.md)
 * [📿 Les Rituels](le-gameplay/les-rituels.md)
 * [💰 Les Différentes Économies](le-gameplay/les-differentes-economies.md)

@@ -1,8 +1,8 @@
 ---
-description: Retrouvez ici toutes les informations concernant les missions coopératives
+description: Retrouvez ici toutes les informations concernant les missions
 ---
 
-# 📜 Missions Coopératives
+# 📜 Missions
 
 Pour augmenter la taille de ta box, tu dois compléter des missions en coopération avec les autres membres de ta box, s'il y en a.&#x20;
 
@@ -17,7 +17,7 @@ Utilise la commande <mark style="color:yellow;">**`/missions`**</mark> pour y ac
 * <mark style="color:yellow;">**Objectif**</mark>** :** Guider les joueurs dans leurs débuts pour qu'ils comprennent le jeu.
 * <mark style="color:yellow;">**Missions**</mark>** :** 20 missions à suivre dans un ordre précis.
 * <mark style="color:yellow;">**Récompenses**</mark>** :** Récompenses basiques pour aider au début de l'aventure. \
-  La dernière quête de l'introduction améliore la taille de ta box à 5x5.
+  La dernière mission de l'introduction améliore la taille de ta box à 5x5.
 * <mark style="color:yellow;">**Affichage**</mark>** :** Suivi des missions visible sur le scoreboard du serveur.
 
 ### <mark style="color:yellow;">Facile</mark>
@@ -65,4 +65,4 @@ Utilise la commande <mark style="color:yellow;">**`/missions`**</mark> pour y ac
 
 ### <mark style="color:yellow;">Or</mark><mark style="color:yellow;">**dre de réalisation des missions**</mark>&#x20;
 
-Pour accéder aux niveaux de quête suivants, vous devez d'abord terminer la catégorie initiale. Cependant, au sein de chaque catégorie, vous êtes libre d'effectuer les quêtes dans l'ordre de votre choix.
+Pour accéder aux niveaux de missions suivants, tu dois d'abord terminer la catégorie initiale. Cependant, au sein de chaque catégorie, tu es libre d'effectuer les missions dans l'ordre de ton choix.
