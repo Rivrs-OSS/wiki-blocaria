@@ -10,6 +10,7 @@
 ## LE GAMEPLAY
 
 * [📦 Les Box](le-gameplay/les-box/README.md)
+  * [🐅 Les Animaux](le-gameplay/les-box/les-animaux.md)
   * [🪙 Système de Valeur](le-gameplay/les-box/systeme-de-valeur.md)
   * [📜 Missions](le-gameplay/les-box/missions-cooperatives.md)
   * [🔼 Amélioration de Box](le-gameplay/les-box/amelioration-de-box.md)
