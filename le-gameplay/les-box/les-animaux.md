@@ -15,8 +15,8 @@ Une fois que tu as obtenu un œuf, place-le pour commencer le processus d'éclos
 Lorsque l'œuf est prêt à éclore, tu dois interagir avec lui pour finaliser l'éclosion. Il y a trois résultats possibles lors de l'éclosion :
 
 1. <mark style="color:yellow;">**Échec de la capture**</mark>** :** L'animal nouveau-né est hostile et tu ne reçois aucun bénéfice.
-2. <mark style="color:yellow;">**Capture réussie**</mark>** :** Tu obtiens un objet spécifique à l'animal et tu as la possibilité de l'apprivoiser.
-3. <mark style="color:yellow;">**Capture extraordinaire**</mark>** :** Tu obtiens un objet rare (<mark style="color:yellow;">**shiny**</mark>) de l'animal et tu as la possibilité de l'apprivoiser.
+2. <mark style="color:yellow;">**Capture réussie**</mark>** :** Tu obtiens un animal et tu as la possibilité de l'apprivoiser.
+3. <mark style="color:yellow;">**Capture extraordinaire**</mark>** :** Tu obtiens animal <mark style="color:yellow;">**shiny**</mark> et tu as la possibilité de l'apprivoiser.
 
 ### <mark style="color:yellow;">Inter</mark><mark style="color:yellow;">**action avec les Animaux**</mark>
 
