@@ -14,7 +14,7 @@
   * [📜 Missions](le-gameplay/les-box/missions-cooperatives.md)
   * [🔼 Amélioration de Box](le-gameplay/les-box/amelioration-de-box.md)
   * [🐅 Les Animaux](le-gameplay/les-box/les-animaux.md)
-  * [⛩️ Autels](le-gameplay/les-box/autels.md)
+  * [⛩️ Les Autels](le-gameplay/les-box/les-autels.md)
   * [👁️‍🗨️ Les Warps](le-gameplay/les-box/les-warps.md)
   * [🎁 Coffre de Vente](le-gameplay/les-box/coffre-de-vente.md)
 * [🌎 Le Spawn](le-gameplay/le-spawn.md)
