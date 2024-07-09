@@ -10,10 +10,11 @@
 ## LE GAMEPLAY
 
 * [📦 Les Box](le-gameplay/les-box/README.md)
-  * [🐅 Les Animaux](le-gameplay/les-box/les-animaux.md)
   * [🪙 Système de Valeur](le-gameplay/les-box/systeme-de-valeur.md)
   * [📜 Missions](le-gameplay/les-box/missions-cooperatives.md)
   * [🔼 Amélioration de Box](le-gameplay/les-box/amelioration-de-box.md)
+  * [🐅 Les Animaux](le-gameplay/les-box/les-animaux.md)
+  * [🐲 Hôtels et Boss](le-gameplay/les-box/hotels-et-boss.md)
   * [👁️‍🗨️ Les Warps](le-gameplay/les-box/les-warps.md)
   * [🎁 Coffre de Vente](le-gameplay/les-box/coffre-de-vente.md)
 * [🌎 Le Spawn](le-gameplay/le-spawn.md)

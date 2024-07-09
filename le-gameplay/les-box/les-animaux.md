@@ -6,7 +6,9 @@ description: Retrouvez ici toutes les informations concernant les animaux
 
 ## <mark style="color:yellow;">Animaux et Éclosion des Œufs</mark>
 
-Dans chaque biome, tu trouveras différents animaux. Ces animaux ont une faible chance de lâcher un œuf lorsqu'ils sont tués. Une fois que tu as obtenu un œuf, place-le pour commencer le processus d'éclosion. Le temps nécessaire pour que l'œuf éclot varie selon l'animal et sa rareté.
+Dans chaque biome, tu trouveras différents animaux. Ces animaux ont une faible chance de lâcher un œuf lorsqu'ils sont tués.&#x20;
+
+Une fois que tu as obtenu un œuf, place-le pour commencer le processus d'éclosion. Le temps nécessaire pour que l'œuf éclot varie selon l'animal et sa rareté.
 
 ### <mark style="color:yellow;">P</mark><mark style="color:yellow;">**rocessus d'Éclosion**</mark>
 
@@ -20,9 +22,9 @@ Lorsque l'œuf est prêt à éclore, tu dois interagir avec lui pour finaliser l
 
 Une fois la phase de capture terminée, tu peux interagir avec tes animaux via l'interface <mark style="color:yellow;">**`/pets`**</mark>. Grâce à cette interface, tu peux gérer tes familiers et récupérer des butins qu'ils ont collectés.
 
-### <mark style="color:yellow;">**Évolution des Familiers**</mark>
+### <mark style="color:yellow;">**Évolution des Animaux**</mark>
 
-Pour faire monter un familier en niveau, tu as deux options :
+Pour faire monter un animal en niveau, tu as deux options :
 
 1. <mark style="color:yellow;">**Fruits**</mark>** :** Obtenus en abattant des arbres, ces fruits permettent de faire évoluer l'animal.
 2. <mark style="color:yellow;">**Super Nourriture**</mark>** :** Une nourriture rare obtenue comme récompense lors des missions, dans des caisses, ou via les jobs. La super nourriture accélère davantage l'évolution de l'animal.
