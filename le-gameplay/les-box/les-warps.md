@@ -17,18 +17,25 @@ Ces warps peuvent être utilisés pour se déplacer rapidement à travers le mon
 * <mark style="color:yellow;">**Exploration Rapide**</mark>** :** Les warps permettent aux joueurs de se déplacer instantanément vers des endroits qu'ils ont déjà visités, facilitant ainsi l'exploration de nouvelles régions.
 * <mark style="color:yellow;">**Commerce et Échanges**</mark>** :** En créant des warps vers des endroits spécifiques comme des marchés, des magasins ou des zones d'échanges, les joueurs peuvent simplifier leurs transactions commerciales.
 
-## <mark style="color:yellow;">Commandes de PlayerWarp</mark>&#x20;
+## <mark style="color:yellow;">Commandes de PlayerWarp</mark>
 
-### <mark style="color:yellow;">Warps Personnels</mark>&#x20;
-
-* <mark style="color:yellow;">**`/pwarps create [...]`**</mark> : Crée un nouveau warp personnel avec le nom spécifié.
-* <mark style="color:yellow;">**`/pwarps delete [...]`**</mark> : Supprime le warp personnel spécifié.
-* <mark style="color:yellow;">**`/pwarps list`**</mark> : Affiche la liste de vos warps personnels.
-* <mark style="color:yellow;">**`/pwarps teleport [...]`**</mark> : Se téléporte au warp personnel spécifié.
-
-### <mark style="color:yellow;">Warps Publics</mark>
-
-* <mark style="color:yellow;">**`/pwarp [nom du warp]`**</mark> : Téléporte-vous au warp public spécifié.
-* <mark style="color:yellow;">**`/pwarp info [nom du warp]`**</mark> : Affiche des informations sur le warp public spécifié.
-* <mark style="color:yellow;">**`/pwarp list`**</mark> : Affiche une liste de tous les warps publics disponibles.
-* <mark style="color:yellow;">**`/pwarp setlocation [nom du warp]`**</mark> : Définit la position actuelle comme emplacement du warp public spécifié.
+* <mark style="color:yellow;">**`/pw help`**</mark> - Affiche ce menu.&#x20;
+* <mark style="color:yellow;">**`/pw`**</mark> - Téléporte au warp du joueur.&#x20;
+* <mark style="color:yellow;">**`/pw set`**</mark> - Défini un warp à votre emplacement.&#x20;
+* <mark style="color:yellow;">**`/pw remove`**</mark> - Supprime le warp.&#x20;
+* <mark style="color:yellow;">**`/pw removeall`**</mark> - Supprime tous les warps du joueur.&#x20;
+* <mark style="color:yellow;">**`/pw desc set/remove`**</mark> - Descriptions du warp.&#x20;
+* <mark style="color:yellow;">**`/pw list [page] [player]`**</mark> - Liste tous les warps des joueurs.&#x20;
+* <mark style="color:yellow;">**`/pw open [menu] [options]`**</mark> - Affiche le menu des warps.&#x20;
+* <mark style="color:yellow;">**`/pw amount`**</mark> - Vérifie combien de warps vous possédez.&#x20;
+* <mark style="color:yellow;">**`/pw reload`**</mark> - Recharge tous les fichiers de configuration.&#x20;
+* <mark style="color:yellow;">**`/pw icon set/remove`**</mark> - Défini une icône au warp.&#x20;
+* <mark style="color:yellow;">**`/pw addwarps`**</mark> - Ajoute des warps au joueur.&#x20;
+* <mark style="color:yellow;">**`/pw rate`**</mark> - Note un warp.&#x20;
+* <mark style="color:yellow;">**`/pw ban set/remove/list [player]`**</mark> - Banissement du warp.&#x20;
+* <mark style="color:yellow;">**`/pw managers set/remove/list [player]`**</mark> - Manage warp managers.&#x20;
+* <mark style="color:yellow;">**`/pw reset`**</mark> - Re-localisation du warp.&#x20;
+* <mark style="color:yellow;">**`/pw rename`**</mark> - Renomme le warp.&#x20;
+* <mark style="color:yellow;">**`/pw setowner`**</mark> - Transfère la propriété du warp.&#x20;
+* <mark style="color:yellow;">**`/pw favourite`**</mark> - Vos favoris.&#x20;
+* <mark style="color:yellow;">**`/pw info`**</mark> - Affiche les informations du warp.
