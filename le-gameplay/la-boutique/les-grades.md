@@ -14,21 +14,20 @@ Voici un aperçu détaillé de chaque grade, leurs avantages, et comment les obt
 
 <mark style="color:yellow;">**Prix**</mark>** :** 1250 gemmes
 
-<mark style="color:yellow;">**Avantages**</mark>** :**
+<mark style="color:yellow;">**Avantages**</mark>** :**&#x20;
 
 * <mark style="color:yellow;">**Préfixe VIP**</mark>
-* Accès à <mark style="color:yellow;">**1**</mark><mark style="color:yellow;">** **</mark><mark style="color:yellow;">**`/pv`**</mark><mark style="color:yellow;">** **</mark><mark style="color:yellow;">**supplémentaire**</mark>
-* Recherchez des <mark style="color:yellow;">**magasins**</mark> avec <mark style="color:yellow;">**`/qs find <item>`**</mark>
-* Créer <mark style="color:yellow;">**un**</mark> <mark style="color:yellow;">**warp supplémentaire**</mark> avec <mark style="color:yellow;">**`/pw set`**</mark>
+* Accès à <mark style="color:yellow;">**10 homes**</mark>
+* Accès à <mark style="color:yellow;">**10 slots HDV**</mark>
+* Accès à <mark style="color:yellow;">**10 coffres de vente**</mark>
 * Écrire <mark style="color:yellow;">**`[i]`**</mark> pour <mark style="color:yellow;">**montrer l'objet en main**</mark>
-* <mark style="color:yellow;">**File d'attente prioritaire**</mark> (niveau 1)
-* Temps d'<mark style="color:yellow;">**AFK**</mark> prolongé à <mark style="color:yellow;">**15 minutes**</mark>
+* Temps d'<mark style="color:yellow;">**AFK**</mark> prolongé à <mark style="color:yellow;">**20 minutes**</mark>
 * Accès à la <mark style="color:yellow;">**mine VIP**</mark>
 * Bonus à l'achat : <mark style="color:yellow;">**Clé Épique**</mark> (x1)
 
 <mark style="color:yellow;">**Commandes**</mark> :&#x20;
 
-* <mark style="color:yellow;">**`/profil`**</mark>, <mark style="color:yellow;">**`/poubelle`**</mark>, <mark style="color:yellow;">**`/feed`**</mark> (cooldown : 3 minutes)
+* <mark style="color:yellow;">**`/craft`**</mark>, <mark style="color:yellow;">**`/ec`**</mark>, <mark style="color:yellow;">**`/feed`**</mark>, <mark style="color:yellow;">**`/sell hand`**</mark>, <mark style="color:yellow;">**`/ptime`**</mark>, <mark style="color:yellow;">**`/pweather`**</mark>, <mark style="color:yellow;">**`/stonecutter`**</mark>
 
 ### <mark style="color:yellow;">Grade MVP</mark>
 
@@ -37,17 +36,18 @@ Voici un aperçu détaillé de chaque grade, leurs avantages, et comment les obt
 <mark style="color:yellow;">**Avantages**</mark>** :**
 
 * <mark style="color:yellow;">**Préfixe MVP**</mark>
-* Accès à <mark style="color:yellow;">**1**</mark><mark style="color:yellow;">** **</mark><mark style="color:yellow;">**`/pv`**</mark><mark style="color:yellow;">** **</mark><mark style="color:yellow;">**supplémentaire**</mark>
-* Créer <mark style="color:yellow;">**deux warps supplémentaires**</mark> avec <mark style="color:yellow;">**`/pw set`**</mark>
-* <mark style="color:yellow;">**File d'attente prioritaire**</mark> (niveau 2)
-* Temps d'<mark style="color:yellow;">**AFK**</mark> prolongé à <mark style="color:yellow;">**30 minutes**</mark>
+* Accès à <mark style="color:yellow;">**20 homes**</mark>
+* Accès à <mark style="color:yellow;">**20 slots HDV**</mark>
+* Accès à <mark style="color:yellow;">**15 coffres de vente**</mark>
+* Accès à <mark style="color:yellow;">**2 slots d'animaux supplémentaire**</mark>
+* Temps d'<mark style="color:yellow;">**AFK**</mark> prolongé à <mark style="color:yellow;">**35 minutes**</mark>
 * Accès à la <mark style="color:yellow;">**mine MVP**</mark>
-* Bonus à l'achat : <mark style="color:yellow;">**Clé Divine**</mark> (x1)
+* Bonus à l'achat : <mark style="color:yellow;">**Clé Divine**</mark> (x1) + <mark style="color:yellow;">**Potion d'XP métier**</mark> (x1)
 * <mark style="color:yellow;">**Avantages**</mark> des <mark style="color:yellow;">**grades précédents**</mark>
 
 <mark style="color:yellow;">**Commandes**</mark> : &#x20;
 
-* <mark style="color:yellow;">**`/craft`**</mark>, <mark style="color:yellow;">**`/repair`**</mark> (cooldown : 5 heures), <mark style="color:yellow;">**`/condense`**</mark> (cooldown : 5 minutes), <mark style="color:yellow;">**`/ptime`**</mark>, <mark style="color:yellow;">**`/enderchest`**</mark>, <mark style="color:yellow;">**`/pweather`**</mark> , <mark style="color:yellow;">**Commandes**</mark> des <mark style="color:yellow;">**grades précédents**</mark>
+* <mark style="color:yellow;">**`/furnace`**</mark>, <mark style="color:yellow;">**`/anvil`**</mark>, <mark style="color:yellow;">**`/condense`**</mark> (cooldown : 5 minutes), <mark style="color:yellow;">**`/back`**</mark>, <mark style="color:yellow;">**`/xp bottle`**</mark>, <mark style="color:yellow;">**`/repair`**</mark> (cooldown : 5 heures), <mark style="color:yellow;">**Commandes**</mark> des <mark style="color:yellow;">**grades précédents**</mark>
 
 ### <mark style="color:yellow;">Grade Légende</mark>
 
@@ -56,17 +56,21 @@ Voici un aperçu détaillé de chaque grade, leurs avantages, et comment les obt
 <mark style="color:yellow;">**Avantages**</mark>** :**
 
 * <mark style="color:yellow;">**Préfixe Légende**</mark>
-* Accès à <mark style="color:yellow;">**2**</mark><mark style="color:yellow;">** **</mark><mark style="color:yellow;">**`/pv`**</mark><mark style="color:yellow;">** **</mark><mark style="color:yellow;">**supplémentaires**</mark>
-* Créer <mark style="color:yellow;">**trois warps supplémentaires**</mark> avec <mark style="color:yellow;">**`/pw set`**</mark>
-* <mark style="color:yellow;">**File d'attente prioritaire**</mark> (niveau 3)
+* Accès à <mark style="color:yellow;">**30 homes**</mark>
+* Accès à <mark style="color:yellow;">**30 slots HDV**</mark>
+* Accès à <mark style="color:yellow;">**30 coffres de vente**</mark>
+* Accès à <mark style="color:yellow;">**5 slots d'animaux supplémentaire**</mark>
+* Accès à <mark style="color:yellow;">**1 slots de bijoux supplémentaire**</mark>
 * Temps d'<mark style="color:yellow;">**AFK**</mark> prolongé à <mark style="color:yellow;">**1 heure**</mark>
 * Accès à la <mark style="color:yellow;">**mine Légende**</mark>
-* Bonus à l'achat : <mark style="color:yellow;">**Clé Divine**</mark> (x2)
+* Pas de <mark style="color:yellow;">**cooldown**</mark> sur la <mark style="color:yellow;">**téléportation**</mark>
+* Pas de <mark style="color:yellow;">**perte d'XP à la mort**</mark>
+* Bonus à l'achat : <mark style="color:yellow;">**Clé Divine**</mark> (x2), <mark style="color:yellow;">**Potion d'XP métier**</mark> (x1), <mark style="color:yellow;">**Clé Cosmétique**</mark> (x1)
 * <mark style="color:yellow;">**Avantages**</mark> des <mark style="color:yellow;">**grades précédents**</mark>
 
 <mark style="color:yellow;">**Commandes**</mark> :&#x20;
 
-* <mark style="color:yellow;">**`/fly`**</mark> (illimité), <mark style="color:yellow;">**`/anvil`**</mark>, <mark style="color:yellow;">**`/sell all`**</mark>, <mark style="color:yellow;">**`/hat`**</mark>, <mark style="color:yellow;">**`/invsee`**</mark>, <mark style="color:yellow;">**`/repair`**</mark> (cooldown : 2 heures), <mark style="color:yellow;">**`/glow`**</mark> (Requiert <mark style="color:yellow;">**VIP Premium**</mark>)
+* <mark style="color:yellow;">**`/repair all`**</mark>, <mark style="color:yellow;">**`/hat`**</mark>, <mark style="color:yellow;">**`/sell all`**</mark>, <mark style="color:yellow;">**`/heal`**</mark>, <mark style="color:yellow;">**`/nick`**</mark>, <mark style="color:yellow;">**`/fly`**</mark> (illimité), <mark style="color:yellow;">**`/glow`**</mark> (le premier offert)
 
 ### <mark style="color:yellow;">Grade Champion</mark>
 
