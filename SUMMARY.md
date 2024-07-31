@@ -32,6 +32,7 @@
 * [🛠️ Les Machines](le-gameplay/les-machines.md)
 * [🏦 Hôtel des Ventes](le-gameplay/hotel-des-ventes.md)
 * [📚 Les Collections](le-gameplay/les-collections.md)
+* [🎁 Les Caisses](le-gameplay/les-caisses.md)
 * [💎 La Boutique](le-gameplay/la-boutique/README.md)
   * [👑 Les Grades](le-gameplay/la-boutique/les-grades.md)
   * [🎗️ Abonnement Premium](le-gameplay/la-boutique/abonnement-premium.md)
