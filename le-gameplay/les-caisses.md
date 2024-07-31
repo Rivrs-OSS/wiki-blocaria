@@ -43,3 +43,7 @@ La clé de la Caisse Vote s'obtient en votant pour le serveur avec la commande <
 | <mark style="color:green;">**Éponge**</mark> (x1)                                                      | <mark style="color:green;">**4%**</mark>   |
 | <mark style="color:green;">**Diamant**</mark> (x12)                                                    | <mark style="color:green;">**6%**</mark>   |
 | <mark style="color:yellow;">**25.000**</mark>💰                                                        | <mark style="color:yellow;">**15%**</mark> |
+
+## <mark style="color:blue;">Caisse Cosmétique</mark>
+
+La clé de la Caisse Cosmétique s'obtient en l'achetant dans le <mark style="color:blue;">**`/vip`**</mark> au prix de 300 Gemmes, ou en participant à des events.
