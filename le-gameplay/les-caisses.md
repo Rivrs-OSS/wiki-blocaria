@@ -14,99 +14,34 @@ Il existe différents moyens d'obtenir des clés : en les achetant dans la bouti
 
 La clé de la Caisse Vote s'obtient en votant pour le serveur avec la commande <mark style="color:green;">**`/vote`**</mark>.
 
-| Récompense                                                                                             | Chance (%)                                 |
-| ------------------------------------------------------------------------------------------------------ | ------------------------------------------ |
-| <mark style="color:purple;">**Clé Épique**</mark> (x1)                                                 | <mark style="color:purple;">**1%**</mark>  |
-| <mark style="color:blue;">**Clé Cosmétique**</mark> (x1)                                               | <mark style="color:blue;">**2%**</mark>    |
-| <mark style="color:purple;">**Générateur Mystère**</mark> (x1)                                         | <mark style="color:purple;">**1%**</mark>  |
-| <mark style="color:green;">**Icône Bonbon**</mark>                                                     | <mark style="color:green;">**2%**</mark>   |
-| <mark style="color:green;">**Votre tête**</mark> (x1)                                                  | <mark style="color:green;">**3%**</mark>   |
-| <mark style="color:green;">**Tête de Wither**</mark> (x1)                                              | <mark style="color:green;">**3%**</mark>   |
-| <mark style="color:blue;">**Objet Mystère**</mark> (x1)                                                | <mark style="color:blue;">**3%**</mark>    |
-| <mark style="color:green;">**Spawner à vache**</mark> (x1)                                             | <mark style="color:green;">**4%**</mark>   |
-| <mark style="color:green;">**Abonnement**</mark> [⭐](https://emojipedia.org/fr/%C3%A9toile) (4 heures) | <mark style="color:green;">**2%**</mark>   |
-| <mark style="color:blue;">**Fourche Rare**</mark>                                                      | <mark style="color:blue;">**3%**</mark>    |
-| <mark style="color:green;">**Druse d'Améthyste**</mark> (x1)                                           | <mark style="color:green;">**3%**</mark>   |
-| <mark style="color:green;">**Livre enchanté**</mark> (Mending)                                         | <mark style="color:green;">**3%**</mark>   |
-| <mark style="color:green;">**5 Gemmes**</mark>                                                         | <mark style="color:green;">**1%**</mark>   |
-| <mark style="color:blue;">**Cristal Rare**</mark>                                                      | <mark style="color:blue;">**1%**</mark>    |
-| <mark style="color:blue;">**Rituel Rare**</mark>                                                       | <mark style="color:blue;">**3%**</mark>    |
-| <mark style="color:blue;">**Boost Métier**</mark> (x1)                                                 | <mark style="color:blue;">**5%**</mark>    |
-| <mark style="color:yellow;">**75.000**</mark>💰                                                        | <mark style="color:yellow;">**4%**</mark>  |
-| <mark style="color:green;">**2500 XP**</mark>                                                          | <mark style="color:green;">**6%**</mark>   |
-| <mark style="color:yellow;">**50.000**</mark>💰                                                        | <mark style="color:yellow;">**5%**</mark>  |
-| <mark style="color:green;">**Coquille de shulker**</mark> (x1)                                         | <mark style="color:green;">**2%**</mark>   |
-| <mark style="color:green;">**1000 XP**</mark>                                                          | <mark style="color:green;">**7%**</mark>   |
-| <mark style="color:green;">**Spawner à cochon**</mark> (x1)                                            | <mark style="color:green;">**4%**</mark>   |
-| <mark style="color:green;">**Fragment de netherite**</mark> (x2)                                       | <mark style="color:green;">**6%**</mark>   |
-| <mark style="color:green;">**Bloc de terre**</mark> (x32)                                              | <mark style="color:green;">**15%**</mark>  |
-| <mark style="color:green;">**Éponge**</mark> (x1)                                                      | <mark style="color:green;">**4%**</mark>   |
-| <mark style="color:green;">**Diamant**</mark> (x12)                                                    | <mark style="color:green;">**6%**</mark>   |
-| <mark style="color:yellow;">**25.000**</mark>💰                                                        | <mark style="color:yellow;">**15%**</mark> |
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p><strong>Aperçu de la Caisse Vote</strong></p></figcaption></figure>
+
+<table><thead><tr><th width="437">Récompense</th><th>Chance </th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>Clé Épique</strong></mark> (x1)</td><td><mark style="color:purple;"><strong>1%</strong></mark></td></tr><tr><td><mark style="color:blue;"><strong>Clé Cosmétique</strong></mark> (x1)</td><td><mark style="color:blue;"><strong>2%</strong></mark></td></tr><tr><td><mark style="color:purple;"><strong>Générateur Mystère</strong></mark> (x1)</td><td><mark style="color:purple;"><strong>1%</strong></mark></td></tr><tr><td><mark style="color:green;"><strong>Icône Bonbon</strong></mark></td><td><mark style="color:green;"><strong>2%</strong></mark></td></tr><tr><td><mark style="color:green;"><strong>Votre tête</strong></mark> (x1)</td><td><mark style="color:green;"><strong>3%</strong></mark></td></tr><tr><td><mark style="color:green;"><strong>Tête de Wither</strong></mark> (x1)</td><td><mark style="color:green;"><strong>3%</strong></mark></td></tr><tr><td><mark style="color:blue;"><strong>Objet Mystère</strong></mark> (x1)</td><td><mark style="color:blue;"><strong>3%</strong></mark></td></tr><tr><td><mark style="color:green;"><strong>Spawner à vache</strong></mark> (x1)</td><td><mark style="color:green;"><strong>4%</strong></mark></td></tr><tr><td><mark style="color:green;"><strong>Abonnement</strong></mark> <a href="https://emojipedia.org/fr/%C3%A9toile">⭐</a> (4 heures)</td><td><mark style="color:green;"><strong>2%</strong></mark></td></tr><tr><td><mark style="color:blue;"><strong>Fourche Rare</strong></mark></td><td><mark style="color:blue;"><strong>3%</strong></mark></td></tr><tr><td><mark style="color:green;"><strong>Druse d'Améthyste</strong></mark> (x1)</td><td><mark style="color:green;"><strong>3%</strong></mark></td></tr><tr><td><mark style="color:green;"><strong>Livre enchanté</strong></mark> (Mending)</td><td><mark style="color:green;"><strong>3%</strong></mark></td></tr><tr><td><mark style="color:green;"><strong>5 Gemmes</strong></mark></td><td><mark style="color:green;"><strong>1%</strong></mark></td></tr><tr><td><mark style="color:blue;"><strong>Cristal Rare</strong></mark> </td><td><mark style="color:blue;"><strong>1%</strong></mark></td></tr><tr><td><mark style="color:blue;"><strong>Rituel Rare</strong></mark></td><td><mark style="color:blue;"><strong>3%</strong></mark></td></tr><tr><td><mark style="color:blue;"><strong>Boost Métier</strong></mark> (x1)</td><td><mark style="color:blue;"><strong>5%</strong></mark></td></tr><tr><td><mark style="color:yellow;"><strong>75.000</strong></mark>💰</td><td><mark style="color:yellow;"><strong>4%</strong></mark></td></tr><tr><td><mark style="color:green;"><strong>2500 XP</strong></mark></td><td><mark style="color:green;"><strong>6%</strong></mark></td></tr><tr><td><mark style="color:yellow;"><strong>50.000</strong></mark>💰</td><td><mark style="color:yellow;"><strong>5%</strong></mark></td></tr><tr><td><mark style="color:green;"><strong>Coquille de shulker</strong></mark> (x1)</td><td><mark style="color:green;"><strong>2%</strong></mark></td></tr><tr><td><mark style="color:green;"><strong>1000 XP</strong></mark></td><td><mark style="color:green;"><strong>7%</strong></mark></td></tr><tr><td><mark style="color:green;"><strong>Spawner à cochon</strong></mark> (x1)</td><td><mark style="color:green;"><strong>4%</strong></mark></td></tr><tr><td><mark style="color:green;"><strong>Fragment de netherite</strong></mark> (x2)</td><td><mark style="color:green;"><strong>6%</strong></mark></td></tr><tr><td><mark style="color:green;"><strong>Bloc de terre</strong></mark> (x32)</td><td><mark style="color:green;"><strong>15%</strong></mark></td></tr><tr><td><mark style="color:green;"><strong>Éponge</strong></mark> (x1)</td><td><mark style="color:green;"><strong>4%</strong></mark></td></tr><tr><td><mark style="color:green;"><strong>Diamant</strong></mark> (x12)</td><td><mark style="color:green;"><strong>6%</strong></mark></td></tr><tr><td><mark style="color:yellow;"><strong>25.000</strong></mark>💰</td><td><mark style="color:yellow;"><strong>15%</strong></mark></td></tr></tbody></table>
 
 ## <mark style="color:blue;">Caisse Cosmétique</mark>
 
 La clé de la Caisse Cosmétique s'obtient en l'achetant dans le <mark style="color:blue;">**`/vip`**</mark> au prix de 300 Gemmes, ou en participant à des events.
 
-| Récompense                                              | Chance (%) |
-| ------------------------------------------------------- | ---------- |
-| <mark style="color:red;">**Chapeau Burger**</mark>      |            |
-| <mark style="color:red;">**Sac'otdog**</mark>           |            |
-| <mark style="color:red;">**Cha' popcorn**</mark>        |            |
-| <mark style="color:red;">**Pince à Champi'**</mark>     |            |
-| <mark style="color:red;">**Pac'bags**</mark>            |            |
-| <mark style="color:yellow;">**Sac à pièce**</mark>      |            |
-| <mark style="color:yellow;">**Pièce endiablée**</mark>  |            |
-| <mark style="color:yellow;">**Pacm'hat**</mark>         |            |
-| <mark style="color:yellow;">**Pizz'hat hut**</mark>     |            |
-| <mark style="color:yellow;">**Machine d'arcade**</mark> |            |
-| <mark style="color:purple;">**Manetto's Geek**</mark>   |            |
-| <mark style="color:purple;">**Enjoy' Stick**</mark>     |            |
-| <mark style="color:blue;">**Chapeau de glace**</mark>   |            |
-| <mark style="color:blue;">**Chapeau de frite**</mark>   |            |
-| <mark style="color:blue;">**Donut au chocolat**</mark>  |            |
-| <mark style="color:blue;">**Casque audio**</mark>       |            |
-| <mark style="color:blue;">**Mozza Stick's**</mark>      |            |
-| <mark style="color:blue;">**Soda américain**</mark>     |            |
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p><strong>Aperçu de la Caisse Cosmétique</strong></p></figcaption></figure>
 
-| Récompense                                                     | Chance |
-| -------------------------------------------------------------- | ------ |
-| <mark style="color:purple;">**Lame Épique**</mark>             |        |
-| <mark style="color:purple;">**Couperet Épique**</mark>         |        |
-| <mark style="color:purple;">**Foreuse Épique**</mark>          |        |
-| <mark style="color:purple;">**Fourche Épique**</mark>          |        |
-| <mark style="color:purple;">**Bâton Épique**</mark>            |        |
-| <mark style="color:purple;">**Canne Épique**</mark>            |        |
-| <mark style="color:purple;">**Oeuf Épique**</mark>             |        |
-| <mark style="color:purple;">**Amulette Épique**</mark>         |        |
-| <mark style="color:yellow;">**200.000**</mark>💰               |        |
-| <mark style="color:purple;">**Générateur Mystère**</mark> (x2) |        |
-| <mark style="color:purple;">**Bonbon**</mark> (x3)             |        |
-| <mark style="color:purple;">**Rituel Épique**</mark>           |        |
-| <mark style="color:red;">**Boost Métier**</mark>               |        |
-| <mark style="color:purple;">**Clé Épique**</mark> (x2)         |        |
-| <mark style="color:red;">**Clé Divine**</mark>                 |        |
-| <mark style="color:purple;">**Shulker Violette**</mark> (x3)   |        |
-| <mark style="color:purple;">**Oeuf de dragon**</mark> (x2)     |        |
-| <mark style="color:purple;">**Icône de Météorite**</mark>      |        |
+<table><thead><tr><th width="437">Récompense</th><th>Chance (%)</th></tr></thead><tbody><tr><td><mark style="color:red;"><strong>Chapeau Burger</strong></mark></td><td></td></tr><tr><td><mark style="color:red;"><strong>Sac'otdog</strong></mark></td><td></td></tr><tr><td><mark style="color:red;"><strong>Cha' popcorn</strong></mark></td><td></td></tr><tr><td><mark style="color:red;"><strong>Pince à Champi'</strong></mark></td><td></td></tr><tr><td><mark style="color:red;"><strong>Pac'bags</strong></mark></td><td></td></tr><tr><td><mark style="color:yellow;"><strong>Sac à pièce</strong></mark></td><td></td></tr><tr><td><mark style="color:yellow;"><strong>Pièce endiablée</strong></mark></td><td></td></tr><tr><td><mark style="color:yellow;"><strong>Pacm'hat</strong></mark></td><td></td></tr><tr><td><mark style="color:yellow;"><strong>Pizz'hat hut</strong></mark></td><td></td></tr><tr><td><mark style="color:yellow;"><strong>Machine d'arcade</strong></mark></td><td></td></tr><tr><td><mark style="color:purple;"><strong>Manetto's Geek</strong></mark></td><td></td></tr><tr><td><mark style="color:purple;"><strong>Enjoy' Stick</strong></mark></td><td></td></tr><tr><td><mark style="color:blue;"><strong>Chapeau de glace</strong></mark></td><td></td></tr><tr><td><mark style="color:blue;"><strong>Chapeau de frite</strong></mark></td><td></td></tr><tr><td><mark style="color:blue;"><strong>Donut au chocolat</strong></mark></td><td></td></tr><tr><td><mark style="color:blue;"><strong>Casque audio</strong></mark></td><td></td></tr><tr><td><mark style="color:blue;"><strong>Mozza Stick's</strong></mark></td><td></td></tr><tr><td><mark style="color:blue;"><strong>Soda américain</strong></mark></td><td></td></tr></tbody></table>
 
-| Récompense                                                         | Chance |
-| ------------------------------------------------------------------ | ------ |
-| <mark style="color:red;">**Casque Divin**</mark>                   |        |
-| <mark style="color:red;">**Plastron Divin**</mark>                 |        |
-| <mark style="color:red;">**Pantalon Divin**</mark>                 |        |
-| <mark style="color:red;">**Bottes Divine**</mark>                  |        |
-| <mark style="color:red;">**Lame Céleste**</mark>                   |        |
-| <mark style="color:red;">**Foreuse Généreuse**</mark>              |        |
-| <mark style="color:red;">**Fourche Divine**</mark>                 |        |
-| <mark style="color:red;">**Marteau danté**</mark>                  |        |
-| <mark style="color:red;">**Canne Éloquente**</mark>                |        |
-| <mark style="color:red;">**Couperet Divin**</mark>                 |        |
-| <mark style="color:red;">**Bâton Divin**</mark>                    |        |
-| <mark style="color:red;">**Amulette Divine**</mark>                |        |
-| <mark style="color:red;">**Oeuf Divin**</mark>                     |        |
-| <mark style="color:yellow;">**750.000**</mark>💰                   |        |
-| <mark style="color:purple;">**Générateur Mystère**</mark> **(x4)** |        |
-| <mark style="color:red;">**Bonbon**</mark> **(x2)**                |        |
-| <mark style="color:red;">**Clé Divine**</mark> **(x2)**            |        |
-| <mark style="color:red;">**Icône de TNT**</mark>                   |        |
+## <mark style="color:purple;">Caisse Épique</mark>
+
+La clé de la Caisse Émeraude s'obtient en l'achetant dans le <mark style="color:purple;">**`/vip`**</mark> au prix de 450 Gemmes, ou en participant à des events.
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p><strong>Aperçu de la Caisse Épique</strong></p></figcaption></figure>
+
+<table><thead><tr><th width="437">Récompense</th><th>Chance</th></tr></thead><tbody><tr><td><mark style="color:purple;"><strong>Lame Épique</strong></mark></td><td></td></tr><tr><td><mark style="color:purple;"><strong>Couperet Épique</strong></mark></td><td></td></tr><tr><td><mark style="color:purple;"><strong>Foreuse Épique</strong></mark></td><td></td></tr><tr><td><mark style="color:purple;"><strong>Fourche Épique</strong></mark></td><td></td></tr><tr><td><mark style="color:purple;"><strong>Bâton Épique</strong></mark></td><td></td></tr><tr><td><mark style="color:purple;"><strong>Canne Épique</strong></mark></td><td></td></tr><tr><td><mark style="color:purple;"><strong>Oeuf Épique</strong></mark></td><td></td></tr><tr><td><mark style="color:purple;"><strong>Amulette Épique</strong></mark></td><td></td></tr><tr><td><mark style="color:yellow;"><strong>200.000</strong></mark>💰</td><td></td></tr><tr><td><mark style="color:purple;"><strong>Générateur Mystère</strong></mark> (x2)</td><td></td></tr><tr><td><mark style="color:purple;"><strong>Bonbon</strong></mark> (x3)</td><td></td></tr><tr><td><mark style="color:purple;"><strong>Rituel Épique</strong></mark></td><td></td></tr><tr><td><mark style="color:red;"><strong>Boost Métier</strong></mark></td><td></td></tr><tr><td><mark style="color:purple;"><strong>Clé Épique</strong></mark> (x2)</td><td></td></tr><tr><td><mark style="color:red;"><strong>Clé Divine</strong></mark></td><td></td></tr><tr><td><mark style="color:purple;"><strong>Shulker Violette</strong></mark> (x3)</td><td></td></tr><tr><td><mark style="color:purple;"><strong>Oeuf de dragon</strong></mark> (x2)</td><td></td></tr><tr><td><mark style="color:purple;"><strong>Icône de Météorite</strong></mark></td><td></td></tr></tbody></table>
+
+## <mark style="color:red;">Caisse Divine</mark>
+
+La clé de la Caisse Rubis s'obtient en l'achetant dans le <mark style="color:red;">**`/vip`**</mark> au prix de 750 Gemmes.
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p><strong>Aperçu de la Caisse Divine</strong></p></figcaption></figure>
+
+<table><thead><tr><th width="437">Récompense</th><th>Chance</th></tr></thead><tbody><tr><td><mark style="color:red;"><strong>Casque Divin</strong></mark></td><td></td></tr><tr><td><mark style="color:red;"><strong>Plastron Divin</strong></mark></td><td></td></tr><tr><td><mark style="color:red;"><strong>Pantalon Divin</strong></mark></td><td></td></tr><tr><td><mark style="color:red;"><strong>Bottes Divine</strong></mark></td><td></td></tr><tr><td><mark style="color:red;"><strong>Lame Céleste</strong></mark></td><td></td></tr><tr><td><mark style="color:red;"><strong>Foreuse Généreuse</strong></mark></td><td></td></tr><tr><td><mark style="color:red;"><strong>Fourche Divine</strong></mark></td><td></td></tr><tr><td><mark style="color:red;"><strong>Marteau danté</strong></mark></td><td></td></tr><tr><td><mark style="color:red;"><strong>Canne Éloquente</strong></mark></td><td></td></tr><tr><td><mark style="color:red;"><strong>Couperet Divin</strong></mark></td><td></td></tr><tr><td><mark style="color:red;"><strong>Bâton Divin</strong></mark></td><td></td></tr><tr><td><mark style="color:red;"><strong>Amulette Divine</strong></mark></td><td></td></tr><tr><td><mark style="color:red;"><strong>Oeuf Divin</strong></mark></td><td></td></tr><tr><td><mark style="color:yellow;"><strong>750.000</strong></mark>💰</td><td></td></tr><tr><td><mark style="color:purple;"><strong>Générateur Mystère</strong></mark> <strong>(x4)</strong></td><td></td></tr><tr><td><mark style="color:red;"><strong>Bonbon</strong></mark> <strong>(x2)</strong></td><td></td></tr><tr><td><mark style="color:red;"><strong>Clé Divine</strong></mark> <strong>(x2)</strong></td><td></td></tr><tr><td><mark style="color:red;"><strong>Icône de TNT</strong></mark></td><td></td></tr></tbody></table>
+
+{% hint style="success" %}
+Tentez votre chance et ouvrez des caisses sur Blocaria !
+{% endhint %}

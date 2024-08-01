@@ -12,7 +12,7 @@ Dans le mode de jeu "box", le système de box est crucial. Voici comment il fonc
 
 Une fois créée, tu apparaîtras dans une zone de 4x4 blocs.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p><strong>Aperçu d'une Box</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p><strong>Aperçu d'une Box</strong></p></figcaption></figure>
 
 Tu peux ouvrir le menu de ta box grâce à la commande <mark style="color:yellow;">**`/box menu`**</mark>. Dans ce menu, tu retrouveras toutes les informations importantes pour gérer ta box.&#x20;
 
@@ -30,7 +30,7 @@ Plus tu accomplis de missions coopératives, plus la taille de ta box s'étend, 
 
 <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p><strong>Aperçu de la </strong><mark style="color:yellow;"><strong>map</strong></mark></p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:yellow;"><strong><code>/box biome</code></strong></mark></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:yellow;"><strong><code>/box biome</code></strong></mark></p></figcaption></figure>
 
 Lors de la création de ta box, tu apparaîtras dans un biome ressemblant à une plaine, mais enrichi en arbres, avec deux nouveaux animaux :&#x20;
 

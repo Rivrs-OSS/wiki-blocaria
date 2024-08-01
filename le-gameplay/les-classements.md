@@ -6,7 +6,7 @@ description: Retrouvez ici toutes les informations concernant les classements
 
 En favorisant l'aspect non compétitif du serveur, les classements sont conçus pour être une source de divertissement pour chaque joueur plutôt qu'une source de compétition.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:yellow;"><strong><code>/classements</code></strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:yellow;"><strong><code>/classements</code></strong></mark></p></figcaption></figure>
 
 À gauche du menu, tu peux retrouver tes statistiques, notamment tes points dans la catégorie sélectionnée et ta position dans celle-ci.
 

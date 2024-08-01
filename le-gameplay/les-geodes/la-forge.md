@@ -4,7 +4,7 @@ description: Retrouvez ici toutes les informations concernant la forge
 
 # ⚒️ La Forge
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p><strong>Aperçu de la </strong><mark style="color:yellow;"><strong>forge</strong></mark></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p><strong>Aperçu de la </strong><mark style="color:yellow;"><strong>forge</strong></mark></p></figcaption></figure>
 
 Dans cette interface, tu retrouveras quatre éléments :
 

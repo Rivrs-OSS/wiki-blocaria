@@ -8,7 +8,7 @@ description: Retrouvez ici toutes les informations concernant les collections
 
 Le système de collection permet aux joueurs de répertorier et de compléter tous les objets personnalisés disponibles sur le serveur. Voici comment cela fonctionne :&#x20;
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:yellow;"><strong><code>/collection</code></strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:yellow;"><strong><code>/collection</code></strong></mark></p></figcaption></figure>
 
 <mark style="color:yellow;">**Accès aux collections**</mark>** :** Utilise la commande <mark style="color:yellow;">**`/collection <joueur>`**</mark> ou <mark style="color:yellow;">**`/profil`**</mark> <mark style="color:yellow;">**`<joueur>`**</mark> pour accéder à la collection d'un joueur spécifique. Tu peux facilement voir et comparer les collections des autres joueurs. Toutes les collections répertorient les objets personnalisés disponibles sur le serveur, encourageant les joueurs à compléter leur collection autant que possible.
 
