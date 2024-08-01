@@ -44,6 +44,76 @@ Achète un abonnement pour obtenir des avantages temporaires. En cliquant, tu ac
 
 En dépensant des gemmes, tu peux obtenir des récompenses par palier. En cliquant, tu accèdes à la section des paliers pour voir ta progression et les récompenses disponibles.
 
+### <mark style="color:yellow;">Récompenses des Paliers Boutique</mark>
+
+#### <mark style="color:yellow;">Palier 1</mark>
+
+* <mark style="color:yellow;">**Récompense**</mark>: Clé Cosmétique (x1)
+* <mark style="color:yellow;">**Montant à Dépenser**</mark>: 1500 Gemmes
+
+***
+
+#### <mark style="color:yellow;">Palier 2</mark>
+
+* <mark style="color:yellow;">**Récompense**</mark>: Clé Épique (x1)
+* <mark style="color:yellow;">**Montant à Dépenser**</mark>: 3000 Gemmes
+
+***
+
+#### <mark style="color:yellow;">Palier 3</mark>
+
+* <mark style="color:yellow;">**Récompense**</mark>: Générateur à Iron Golem (x1)
+* <mark style="color:yellow;">**Montant à Dépenser**</mark>: 6000 Gemmes
+
+***
+
+#### <mark style="color:yellow;">Palier 4</mark>
+
+* <mark style="color:yellow;">**Récompense**</mark>: Objet Mystère Légendaire (x1)
+* <mark style="color:yellow;">**Montant à Dépenser**</mark>: 10,000 Gemmes
+
+***
+
+#### <mark style="color:yellow;">Palier 5</mark>
+
+* <mark style="color:yellow;">**Récompense**</mark>: Clé Divine (x2)
+* <mark style="color:yellow;">**Montant à Dépenser**</mark>: 20,000 Gemmes
+
+***
+
+#### <mark style="color:yellow;">Palier 6</mark>
+
+* <mark style="color:yellow;">**Récompense**</mark> : Générateur Aléatoire (x3)
+* <mark style="color:yellow;">**Montant à dépenser**</mark> : 40,000 Gemmes
+
+***
+
+#### <mark style="color:yellow;">Palier 7</mark>
+
+* <mark style="color:yellow;">**Récompense**</mark> : Objet Mystère Divin (x2)
+* <mark style="color:yellow;">**Montant à dépenser**</mark> : 60,000 Gemmes
+
+***
+
+#### <mark style="color:yellow;">Palier 8</mark>
+
+* <mark style="color:yellow;">**Récompense**</mark> : 1,500 Gemmes
+* <mark style="color:yellow;">**Montant à dépenser**</mark> : 80,000 Gemmes
+
+***
+
+#### <mark style="color:yellow;">Palier 9</mark>
+
+* <mark style="color:yellow;">**Récompense**</mark> : Clé Divine (x3) et Clé Épique (x2)
+* <mark style="color:yellow;">**Montant à dépenser**</mark> : 90,000 Gemmes
+
+***
+
+#### <mark style="color:yellow;">Palier 10</mark>
+
+* <mark style="color:yellow;">**Récompense**</mark> : Icône [🥇](https://emojipedia.org/fr/m%C3%A9daille-d-or)
+* <mark style="color:yellow;">**Montant à dépenser**</mark> : 100,000 Gemmes
+
 ## <mark style="color:yellow;">Guide d'Achats</mark>
 
 1. <mark style="color:yellow;">**Accès à la Boutique**</mark>** :** Utilise la commande <mark style="color:yellow;">**`/boutique`**</mark> pour ouvrir la boutique principale.
