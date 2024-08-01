@@ -30,6 +30,7 @@
 * [💎 Les Géodes](le-gameplay/les-geodes/README.md)
   * [⚒️ La Forge](le-gameplay/les-geodes/la-forge.md)
 * [🛠️ Les Machines](le-gameplay/les-machines.md)
+* [📨 Les Votes](le-gameplay/les-votes.md)
 * [🏦 Hôtel des Ventes](le-gameplay/hotel-des-ventes.md)
 * [📚 Les Collections](le-gameplay/les-collections.md)
 * [🎁 Les Caisses](le-gameplay/les-caisses.md)
