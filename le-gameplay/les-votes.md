@@ -10,7 +10,7 @@ Le système de vote te permet de soutenir le serveur et de gagner des récompens
 
 1. <mark style="color:yellow;">**Accède au Menu des Votes**</mark> : Tape la commande `/vote` pour ouvrir le menu des votes.
 2. <mark style="color:yellow;">**Voter sur les Sites Partenaires**</mark> : Pour accéder aux sites de vote, rends-toi sur le site de [**Blocaria**](https://blocaria.fr/vote) dans la catégorie [**Vote**](https://blocaria.fr/vote). Tu y trouveras les liens vers les différents sites partenaires où tu pourras voter pour notre serveur.
-3. <mark style="color:yellow;">**Réclame Tes Récompenses**</mark> : Reviens sur le serveur et utilise le menu des votes pour réclamer tes récompenses.
+3. <mark style="color:yellow;">**Réclame Tes Récompenses**</mark> : Reviens sur le serveur et utilise la commande <mark style="color:yellow;">**`/pw spawn01`**</mark> puis accèdes au menu des votes pour réclamer tes récompenses.
 
 ## <mark style="color:yellow;">Interface du Menu des Votes</mark>
 
