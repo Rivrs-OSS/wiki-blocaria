@@ -47,3 +47,66 @@ La clé de la Caisse Vote s'obtient en votant pour le serveur avec la commande <
 ## <mark style="color:blue;">Caisse Cosmétique</mark>
 
 La clé de la Caisse Cosmétique s'obtient en l'achetant dans le <mark style="color:blue;">**`/vip`**</mark> au prix de 300 Gemmes, ou en participant à des events.
+
+| Récompense                                              | Chance (%) |
+| ------------------------------------------------------- | ---------- |
+| <mark style="color:red;">**Chapeau Burger**</mark>      |            |
+| <mark style="color:red;">**Sac'otdog**</mark>           |            |
+| <mark style="color:red;">**Cha' popcorn**</mark>        |            |
+| <mark style="color:red;">**Pince à Champi'**</mark>     |            |
+| <mark style="color:red;">**Pac'bags**</mark>            |            |
+| <mark style="color:yellow;">**Sac à pièce**</mark>      |            |
+| <mark style="color:yellow;">**Pièce endiablée**</mark>  |            |
+| <mark style="color:yellow;">**Pacm'hat**</mark>         |            |
+| <mark style="color:yellow;">**Pizz'hat hut**</mark>     |            |
+| <mark style="color:yellow;">**Machine d'arcade**</mark> |            |
+| <mark style="color:purple;">**Manetto's Geek**</mark>   |            |
+| <mark style="color:purple;">**Enjoy' Stick**</mark>     |            |
+| <mark style="color:blue;">**Chapeau de glace**</mark>   |            |
+| <mark style="color:blue;">**Chapeau de frite**</mark>   |            |
+| <mark style="color:blue;">**Donut au chocolat**</mark>  |            |
+| <mark style="color:blue;">**Casque audio**</mark>       |            |
+| <mark style="color:blue;">**Mozza Stick's**</mark>      |            |
+| <mark style="color:blue;">**Soda américain**</mark>     |            |
+
+| Récompense                                                     | Chance |
+| -------------------------------------------------------------- | ------ |
+| <mark style="color:purple;">**Lame Épique**</mark>             |        |
+| <mark style="color:purple;">**Couperet Épique**</mark>         |        |
+| <mark style="color:purple;">**Foreuse Épique**</mark>          |        |
+| <mark style="color:purple;">**Fourche Épique**</mark>          |        |
+| <mark style="color:purple;">**Bâton Épique**</mark>            |        |
+| <mark style="color:purple;">**Canne Épique**</mark>            |        |
+| <mark style="color:purple;">**Oeuf Épique**</mark>             |        |
+| <mark style="color:purple;">**Amulette Épique**</mark>         |        |
+| <mark style="color:yellow;">**200.000**</mark>💰               |        |
+| <mark style="color:purple;">**Générateur Mystère**</mark> (x2) |        |
+| <mark style="color:purple;">**Bonbon**</mark> (x3)             |        |
+| <mark style="color:purple;">**Rituel Épique**</mark>           |        |
+| <mark style="color:red;">**Boost Métier**</mark>               |        |
+| <mark style="color:purple;">**Clé Épique**</mark> (x2)         |        |
+| <mark style="color:red;">**Clé Divine**</mark>                 |        |
+| <mark style="color:purple;">**Shulker Violette**</mark> (x3)   |        |
+| <mark style="color:purple;">**Oeuf de dragon**</mark> (x2)     |        |
+| <mark style="color:purple;">**Icône de Météorite**</mark>      |        |
+
+| Récompense                                                         | Chance |
+| ------------------------------------------------------------------ | ------ |
+| <mark style="color:red;">**Casque Divin**</mark>                   |        |
+| <mark style="color:red;">**Plastron Divin**</mark>                 |        |
+| <mark style="color:red;">**Pantalon Divin**</mark>                 |        |
+| <mark style="color:red;">**Bottes Divine**</mark>                  |        |
+| <mark style="color:red;">**Lame Céleste**</mark>                   |        |
+| <mark style="color:red;">**Foreuse Généreuse**</mark>              |        |
+| <mark style="color:red;">**Fourche Divine**</mark>                 |        |
+| <mark style="color:red;">**Marteau danté**</mark>                  |        |
+| <mark style="color:red;">**Canne Éloquente**</mark>                |        |
+| <mark style="color:red;">**Couperet Divin**</mark>                 |        |
+| <mark style="color:red;">**Bâton Divin**</mark>                    |        |
+| <mark style="color:red;">**Amulette Divine**</mark>                |        |
+| <mark style="color:red;">**Oeuf Divin**</mark>                     |        |
+| <mark style="color:yellow;">**750.000**</mark>💰                   |        |
+| <mark style="color:purple;">**Générateur Mystère**</mark> **(x4)** |        |
+| <mark style="color:red;">**Bonbon**</mark> **(x2)**                |        |
+| <mark style="color:red;">**Clé Divine**</mark> **(x2)**            |        |
+| <mark style="color:red;">**Icône de TNT**</mark>                   |        |
