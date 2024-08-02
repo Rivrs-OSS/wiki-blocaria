@@ -12,35 +12,70 @@ Cette section détaille les différentes catégories d'articles disponibles à l
 
 Voici un aperçu des différentes options disponibles dans la boutique : &#x20;
 
-## <mark style="color:yellow;">Crédits Gemmes</mark> <mark style="color:yellow;">**`/boutique`**</mark>
+## <mark style="color:yellow;">Crédits Gemmes</mark>
 
 Pour acheter dans notre boutique, tu dois d'abord acheter des gemmes depuis notre site internet. En haut à droite tu retrouveras le solde de tes gemmes actuel et son équivalent en EUR. En cliquant, tu seras dirigé vers le site pour acheter des gemmes.
 
-## <mark style="color:yellow;">Grades</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">**`/grades`**</mark>
+## <mark style="color:yellow;">Grades</mark>
 
 Améliore ton expérience de jeu en obtenant divers avantages grâce à un grade. En cliquant, tu accèdes à la section des grades où tu peux choisir et acheter des grades.
 
-## <mark style="color:yellow;">Clés</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">**`/cles`**</mark>
+## <mark style="color:yellow;">Clés</mark>
 
 Achète des clés pour obtenir rapidement des objets puissants et utile pour ton aventure. En cliquant, tu accèdes à la section des clés pour choisir et acheter les clés disponibles.
 
-## <mark style="color:yellow;">Générateurs</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">**`/spawners`**</mark>
+## <mark style="color:yellow;">Générateurs</mark>
 
 Achète des générateurs à créatures pour extraire les bénéfices immédiatement. En cliquant, tu accèdes à la section des générateurs pour acheter celui qui te convient.
 
-## <mark style="color:yellow;">**Abonnement Premium**</mark> <mark style="color:yellow;">**`/premium`**</mark>
+## <mark style="color:yellow;">**Abonnement Premium**</mark>
 
 Achète un abonnement pour obtenir des avantages temporaires. En cliquant, tu accèdes à la section des abonnements Premium pour choisir et acheter un abonnement.
 
-## <mark style="color:yellow;">Édition Limitée</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">**`/boutique`**</mark>
+## <mark style="color:yellow;">Édition Limitée</mark>
 
-Équipe-toi de certains objets utiles pour ton aventure disponibles durant une durée très limitée. En cliquant, tu accèdes à la section limitée pour voir et acheter les objets disponibles.
+Tu y trouveras des récompenses gratuites quotidiennes, des objets exclusifs pour les joueurs premium, ainsi qu'une sélection d'articles en rotation disponibles à l'achat chaque jour. Voici un aperçu de ce que tu peux obtenir :
 
-## <mark style="color:yellow;">Objets</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">**`/objetsvip`**</mark>
+### <mark style="color:yellow;">R</mark><mark style="color:yellow;">**écompenses Gratuites**</mark>
+
+Tous les joueurs : <mark style="color:green;">**Rituel Commun**</mark> (x1)
+
+Joueurs premium : <mark style="color:blue;">**Rituel Rare**</mark> (x1)
+
+### <mark style="color:yellow;">O</mark><mark style="color:yellow;">**bjets en Vente (Rotation quotidienne)**</mark>
+
+Chaque jour, trois objets différents sont disponibles à l'achat dans la boutique. Voici la liste des articles que tu peux trouver :
+
+1. <mark style="color:yellow;">**Spawner Cochons-Zombies**</mark>
+   * <mark style="color:yellow;">**Prix**</mark>** :** 1200 gemmes
+2. <mark style="color:yellow;">**Spawner Enderman**</mark>
+   * <mark style="color:yellow;">**Prix**</mark>** :** 500 gemmes
+3. <mark style="color:yellow;">**Spawner Blaze**</mark>
+   * <mark style="color:yellow;">**Prix**</mark>** :** 750 gemmes
+4. <mark style="color:yellow;">**Spawner Sorcière**</mark>
+   * <mark style="color:yellow;">**Prix**</mark>** :** 1000 gemmes
+5. <mark style="color:yellow;">**Bâton Légendaire**</mark>
+   * <mark style="color:yellow;">**Multiplicateur**</mark>** :** x1.75
+   * <mark style="color:yellow;">**Prix**</mark>** :** 750 gemmes
+6. <mark style="color:yellow;">**Générateur Mystère**</mark>
+   * <mark style="color:yellow;">**Prix**</mark>** :** 950 gemmes
+7. <mark style="color:yellow;">**Fourche Légendaire**</mark>
+   * <mark style="color:yellow;">**Rayon**</mark>** :** 3x3
+   * <mark style="color:yellow;">**Prix**</mark>** :** 950 gemmes
+8. <mark style="color:yellow;">**Couperet Légendaire**</mark>
+   * <mark style="color:yellow;">**Prix**</mark>** :** 950 gemmes
+9. <mark style="color:yellow;">**Objet Mystère**</mark>
+   * <mark style="color:yellow;">**Prix**</mark>** :** 1050 gemmes
+
+{% hint style="warning" %}
+Attention, l'achat de chaque objet est limité à une seule fois par jour !
+{% endhint %}
+
+## <mark style="color:yellow;">Objets</mark>
 
 Équipe-toi de certains objets puissants qui t'accompagneront pendant toute l'aventure. En cliquant, tu accèdes à la section des objets pour choisir et acheter les objets disponibles.
 
-## <mark style="color:yellow;">Paliers de la Boutique</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">**`/boutique_paliers`**</mark>
+## <mark style="color:yellow;">Paliers de la Boutique</mark>
 
 En dépensant des gemmes, tu peux obtenir des récompenses par palier. En cliquant, tu accèdes à la section des paliers pour voir ta progression et les récompenses disponibles.
 
