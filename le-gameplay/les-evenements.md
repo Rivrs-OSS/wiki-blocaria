@@ -8,7 +8,7 @@ Les événements proposés ici seront uniquement des événements récurrents au
 
 Voici les différents types d’événements que tu pourras expérimenter sur le serveur, pour retrouver ces événements et les récompenses correspondantes, il suffit d'utiliser la commande <mark style="color:yellow;">**`/events`**</mark> :&#x20;
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:yellow;"><strong><code>/events</code></strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:yellow;"><strong><code>/events</code></strong></mark></p></figcaption></figure>
 
 ## <mark style="color:yellow;">**Quels sont les différents événements ?**</mark>
 
