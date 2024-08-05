@@ -12,8 +12,6 @@ Bienvenue à toi sur la nouvelle mise à jour estivale de notre serveur Minecraf
 
 Au-delà des bordures de ta box se trouve une île regorgeant de trésors, l'Île des Palmiers. Ancien repaire des pirates les plus dangereux des océans, cette île est maintenant un terrain de chasse aux trésors. Mais attention, les squelettes des pirates ne te laisseront pas partir si facilement...
 
-**Commandes**: <mark style="color:yellow;">**`/warp palm_island`**</mark>
-
 ***
 
 ## <mark style="color:yellow;">Boss Pirate</mark>
@@ -39,13 +37,13 @@ Passe à travers les différents anneaux disséminés sur l'île et termine dans
 
 <mark style="color:yellow;">**Récompenses**</mark>:
 
-* **1er**: 3,000 Gemmes
-* **2ème**: 2,000 Gemmes
-* **3ème**: 1,000 Gemmes
-* **Top 10**: 500 Gemmes
-* **Top 20**: 100 Gemmes
+* **1er**: 3,000 Pièces d'or
+* **2ème**: 2,000 Pièces d'or
+* **3ème**: 1,000 Pièces d'or
+* **Top 10**: 500 Pièces d'or
+* **Top 20**: 100 Pièces d'or
 
-<mark style="color:yellow;">**Participation**</mark>: 50 Gemmes
+<mark style="color:yellow;">**Participation**</mark>: 50 Pièces d'or
 
 ***
 
