@@ -86,7 +86,7 @@ Tu peux apparaître dans ce classement estival en récoltant des pièces d'or su
 
 De nombreux trésors ont été enfouis par les pirates de l'Île des Palmiers. Pars à leur recherche et déterre-les pour découvrir ce qu'ils renferment.
 
-Pour pouvoir déterrer les trésors enfouis, tu dois utiliser une pelle sur les blocs de sable qui libèrent des particules. Reste appuyé sur le bloc de sable pour le déterrer complètement et révéler le trésor caché à l'intérieur.
+Pour pouvoir déterrer les trésors enfouis, vise les blocs de sable qui libèrent des particules avec ta pelle. Les trésors seront révélés lorsqu'ils seront correctement ciblés.
 
 ***
 
