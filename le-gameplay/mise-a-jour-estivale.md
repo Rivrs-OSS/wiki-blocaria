@@ -4,7 +4,7 @@ description: Retrouvez ici toutes les informations concernant le spawn
 
 # 🏝️ Mise à Jour Estivale
 
-Bienvenue à toi sur la nouvelle mise à jour estivale de notre serveur Minecraft ! Cette mise à jour regorge de nouvelles aventures, de trésors à découvrir et de défis excitants. Voici un aperçu des différentes fonctionnalités et activités disponibles :
+Bienvenue à toi sur la nouvelle mise à jour estivale de notre serveur Blocaria ! Cette mise à jour regorge de nouvelles aventures, de trésors à découvrir et de défis excitants. Voici un aperçu des différentes fonctionnalités et activités disponibles :
 
 ***
 
@@ -37,11 +37,11 @@ Passe à travers les différents anneaux disséminés sur l'île et termine dans
 
 <mark style="color:yellow;">**Récompenses**</mark>:
 
-* **1er**: 3,000 Pièces d'or
-* **2ème**: 2,000 Pièces d'or
-* **3ème**: 1,000 Pièces d'or
-* **Top 10**: 500 Pièces d'or
-* **Top 20**: 100 Pièces d'or
+* <mark style="color:yellow;">**1er**</mark>: 3,000 Pièces d'or
+* <mark style="color:yellow;">**2ème**</mark>: 2,000 Pièces d'or
+* <mark style="color:yellow;">**3ème**</mark>: 1,000 Pièces d'or
+* <mark style="color:yellow;">**Top 10**</mark>: 500 Pièces d'or
+* <mark style="color:yellow;">**Top 20**</mark>: 100 Pièces d'or
 
 <mark style="color:yellow;">**Participation**</mark>: 50 Pièces d'or
 
@@ -85,6 +85,8 @@ Tu peux apparaître dans ce classement estival en récoltant des pièces d'or su
 <mark style="color:yellow;">**Emplacement**</mark>: Plages de l'Île des Palmiers
 
 De nombreux trésors ont été enfouis par les pirates de l'Île des Palmiers. Pars à leur recherche et déterre-les pour découvrir ce qu'ils renferment.
+
+Pour pouvoir déterrer les trésors enfouis, tu dois utiliser une pelle sur les blocs de sable qui libèrent des particules. Reste appuyé sur le bloc de sable pour le déterrer complètement et révéler le trésor caché à l'intérieur.
 
 ***
 
