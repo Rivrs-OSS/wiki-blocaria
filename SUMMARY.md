@@ -9,6 +9,7 @@
 
 ## LE GAMEPLAY
 
+* [🏝️ Mise à Jour Estivale](le-gameplay/mise-a-jour-estivale.md)
 * [📦 Les Box](le-gameplay/les-box/README.md)
   * [🪙 Système de Valeur](le-gameplay/les-box/systeme-de-valeur.md)
   * [📜 Missions](le-gameplay/les-box/missions-cooperatives.md)
