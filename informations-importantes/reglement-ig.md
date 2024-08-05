@@ -153,21 +153,24 @@ Si votre système ne respecte pas les règles du serveur, celui-ci sera supprim�
 
 * Les doubles-comptes sont limités à 1 par utilisateur.
 * Les doubles comptes ne sont pas acceptés dans les classements, tous évènements confondus, ainsi que dans le vote.
-*   Jouer sur un double compte alors que son compte principal est banni, ou inversement, est interdit. En cas de non-respect de cette règle, le temps de la sanction initiale sera doublé.
+* Il n’est pas possible de récupérer les différentes récompenses des évents grâce à vos doubles comptes ou de farmer grâce à celui-ci (calendrier, récompenses de jobs…).
+* L’utilisation d’un double compte est dans l’unique but de recommencer une partie ou pour AFK spawner, mais il est interdit de boost son compte principal (Items / Argent / autres).
+*   Jouer sur un double compte alors que son compte principal est banni, ou inversement, est interdit. En cas de non-respect de cette règle, le temps de la sanction initiale sera doublé et plus si récidives.
 
     Si plusieurs personnes physiques sont sur la même IP, merci de le signaler à un membre de l'équipe de Blocaria en ticket.
 
 ### <mark style="color:yellow;">Article G : L'AFK</mark>
 
-* Au bout de cette durée, vous serez téléporté au HUB.
-* Il est interdit de contourner l'Anti-AFK.
+* L'AFK est autorisé sur le serveur pendant 15 minutes au minimum ou plus selon votre grade **(uniquement si vous ne réalisez pas d’actions)**. Au-delà, vous serez téléporté au spawn.&#x20;
+* **Des vérifications d'AFK sont régulièrement effectuées par les Modérateurs, tout manquement à celles-ci sont passibles de sanctions, même en étant physiquement présent devant l’écran.**
+* Il est aussi interdit de contourner l'anti-AFK de quelconque manière, sous peine de sanctions.
 
 ### <mark style="color:yellow;">Article H : Triche et usebugs</mark>
 
 * Les usebugs, la duplication (ainsi que la tentative de duplication) et la triche sous toutes ses formes sont prohibés sur le serveur.
 * Tous les mods ou logiciels externes donnant un avantage par rapport aux autres joueurs sont interdits.
-* Les macros, Auto-Sell, Auto-Click et le changement de touche de clic sont interdits. Le blocage du clic pour taper des mobs ou poser des blocs est interdit.
-* Le poser-casser est interdit.
+* **De plus, l'utilisation d'une touche autre que le clic, d'un moyen, d’une méthode ou d’un poids permettant de le bloquer pour casser et/ou poser des blocs, et utiliser des items, est totalement interdite.**
+* Être en connaissance d’un bug sur le serveur et ne pas en informer la modération dans le but d’abuser de celui-ci ou de le partager aux joueurs est interdit sur Blocaria.
 
 ### <mark style="color:yellow;">Article I : Les remboursements</mark>
 
