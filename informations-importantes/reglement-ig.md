@@ -31,6 +31,13 @@ Le règlement est susceptible de changer à tout moment sans préavis, nous vous
 * Des moyens de support, à la fois vocaux et écrits, sont disponibles sur le serveur Discord.
 * **Le règlement en jeu s’applique également sur le serveur Discord que ce soit en discussion ou en vocal.**
 
+### <mark style="color:yellow;">Article C : Les alliances</mark>
+
+* Toute forme d'alliance entre box est interdite si elle a pour but de vous faire progresser dans le classement d'île (cela comprend les items de niveau d'ile du mois, l'argent, ainsi que tout autre item permettant de propulser une box dans le classement). Tout abus sur ceci sera sanctionné.
+* Il est interdit d'utiliser une box tierce à but de contourner des limites (Hoppers, joueurs etc) sur votre box secondaire (avec l’utilisation d’un double compte par exemple).
+
+
+
 ## <mark style="color:yellow;">Partie II : Le Chat</mark>
 
 ### <mark style="color:yellow;">Article A : Règles générales</mark>
@@ -84,6 +91,8 @@ Chaque pub quelle qu'elle soit se doit d'être espacée de 20 minutes (pwarp, ve
 
 * Les interactions entre les joueurs doivent être effectuées de manière respectueuse et bienveillante.
 * Les arnaques, les pillages, les vols, les griefs, les trahisons et toutes autres actions pouvant nuire à l'expérience de jeu des autres joueurs sont interdits.
+* Il est interdit de rejoindre une box, ou de faire quelconque action de bug ou utilisation de logiciels interdits dans un but de copier les farms/pattern déjà présentes sur celle-ci.
+* Il est interdit de récupérer du stuff ou des schématiques sur une box avant de la quitter sans accord préalable avec son chef.
 * Le commerce inter-serveur est interdit incluant tout échange d'items, d'argent, et autres...
 
 {% hint style="warning" %}
@@ -95,6 +104,7 @@ Si les preuves sont suffisantes et en fonction de la situation, le joueur fautif
 * L'Anti-AFK (circuit d'eau, sneak, Auto-Jump, **AFK Farm** etc) est interdit.
 * Le tp-kill est interdit. Il en va de même pour tout kill via des moyens divers.
 * Il est interdit d'utiliser une machine à pêche ou de farmer avec un véhicule (bateau, wagon, etc).
+* Il est interdit de poser des homes dans les autres box sans l'accord du chef de l'île.
 * La construction obscène, raciste et discriminante.
 * Les jeux de hasard :&#x20;
   * Les seuls jeux de hasard autorisés sur le serveur sont les jeux type casino. Il est obligatoire d’afficher le pourcentage d’obtention des lots.
