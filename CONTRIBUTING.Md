@@ -7,7 +7,7 @@ icon: pen-to-square
 
 # Contribution
 
-Bienvenue ! Ce guide vous accompagnera pas à pas dans la <mark style="color:blue;">**contribution**</mark> au wiki du projet <mark style="color:blue;">**blocarias**</mark> sur <mark style="color:blue;">**GitHub**</mark>.
+Bienvenue ! Ce guide vous accompagnera pas à pas dans la <mark style="color:blue;">**contribution**</mark> au wiki du projet <mark style="color:blue;">**Blocaria**</mark> sur <mark style="color:blue;">**GitHub**</mark>.
 
 ## 📋 <mark style="color:blue;">Pré-requis</mark>
 
