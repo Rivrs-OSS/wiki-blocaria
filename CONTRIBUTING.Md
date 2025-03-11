@@ -7,7 +7,7 @@ icon: pen-to-square
 
 # Contribution
 
-Bienvenue ! Ce guide vous accompagnera pas à pas dans la <mark style="color:blue;">**contribution**</mark> au wiki du projet <mark style="color:blue;">**PokeLegends**</mark> sur <mark style="color:blue;">**GitHub**</mark>.
+Bienvenue ! Ce guide vous accompagnera pas à pas dans la <mark style="color:blue;">**contribution**</mark> au wiki du projet <mark style="color:blue;">**blocarias**</mark> sur <mark style="color:blue;">**GitHub**</mark>.
 
 ## 📋 <mark style="color:blue;">Pré-requis</mark>
 
@@ -28,7 +28,7 @@ git config --global user.email "votre-email@example.com"
 
 ### <mark style="color:blue;">1.</mark> <mark style="color:blue;">Forker le Repository</mark>
 
-* Rendez-vous sur [wiki-pokelegend](https://github.com/Rivrs-OSS/wiki-pokelegend)
+* Rendez-vous sur [wiki-blocaria](https://github.com/Rivrs-OSS/wiki-blocaria)
 * Cliquez sur le bouton <mark style="color:blue;">**Fork**</mark> en haut à droite pour créer une copie du repository sur votre compte.
 
 ### <mark style="color:blue;">2. Cloner votre Fork sur votre ordinateur</mark>
@@ -36,8 +36,8 @@ git config --global user.email "votre-email@example.com"
 Copiez le lien de votre fork puis dans votre terminal :
 
 ```bash
-git clone https://github.com/VOTRE-NOM-UTILISATEUR/wiki-pokelegend.git
-cd wiki-pokelegend
+git clone https://github.com/VOTRE-NOM-UTILISATEUR/wiki-blocaria.git
+cd wiki-blocaria
 ```
 
 ### <mark style="color:blue;">3. Créer une nouvelle branche</mark>
@@ -53,7 +53,7 @@ Exemple : `git checkout -b ajout-guide-capture`
 ### <mark style="color:blue;">4. Modifier le Wiki</mark>
 
 * Utilisez Visual Studio Code pour éditer les fichiers markdown (`.md`).
-* Vous pouvez également créer de nouveaux fichiers, par exemple `comment-capturer-pokemon.md`.
+* Vous pouvez également créer de nouveaux fichiers, par exemple `comment-creer-ma-box.md`.
 
 Exemple de structure markdown simple :
 
@@ -76,7 +76,7 @@ Dans votre terminal, ajoutez et validez vos changements :
 
 ```bash
 git add .
-git commit -m "Ajout du guide sur la capture des Pokémon"
+git commit -m "Ajout du guide sur les métiers"
 ```
 
 ### <mark style="color:blue;">6. Envoyer votre contribution</mark>
@@ -102,6 +102,6 @@ git push origin nom-de-votre-branche
 
 ## 🛠️ <mark style="color:blue;">En cas de problème</mark>
 
-N'hésitez pas à créer une [issue](https://github.com/Rivrs-OSS/wiki-pokelegend/issues) sur GitHub pour demander de l'aide ou poser une question.
+N'hésitez pas à créer une [issue](https://github.com/Rivrs-OSS/wiki-blocaria/issues) sur GitHub pour demander de l'aide ou poser une question.
 
 Merci pour votre contribution ! ✨
