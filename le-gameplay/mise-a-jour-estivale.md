@@ -1,5 +1,6 @@
 ---
 description: Retrouvez ici toutes les informations concernant le spawn
+hidden: true
 ---
 
 # 🏝️ Mise à Jour Estivale
@@ -168,22 +169,22 @@ Réalise les activités disponibles sur l'Île des Palmiers afin de faire avance
 
 ### <mark style="color:yellow;">Palier 11</mark>
 
-* <mark style="color:yellow;">**Objectif**</mark>** :** Réunir 20M points communautaires.
-* <mark style="color:yellow;">**Récompense**</mark>** :** Speed II sur l'Île des palmiers.
+* <mark style="color:yellow;">**Objectif**</mark> :  Réunir 20M points communautaires.
+* <mark style="color:yellow;">**Récompense**</mark> :  Speed II sur l'Île des palmiers.
 
 ***
 
 ### <mark style="color:yellow;">Palier 12</mark>
 
-* <mark style="color:yellow;">**Objectif**</mark>** :** Réunir 24M points communautaires.
-* <mark style="color:yellow;">**Récompense**</mark>** :** Bonus 5% de pièces d'or.
+* <mark style="color:yellow;">**Objectif**</mark> :  Réunir 24M points communautaires.
+* <mark style="color:yellow;">**Récompense**</mark> :  Bonus 5% de pièces d'or.
 
 ***
 
 ### <mark style="color:yellow;">Palier 13</mark>
 
-* <mark style="color:yellow;">**Objectif**</mark>** :** Réunir 30M points communautaires.
-* <mark style="color:yellow;">**Récompense**</mark>** :** Force II sur l'Île des palmiers.
+* <mark style="color:yellow;">**Objectif**</mark> : Réunir 30M points communautaires.
+* <mark style="color:yellow;">**Récompense**</mark> :  Force II sur l'Île des palmiers.
 
 {% hint style="success" %}
 Profite bien de cette mise à jour estivale et amuse-toi sur notre serveur !

@@ -4,7 +4,7 @@ description: Retrouvez ici toutes les informations concernant les différentes �
 
 # 💰 Les Différentes Économies
 
-Les économies définissent les différents moyens de paiement disponibles en jeu.&#x20;
+Les économies définissent les différents moyens de paiement disponibles en jeu.
 
 Voici les différentes économies disponibles :
 
@@ -16,11 +16,15 @@ La Monnaie est la devise principale du serveur. Tu peux l'obtenir en participant
 
 ### <mark style="color:yellow;">Gemmes</mark>
 
-Les Gemmes, de couleur bleue, représentent les crédits ou points boutique du serveur. Elles te permettent d'acheter des objets spéciaux et des services premium qui ne sont pas disponibles via le Yuzu. Ces gemmes ajoutent une autre dimension à ton expérience de jeu en offrant des options exclusives et des avantages supplémentaires.
+Les Gemmes, de couleur bleue, représentent les crédits ou points boutique du serveur. Elles te permettent d'acheter des objets spéciaux et des services premium qui ne sont pas disponibles autrement. Ces gemmes ajoutent une autre dimension à ton expérience de jeu en offrant des options exclusives et des avantages supplémentaires.
+
+### <mark style="color:yellow;">Capsules</mark>
+
+Les Capsules, représentent une monnaie dans le domaine des professions. En effectuant des actions spécifiques à votre métier, vous pouvez acquérir diverses quantités de capsules, essentielles pour la complétion du passe capsule.
 
 ### <mark style="color:yellow;">Crânes</mark>
 
-Les Crânes constituent une économie parallèle, obtenue en jouant activement dans ta box. Ils ajoutent une couche de stratégie et de complexité au jeu. Tu peux les échanger sur le marché noir contre des items inédits, et ils sont également nécessaires pour obtenir certains trophées.
+Les Crânes constituent une économie parallèle, obtenue en jouant activement dans ta box. Ils ajoutent une couche de stratégie et de complexité au jeu. Tu peux les échanger sur le marché noir contre des items inédits, et ils sont également nécessaires pour valider certaines missions.
 
 ### <mark style="color:yellow;">C</mark><mark style="color:yellow;">**’est quoi le système des crânes ?**</mark>
 
@@ -29,9 +33,13 @@ Les crânes sont une ressource précieuse qui apporte une dimension stratégique
 * En détruisant des blocs, quel que soit le type de bloc, avec chaque bloc offrant une chance d'obtenir des crânes.
 * En tuant des monstres, quel que soit le type de créature, avec chaque monstre offrant une chance d'obtenir des crânes.
 
+{% hint style="info" %}
+Vous devez avoir le job d'activer pour obtenir des cranes.
+{% endhint %}
+
 ### <mark style="color:yellow;">C</mark><mark style="color:yellow;">**omment échanger les crânes ?**</mark>
 
-Pour échanger tes crânes contre des objets, tu peux accéder au marché noir.&#x20;
+Pour échanger tes crânes contre des objets, tu peux accéder au marché noir.
 
 Voici comment cela fonctionne :
 
@@ -42,7 +50,3 @@ Chaque jour à 19h15, le marché noir est réinitialisé, offrant une nouvelle l
 <mark style="color:yellow;">**Limites d'achat**</mark>
 
 La plupart des objets peuvent être achetés jusqu'à trois fois par joueur, avec certains articles limités à un achat minimum. Par exemple, pour 1500 crânes, tu peux acquérir un générateur à vache, mais chaque joueur est limité à deux achats par jour.
-
-{% hint style="success" %}
-Viens essayer toutes les monnaies et participe activement pour obtenir des récompenses exclusives !
-{% endhint %}

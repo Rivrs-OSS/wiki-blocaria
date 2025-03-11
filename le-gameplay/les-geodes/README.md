@@ -8,11 +8,9 @@ Les géodes représentent une facette du gameplay qui introduit une innovation c
 
 ## <mark style="color:yellow;">C</mark><mark style="color:yellow;">**omment fonctionnent les géodes ?**</mark>
 
-Pour commencer, les géodes sont des cavités rocheuses tapissées de cristaux et d'autres matières minérales. Elles ne sont pas vraiment des minéraux mais des compositions de formations magmatiques, cristallines et/ou sédimentaires.
+<mark style="color:yellow;">**Obtention**</mark> :  Les géodes sont obtenables en cassant des minerais comme l’or, le diamant, l’émeraude ou la netherite. L’obtention n’est pas garantie à chaque fois que tu casses un minerai, mais plutôt une chance d’en obtenir une.
 
-<mark style="color:yellow;">**Obtention**</mark>** :** Les géodes sont obtenables en cassant des minerais comme l’or, le diamant, l’émeraude ou la netherite. L’obtention n’est pas garantie à chaque fois que tu casses un minerai, mais plutôt une chance d’en obtenir une.
-
-<mark style="color:yellow;">**Concassage**</mark>** :** Une fois obtenues, les géodes peuvent être concassées dans une machine appelée "<mark style="color:yellow;">**Concasseur**</mark>". Cette machine est obtenable dans les récompenses du métier de Mineur.&#x20;
+<mark style="color:yellow;">**Concassage**</mark> :  Une fois obtenues, les géodes peuvent être concassées dans une machine appelée "<mark style="color:yellow;">**Concasseur**</mark>". Cette machine est obtenable dans les récompenses du métier de Mineur (niveau 9 du job).
 
 En concassant une géode, tu récupères une géode plus ou moins rare. Voici les différents types :
 
@@ -24,13 +22,7 @@ En concassant une géode, tu récupères une géode plus ou moins rare. Voici le
 
 Lors du concassage, tu peux également obtenir de la <mark style="color:yellow;">**poudre de perlimpinpin**</mark>, essentielle pour augmenter tes niveaux de personnage et réparer tes objets à la forge.
 
-<mark style="color:yellow;">**Risques**</mark>** :** Il y a aussi une chance que la géode ne donne rien, avec un message indiquant “Oh mince ! La géode n’a rien donné…”.
-
 ## <mark style="color:yellow;">E</mark><mark style="color:yellow;">**t qu’est-ce que les joueurs font de leurs géodes ?**</mark>
 
-* <mark style="color:yellow;">**Amélioration de niveau**</mark>** :** Les géodes sont utiles pour augmenter ton niveau de personnage, étant une des clés nécessaires à l’amélioration de ton niveau.
-* <mark style="color:yellow;">**Échange au spawn**</mark>** :** Les géodes sont échangeables avec l’Antiquaire au spawn contre une variété d’objets plus ou moins rares. Une vingtaine d’objets disponibles changent chaque semaine parmi une vaste liste d’objets, allant de meubles décoratifs à des objets de grande rareté. Les prix varient en fonction de la rareté des objets.
-
-{% hint style="success" %}
-Ce système de géodes ajoute une dimension stratégique, offrant des récompenses précieuses et une nouvelle manière d’interagir avec le monde de Blocaria.
-{% endhint %}
+* <mark style="color:yellow;">**Amélioration de niveau**</mark> :  Les géodes sont utiles pour augmenter ton niveau de personnage, étant une des clés nécessaires à l’amélioration de ton niveau.
+* <mark style="color:yellow;">**Échange au spawn**</mark> :  Les géodes sont échangeables avec l’Antiquaire au spawn contre une variété d’objets plus ou moins rares. Une vingtaine d’objets disponibles changent chaque semaine parmi une vaste liste d’objets, allant de meubles décoratifs à des objets de grande rareté. Les prix varient en fonction de la rareté des objets.

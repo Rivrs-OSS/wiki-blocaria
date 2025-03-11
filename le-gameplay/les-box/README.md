@@ -4,19 +4,25 @@ description: Retrouvez ici toutes les informations concernant les box
 
 # 📦 Les Box
 
+<mark style="color:yellow;">**Pack de texture**</mark>
+
+Le serveur fonctionne avec un pack de texture, il est obligatoire pour pouvoir jouer convenablement. Il se télécharge automatiquement à votre arrivée sur le serveur, si ce n'est pas le cas merci de suivre l'ordre ci-dessous.
+
+Lorsque vous êtes sur votre liste de serveurs -> cliquer sur le serveur Blocaria -> modifier / Edit -> cliquez sur Server Ressource Packs -> jusqu'à obtenir Activés / Enabled.
+
 <mark style="color:yellow;">**Système de box**</mark>
 
 Dans le mode de jeu "box", le système de box est crucial. Voici comment il fonctionne :
 
-<mark style="color:yellow;">**Création de la box**</mark>** :** Utilise la commande <mark style="color:yellow;">**`/box create <nom>`**</mark> pour créer ta box.&#x20;
+<mark style="color:yellow;">**Création de la box**</mark> : Utilise la commande <mark style="color:yellow;">**`/box create <nom>`**</mark> pour créer ta box.
 
 Une fois créée, tu apparaîtras dans une zone de 4x4 blocs.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p><strong>Aperçu d'une Box</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption><p><strong>Aperçu d'une Box</strong></p></figcaption></figure>
 
-Tu peux ouvrir le menu de ta box grâce à la commande <mark style="color:yellow;">**`/box menu`**</mark>. Dans ce menu, tu retrouveras toutes les informations importantes pour gérer ta box.&#x20;
+Tu peux ouvrir le menu de ta box grâce à la commande <mark style="color:yellow;">**`/box menu`**</mark>. Dans ce menu, tu retrouveras toutes les informations importantes pour gérer ta box.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:yellow;"><strong><code>/box menu</code></strong></mark></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:yellow;"><strong><code>/box menu</code></strong></mark></p></figcaption></figure>
 
 En haut du menu, tu trouveras : le <mark style="color:yellow;">**classement des box**</mark>, les <mark style="color:yellow;">**infos sur ta box**</mark>, et la <mark style="color:yellow;">**liste des missions coopératives**</mark>.
 
@@ -24,38 +30,17 @@ La partie basse te permettra de : <mark style="color:yellow;">**réinitialiser t
 
 ## <mark style="color:yellow;">**Biomes customisés**</mark>
 
-Le système de biomes customisés te permettra de récupérer de nouvelles ressources essentielles à ta progression sur le serveur. La box que tu as créée se situe au centre de la carte ci-dessous.&#x20;
+Le système de biomes customisés te permettra de récupérer de nouvelles ressources essentielles à ta progression sur le serveur. La box que tu as créée se situe au centre de la carte ci-dessous.
 
 Plus tu accomplis de missions coopératives, plus la taille de ta box s'étend, te permettant ainsi d'accéder aux différents biomes disponibles.
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p><strong>Aperçu de la </strong><mark style="color:yellow;"><strong>map</strong></mark></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption><p><strong>Aperçu de la </strong><mark style="color:yellow;"><strong>map</strong></mark></p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:yellow;"><strong><code>/box biome</code></strong></mark></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:yellow;"><strong><code>/box biome</code></strong></mark></p></figcaption></figure>
 
-Lors de la création de ta box, tu apparaîtras dans un biome ressemblant à une plaine, mais enrichi en arbres, avec deux nouveaux animaux :&#x20;
+Lors de la création de ta box, tu apparaîtras dans un biome ressemblant à une plaine, mais enrichi en arbres, avec de nouveaux mob disponibles. Ces nouveaux mob dépendent du biome de spawn, comme par exemple :
 
-* <mark style="color:yellow;">**Cerf**</mark>** :** Très utile pour commencer, il droppe du cuir et des bâtons.
-* <mark style="color:yellow;">**Écureuil**</mark>** :** Il droppe du cuir et des noisettes.
+* Le tigre dans la savane
+* Le cerf dans la plaine
 
-Grâce à ces drops personnalisés, tu découvriras dès le début que le serveur offre de nouveaux objets vendables au <mark style="color:yellow;">**`/shop`**</mark>.
-
-### <mark style="color:yellow;">**Biome Savane**</mark>
-
-* <mark style="color:yellow;">**Tigre**</mark>** :** Agressif, 65 HP, donne de la viande crue et du cuir.
-* <mark style="color:yellow;">**Éléphant**</mark>** :** Passif, 100 HP, donne de la viande crue et de l'ivoire vendable au <mark style="color:yellow;">**`/shop`**</mark>.
-* <mark style="color:yellow;">**Hippopotame**</mark>** :** Passif, 60 HP, donne de la viande crue.
-
-### <mark style="color:yellow;">**Biome Arctique**</mark>
-
-* <mark style="color:yellow;">**Ours polaire**</mark>** :** Agressif, 80 HP, donne du cuir et du poisson.
-* <mark style="color:yellow;">**Mammouth**</mark>** :** Agressif, 150 HP, donne de l'ivoire, de la viande et du cuir de mammouth.
-
-### <mark style="color:yellow;">B</mark><mark style="color:yellow;">**iome Tropical**</mark>
-
-* <mark style="color:yellow;">**Panthère**</mark>** :** Agressive, 100 HP, donne de la viande crue, du cuir et de la fourrure de panthère vendable au <mark style="color:yellow;">**`/shop`**</mark>.
-* <mark style="color:yellow;">**Anaconda**</mark>** :** Passif (devient agressif si attaqué), 150 HP, donne de la viande crue et des écailles de serpent.
-
-### <mark style="color:yellow;">B</mark><mark style="color:yellow;">**iome Plaine Exotique**</mark>
-
-* <mark style="color:yellow;">**Cerf**</mark>** :** Passif (devient agressif si attaqué), 20 HP, donne du cuir et des bâtons.
-* <mark style="color:yellow;">**Écureuil**</mark>** :** Passif, 20 HP, donne du cuir et des noisettes.
+Grâce à ces drops personnalisés, tu découvriras dès le début que le serveur offre de nouveaux objets vendables au /shop. Va découvrir les différents animaux et objets, que tu peux obtenir dans la sous-catégorie "les animaux".

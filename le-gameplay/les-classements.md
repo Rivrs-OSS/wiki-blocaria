@@ -6,7 +6,7 @@ description: Retrouvez ici toutes les informations concernant les classements
 
 En favorisant l'aspect non compétitif du serveur, les classements sont conçus pour être une source de divertissement pour chaque joueur plutôt qu'une source de compétition.
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:yellow;"><strong><code>/classements</code></strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:yellow;"><strong><code>/classements</code></strong></mark></p></figcaption></figure>
 
 À gauche du menu, tu peux retrouver tes statistiques, notamment tes points dans la catégorie sélectionnée et ta position dans celle-ci.
 
@@ -16,21 +16,15 @@ Il n’y aura aucune récompense pour chaque classement sauf deux exceptions.
 
 ## <mark style="color:yellow;">Q</mark><mark style="color:yellow;">**uels sont les différents classements ?**</mark>
 
-* <mark style="color:yellow;">**Niveaux de Box**</mark> : Suivi des niveaux des box. Les membres de la meilleure box de chaque mois obtiendront un grade <mark style="color:yellow;">**Champion**</mark>, purement esthétique.&#x20;
+* <mark style="color:yellow;">**Niveaux de Box**</mark> : Suivi des niveaux des box. Les membres de la meilleure box de chaque mois obtiendront un grade <mark style="color:yellow;">**Champion**</mark>, purement esthétique.
 
 {% hint style="warning" %}
 Attention, ce grade est réinitialisé chaque début de mois pour laisser une chance aux autres. 😉
 {% endhint %}
 
-* <mark style="color:yellow;">**Vote**</mark> : Chaque fin de mois, les 10 meilleurs votants obtiendront des Gemmes en fonction de leur position dans le classement.
+* <mark style="color:yellow;">**Vote**</mark> : Chaque fin de mois, les 10 meilleurs votants obtiendront des Gemmes ou de l'argent en fonction de leur position dans le classement.
 * <mark style="color:yellow;">**Collections**</mark> : Chaque fois qu’un joueur ajoute un objet customisé dans sa collection, il obtient un point pour le classement collection. Cela donne une utilité à la collecte d’objets.
-* <mark style="color:yellow;">**Niveau de personnage**</mark> : Suivi des niveaux de personnage.
-* <mark style="color:yellow;">**Explorateur**</mark> : Bientôt disponible !
-* <mark style="color:yellow;">**Bûcheron**</mark> : Suivi des niveaux de métier de bûcheron.
-* <mark style="color:yellow;">**Chasseur**</mark> : Suivi des niveaux de métier de chasseur.
-* <mark style="color:yellow;">**Mineur**</mark> : Suivi des niveaux de métier de mineur.
-* <mark style="color:yellow;">**Pêcheur**</mark> : Suivi des niveaux de métier de pêcheur.
-* <mark style="color:yellow;">**Agriculteur**</mark> : Suivi des niveaux de métier d'agriculteur.
+* <mark style="color:yellow;">**Capsules**</mark> : Chaque action dans un métier rapporte des points pour le classement.
 * <mark style="color:yellow;">**Créatures Tuées**</mark> : Suivi du nombre de créatures tuées.
 * <mark style="color:yellow;">**Cultures récoltées**</mark> : Suivi du nombre de cultures récoltées.
 * <mark style="color:yellow;">**Poissons Pêchés**</mark> : Suivi du nombre de poissons pêchés.

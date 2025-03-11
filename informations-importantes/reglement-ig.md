@@ -36,8 +36,6 @@ Le règlement est susceptible de changer à tout moment sans préavis, nous vous
 * Toute forme d'alliance entre box est interdite si elle a pour but de vous faire progresser dans le classement d'île (cela comprend les items de niveau d'ile du mois, l'argent, ainsi que tout autre item permettant de propulser une box dans le classement). Tout abus sur ceci sera sanctionné.
 * Il est interdit d'utiliser une box tierce à but de contourner des limites (Hoppers, joueurs etc) sur votre box secondaire (avec l’utilisation d’un double compte par exemple).
 
-
-
 ## <mark style="color:yellow;">Partie II : Le Chat</mark>
 
 ### <mark style="color:yellow;">Article A : Règles générales</mark>
@@ -80,10 +78,7 @@ Le règlement est susceptible de changer à tout moment sans préavis, nous vous
 * Ainsi, il est interdit de promouvoir un serveur concurrent ou de citer un serveur autres que ceux de Rivrs.
 * La publicité de son propre contenu (vidéos Youtube, chaîne Twitch, compte TikTok…) est interdite sur le serveur, hormis si vous disposez du grade Créateur ou Partenaire.
 
-Chaque pub quelle qu'elle soit se doit d'être espacée de 20 minutes (pwarp, vente d'item, annonce d'événement, promotion d'un item...).&#x20;
-
-\
-
+Chaque pub quelle qu'elle soit se doit d'être espacée de 20 minutes (pwarp, vente d'item, annonce d'événement, promotion d'un item...).
 
 ## <mark style="color:yellow;">Partie III : Le Gameplay</mark>
 
@@ -106,12 +101,12 @@ Si les preuves sont suffisantes et en fonction de la situation, le joueur fautif
 * Il est interdit d'utiliser une machine à pêche ou de farmer avec un véhicule (bateau, wagon, etc).
 * Il est interdit de poser des homes dans les autres box sans l'accord du chef de l'île.
 * La construction obscène, raciste et discriminante.
-* Les jeux de hasard :&#x20;
+* Les jeux de hasard :
   * Les seuls jeux de hasard autorisés sur le serveur sont les jeux type casino. Il est obligatoire d’afficher le pourcentage d’obtention des lots.
   * En cas de doute sur la fiabilité d'un casino, il est possible de demander à un Modérateur de le vérifier.
 * La vente d’items, de services ou autres en jeu contre l’argent réel ou des gemmes est interdite.
 * Le fait de poser/casser des **blocs farmables** (bois, pierres, minerais...) pour les missions coopératives, les rituels
-* La vente de cosmétiques, d’items de missions, d’items renommés dans le but de tromper ou de faire de la pub, de fausses clés, de fausses têtes, de tête du staff, d’items exclusifs désenchantés, de shulkers contenant des items interdits à la vente est interdite.
+* La vente de cosmétiques, d’items de missions, d’items renommés dans le but de tromper ou de faire de la pub, de fausses clés, de fausses têtes, de tête du staff, d’items exclusifs désenchantés.
 * La vente d'empty spawner, de spawners renommés ou encore de rituels expirés est interdit.
 * Faire des chargements de chunks ou chunkloader.
 
@@ -127,7 +122,7 @@ Il est interdit de dévoiler dans le chat public les informations liées aux qu�
 
 ### <mark style="color:yellow;">Article C : Utilisation de la Redstone</mark>
 
-* La redstone est à utiliser dans la limite du raisonnable et de l'utile.&#x20;
+* La redstone est à utiliser dans la limite du raisonnable et de l'utile.
 * Les usines dites "0-tick", machines volantes ainsi que l’ensemble des machines de duplication sont interdites.
 * Les machines créant des lags, volontairement ou non, sont interdites.
 * Les usines sans système on/off pour éteindre votre clock sont interdites.
@@ -152,12 +147,14 @@ Si votre système ne respecte pas les règles du serveur, celui-ci sera supprim�
 
 *   **Tous les mods donnant un avantage sur les autres joueurs :**
 
-    * X-Ray / FreeCam&#x20;
+    * X-Ray / FreeCam
     * FlyMod
-    * AutoClick / AutoMine / AutoPêche / AutoJump / AutoSell / Macros / BindClick / Script / …&#x20;
+    * AutoClick / AutoMine / AutoPêche / AutoJump / AutoSell / Macros / BindClick / Script / …
     * AutoTools
 
     Cette liste n'est pas exhaustive, en cas de doute, merci de demander l'accord à un staff.
+
+Pour ce qui est de l'autoclick, tout moyen utilisé pour miner automatiquement, que ce soit avec un mod ou tout autre procédé, sera considéré comme de l'autoclick. Par exemple, si vous tenez la souris en main et partez aux toilettes pendant qu'une vérification est effectuée, vous serez banni pour autoclick.
 
 ### <mark style="color:yellow;">Article F : Les doubles comptes</mark>
 
@@ -171,7 +168,7 @@ Si votre système ne respecte pas les règles du serveur, celui-ci sera supprim�
 
 ### <mark style="color:yellow;">Article G : L'AFK</mark>
 
-* L'AFK est autorisé sur le serveur pendant 15 minutes au minimum ou plus selon votre grade **(uniquement si vous ne réalisez pas d’actions)**. Au-delà, vous serez téléporté au spawn.&#x20;
+* L'AFK est autorisé sur le serveur pendant 15 minutes au minimum ou plus selon votre grade **(uniquement si vous ne réalisez pas d’actions)**. Au-delà, vous serez téléporté au spawn.
 * **Des vérifications d'AFK sont régulièrement effectuées par les Modérateurs, tout manquement à celles-ci sont passibles de sanctions, même en étant physiquement présent devant l’écran.**
 * Il est aussi interdit de contourner l'anti-AFK de quelconque manière, sous peine de sanctions.
 
@@ -185,7 +182,7 @@ Si votre système ne respecte pas les règles du serveur, celui-ci sera supprim�
 ### <mark style="color:yellow;">Article I : Les remboursements</mark>
 
 * Les demandes de remboursement se font par tickets sur le serveur Discord.
-* Nous ne remboursons pas les pertes liées aux items non reçus par manque de place dans l’inventaire, cela est aussi valable pour les clés de vote ainsi que pour vos achats.
+* Nous ne remboursons pas les pertes liées aux items non reçus par manque de place dans l’inventaire, les voles au sein de la box, cela est aussi valable pour les clés de vote ainsi que pour vos achats.
 * Seules les pertes liées à un problème serveur sont remboursées.
 * Les pertes dues à une erreur d’inattention seront refusées (pertes dues au clearlag, jeter un item dans la lave, etc.).
 * Un bannissement temporaire ou définitif vous privera de tous vos avantages jusqu'à la fin (s'il y en a une) de la sanction. Aucun transfert ne sera possible durant la durée d'une sanction et tous vos "biens" en jeu sont gelés.
