@@ -215,8 +215,8 @@ Les remboursements de vol ne sont pas automatiques, il est de la responsabilité
 
 ### <mark style="color:yellow;">Article J : Propriétaire de box</mark>
 
-* Un joueur désigné comme Lead de Box doit être actif sur le serveur. En cas d’inactivité supérieure à 15 jours, le Lead pourra être transféré.
-* Si un Lead de Box prévoit une absence prolongée, il est conseillé de prévenir le staff ou de transférer temporairement son rôle à un autre membre de confiance.
+* Un joueur désigné comme propriétaire de la Box doit être actif sur le serveur. En cas d’inactivité supérieure à 15 jours, le propriétaire pourra être transféré.
+* Si un propriétaire de la Box prévoit une absence prolongée, il est conseillé de prévenir le staff ou de transférer temporairement son rôle à un autre membre de confiance.
 * Toute tentative d'abus ou d'inactivité prolongée pour bloquer la gestion d’une Box pourra être sanctionnée.
 
 ### <mark style="color:yellow;">Article K : Achat et gestion des PW</mark>
