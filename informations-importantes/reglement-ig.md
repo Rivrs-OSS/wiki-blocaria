@@ -43,6 +43,9 @@ Le règlement est susceptible de changer à tout moment sans préavis, nous vous
 * Le chat est un espace de libre échange où les discussions s'effectuent dans le respect.
 * La modification de la typologie d’écriture n’est pas autorisée.
 * La langue officielle du serveur est le français, la langue anglaise reste cependant tolérée.
+* L’utilisation de caractères spéciaux dans les /nick, sur les panneaux, dans le chat, … est strictement interdite.
+* Toute infraction pourra entraîner une modification forcée du pseudo ou du panneau, ainsi qu’une sanction.
+* En cas de situation ambiguë, sur un message ou autres situations, l’interprétation du staff fera foi.
 
 ### <mark style="color:yellow;">Article B : Un langage respectueux</mark>
 
@@ -69,6 +72,8 @@ Le règlement est susceptible de changer à tout moment sans préavis, nous vous
 * L’envoi de liens dans le chat est interdit.
 * L’usurpation d’identité est sanctionnable.
 * La divulgation d’informations privées est strictement interdite et entraînera de lourdes sanctions.
+* Trois emojis sont autorisés par message dans le chat.
+* L’abus d'emotes pour polluer la discussion est interdit et pourra être sanctionné.
 
 ### <mark style="color:yellow;">Article C : La Publicité</mark>
 
@@ -85,6 +90,15 @@ Chaque pub quelle qu'elle soit se doit d'être espacée de 20 minutes (pwarp, ve
 ### <mark style="color:yellow;">Article A : Interactions entre joueurs</mark>
 
 * Les interactions entre les joueurs doivent être effectuées de manière respectueuse et bienveillante.
+*   Toute forme d'anti-jeu est interdite dans les zones événement, zones farm, …
+
+    Cela inclut, mais ne se limite pas à :
+
+    * Bloquer ou gêner volontairement les autres joueurs.
+    * Exploiter des mécaniques du jeu pour empêcher le bon déroulement d'un événement.
+    * Utiliser des bugs/glitch pour obtenir un avantage injuste.
+
+    Toute infraction pourra entraîner une sanction adaptée selon la gravité des faits.
 * Les arnaques, les pillages, les vols, les griefs, les trahisons et toutes autres actions pouvant nuire à l'expérience de jeu des autres joueurs sont interdits.
 * Il est interdit de rejoindre une box, ou de faire quelconque action de bug ou utilisation de logiciels interdits dans un but de copier les farms/pattern déjà présentes sur celle-ci.
 * Il est interdit de récupérer du stuff ou des schématiques sur une box avant de la quitter sans accord préalable avec son chef.
@@ -107,8 +121,12 @@ Si les preuves sont suffisantes et en fonction de la situation, le joueur fautif
 * La vente d’items, de services ou autres en jeu contre l’argent réel ou des gemmes est interdite.
 * Le fait de poser/casser des **blocs farmables** (bois, pierres, minerais...) pour les missions coopératives, les rituels
 * La vente de cosmétiques, d’items de missions, d’items renommés dans le but de tromper ou de faire de la pub, de fausses clés, de fausses têtes, de tête du staff, d’items exclusifs désenchantés.
-* La vente d'empty spawner, de spawners renommés ou encore de rituels expirés est interdit.
 * Faire des chargements de chunks ou chunkloader.
+* Le prêt d’items entre joueurs est strictement interdit.
+  * Tout échange d’objets doit être définitif afin d’éviter les litiges.
+  * Le staff ne procédera à aucun remboursement en cas de non-restitution d’un item prêté.
+* Tout clique supérieure ou égale à 10 CPS peut entraîner une sanction immédiate.&#x20;
+  * Cette règle s’applique dans tous les cas de figure.
 
 {% hint style="warning" %}
 Cette liste n'est pas exhaustive.
@@ -142,6 +160,8 @@ Si votre système ne respecte pas les règles du serveur, celui-ci sera supprim�
   * Toggle Sneak / Sprint.
   * Inventory Tweaks.
   * Mini-map
+  * Shulker Box Tooltip
+  * EntityCulling
 
 ### <mark style="color:yellow;">Article E : Les mods interdits</mark>
 
@@ -189,8 +209,48 @@ Pour ce qui est de l'autoclick, tout moyen utilisé pour miner automatiquement, 
 * Si vous n'avez pas les preuves suffisantes, votre demande de remboursement peut être refusée.
 
 {% hint style="warning" %}
-Nous vous conseillons fortement d’appuyer vos demandes de remboursement par une preuve vidéo, des screens ou autres pour garantir de meilleurs délais.
+Nous vous conseillons fortement d’appuyer vos demandes de remboursement par une preuve vidéo, des screens ou autres pour garantir de meilleurs délais.\
+Les remboursements de vol ne sont pas automatiques, il est de la responsabilité du joueur de sécuriser ses coffres avec un cadenas (/cadenas sur un coffre) pour éviter toute perte.
 {% endhint %}
+
+### <mark style="color:yellow;">Article J : Propriétaire de box</mark>
+
+* Un joueur désigné comme Lead de Box doit être actif sur le serveur. En cas d’inactivité supérieure à 15 jours, le Lead pourra être transféré.
+* Si un Lead de Box prévoit une absence prolongée, il est conseillé de prévenir le staff ou de transférer temporairement son rôle à un autre membre de confiance.
+* Toute tentative d'abus ou d'inactivité prolongée pour bloquer la gestion d’une Box pourra être sanctionnée.
+
+### <mark style="color:yellow;">Article K : Achat et gestion des PW</mark>
+
+* Un PW peut être acheté à la suite de l'inactivité de la box pendant 60 jours.
+* Le prix d'achat d'un PW est fixé à 100 millions.
+* Les pubs doivent être faites une fois toutes les 20 minutes, quel que soit le pw ou la personne.&#x20;
+
+### <mark style="color:yellow;">Article L : L’hôtel des Ventes</mark>
+
+* Chaque joueur est responsable du prix qu’il fixe pour ses objets sur l’hôtel des ventes (/ah).
+* Si un joueur met un prix trop haut ou trop bas par erreur, aucune demande de remboursement ne pourra être imposée au staff ou à l’acheteur.
+* Il est recommandé de vérifier attentivement le prix avant de mettre un objet en vente.
+* Toute arnaque via l’hôtel des ventes (/ah) est interdite.
+  * Cela inclut, mais ne se limite pas à :
+    * Renommer des items de manière trompeuse (ex. renommer une shulker "Full Banane" alors qu'elle contient moins que prévu).
+    * Vendre des items en prétendant qu'ils ont une valeur ou un effet qu'ils n'ont pas.
+    * Toute tentative d'arnaque sera sanctionnée.
+* Il est interdit de faire artificiellement monter ou descendre les prix du marché en achetant et revendant des objets.
+  * Toute tentative de manipulation économique sera sanctionnée.
+* La vente d'empty spawner, de spawners renommés ou encore de rituels expirés est interdit.
+* Il est interdit de faire la vente : de cosmétiques, d’items de missions, d’items renommés dans le but de tromper ou de faire de la pub, de fausses clés, de fausses têtes, de tête du staff, d’items exclusifs désenchantés. Cette interdiction s’applique sur tout le serveur et non pas qu’à l’ah.
+
+### <mark style="color:yellow;">Article M : Limite de joueurs par box</mark>
+
+* Une box ne peut pas contenir plus de 10 membres simultanément.
+* Il est interdit de kick un membre pour en ajouter un autre temporairement dans le but d’optimiser le farm.
+  * Toute tentative de contournement de cette règle sera sanctionnée.
+
+### <mark style="color:yellow;">Article N : Gestion des départs de box</mark>
+
+* Tout joueur se faisant expulser, conserve la propriété des items présents dans son inventaire, ainsi que tous les items présents dans ses coffres/shulker (lock) ou ses qs shop.
+* Les items achetés ou farmés pour la box restent la propriété du joueur sauf s’il quitte la box avant un délai de 15 jours. Passé ce délai, tout item acquis pour la box est considéré comme appartenant à la box et ne pourra pas être récupéré.
+* L'argent présent dans le `/box bank`, englobant donc l’argent apporté ou non par le joueur, appartient à la box (donc au chef de box). Cette règle s’applique au bout de 24h après le dépôt de cette somme. Concernant l’argent présent sur le compte personnel du joueur, il lui appartient et reste sa propriété. &#x20;
 
 En vous connectant sur nos plateformes, nous considérons que vous avez lu et accepté ledit règlement, même en cas de changement.
 
