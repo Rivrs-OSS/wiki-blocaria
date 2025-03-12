@@ -189,7 +189,7 @@ Pour ce qui est de l'autoclick, tout moyen utilisé pour miner automatiquement, 
 ### <mark style="color:yellow;">Article G : L'AFK</mark>
 
 * L'AFK est autorisé sur le serveur pendant 15 minutes au minimum ou plus selon votre grade **(uniquement si vous ne réalisez pas d’actions)**. Au-delà, vous serez téléporté au spawn.
-* **Des vérifications d'AFK sont régulièrement effectuées par les Modérateurs, tout manquement à celles-ci sont passibles de sanctions, même en étant physiquement présent devant l’écran.**
+* Des vérifications d'AFK sont régulièrement effectuées par les Modérateurs, tout manquement à celles-ci sont passibles de sanctions, même en étant physiquement présent devant l’écran.
 * Il est aussi interdit de contourner l'anti-AFK de quelconque manière, sous peine de sanctions.
 
 ### <mark style="color:yellow;">Article H : Triche et usebugs</mark>
