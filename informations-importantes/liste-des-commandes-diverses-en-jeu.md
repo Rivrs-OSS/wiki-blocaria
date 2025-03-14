@@ -361,3 +361,5 @@ description: Retrouvez ici toutes les informations concernant les commandes
 `/fly time` : affiche le temps de vol disponible
 
 `/whereiam` : affiche le serveur sur lequel vous êtes actuellement
+
+`/e` : ouvre la liste des emojis disponibles
