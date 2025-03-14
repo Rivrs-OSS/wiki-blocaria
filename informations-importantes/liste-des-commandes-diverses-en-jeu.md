@@ -206,6 +206,8 @@ description: Retrouvez ici toutes les informations concernant les commandes
 
 `/pweather [clear/downfall/off]` : change la météo locale du joueur
 
+`/parametres` : affiche les paramètres du joueur
+
 ## <mark style="color:yellow;">Companions</mark>
 
 `/pet deactivate [nom du pet]` : retire le pet de la sélection active
