@@ -32,6 +32,8 @@ description: Retrouvez ici toutes les informations concernant les commandes
 
 `/jobs` : ouvre l'interface des job
 
+`/personnage` : ouvre l'interface des niveaux de personnage
+
 `/rangs` : ouvre l'interface des rangs
 
 `/pw` : ouvre l'interface des warps des joueurs
