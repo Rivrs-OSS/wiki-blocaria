@@ -338,6 +338,8 @@ description: Retrouvez ici toutes les informations concernant les commandes
 
 `/bar` : ouvre le bar
 
+`/fish shop` : ouvre le poissonnier
+
 `/catalogue` : ouvre le catalogue premium du Minekea
 
 `/hdb` : ouvre le catalogue de têtes
@@ -357,6 +359,8 @@ description: Retrouvez ici toutes les informations concernant les commandes
 `/events` : ouvre l'interface des événements
 
 `/collections` : ouvre l'interface des différentes collections
+
+`/clearlag info` : indique le temps restant avant le prochain clearlag
 
 `/generateur` : affiche les différentes paliers du générateur
 
