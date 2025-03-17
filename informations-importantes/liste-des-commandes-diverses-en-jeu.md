@@ -12,198 +12,360 @@ description: Retrouvez ici toutes les informations concernant les commandes
 `{...}` Signifie que le paramètre est optionnel
 {% endhint %}
 
-## <mark style="color:yellow;">Box:</mark>
+## <mark style="color:yellow;">Commandes de Base</mark>
 
-`/box menu` : permet d’ouvrir le menu de la box
+`/spawn` : téléporte au spawn
 
-`/box go` : permet d’aller sur sa box
+`/hub` : téléporte au hub
 
-`/box missions` : permet d’ouvrir le menu des quêtes communes aux membres pour agrandir la taille de la boxe avec plusieurs niveaux
+`/codex` : ouvre les warps du spawn
 
-`/box create` : permet de créer une box
+`/reglement` : renvoie vers le règlement du serveur
 
-`/box disband` : permet de supprimer sa box en étant le chef
+`/wiki` : affiche toutes les informations nécessaires pour jouer sur le serveur
 
-`/box leave` : permet de quitter sa box /box invite pseudo : permet d’inviter un joueur à rejoindre sa box
+`/discord` : renvoie vers le serveur Discord
 
-`/box accept [pseudo/nom de l’île]` : permet d’accepter une invitation
+`/profil {pseudo}` : affiche le profil d'un joueur
 
-`/box balance [pseudo/nom de l’île]` : permet de voir l’argent sur la banque
+`/box` : téléporte sur la box
 
-`/box bank logs` : permet de voir les logs de sa banque
+`/jobs` : ouvre l'interface des job
 
-`/box deposit [somme]` : permet de déposer de l’argent dans sa banque
+`/personnage` : ouvre l'interface des niveaux de personnage
 
-`/box withdraw [somme]`: permet de retirer de l’argent de sa banque
+`/rangs` : ouvre l'interface des rangs
 
-`/box ban [pseudo]`: permet de bannir un joueur de sa box /m
+`/pw` : ouvre l'interface des warps des joueurs
 
-`/box pardon [pseudo]`: permet de débannir un joueur de sa box
+`/pets` : affiche le menu des companions
 
-`/box expel [pseudo]`: permet d’expulser un joueur présent sur sa box mais pas membre de la box
+`/boutique` : ouvre la boutique de gemmes
 
-`/box kick <pseudo>`: permet de kick un membre de sa box
+`/shop` : ouvre le shop
 
-`/box toggle border` : permet d’activer ou de désactiver les bordures de la box&#x20;
+`/ah` : ouvre l'hôtel des ventes
 
-`/box border <couleur>`: permet de changer la couleur des bordures de sa box (personnel)
+`/fly` : active/désactive le vol
 
-`/box open` : permet d’ouvrir sa box au public
+## <mark style="color:yellow;">Box</mark>
 
-`/box close` : permet de fermer sa box au public
+`/box help {1-7}` : affiche les commandes disponibles concernant les box
 
-`/box coop <pseudo>`: permet d’ajouter un joueur en tant de coopérateur sur sa box
+`/box menu` : ouvre le menu de la box
 
-`/box uncoop [pseudo]`: permet de supprimer un coopérateur de sa box
+`/box missions` : ouvre le menu des quêtes communes aux membres pour agrandir la taille de la boxe avec plusieurs niveaux
 
-`/box coops` : permet d’ouvrir le menu des coopérateurs
+`/box create [nom]` : crée une box
 
-`/box promote [pseudo]`: permet de promouvoir le rôle d’un membre de sa box
+`/box disband` : supprime la box (disponible uniquement pour le chef)
 
-`/box demote [pseudo]`: permet de rétrograder le rôle d’un membre de sa box
+`/box leave` : quitte la box 
 
-`/box setrole [pseudo] <rôle>`: permet de changer le rôle d’un membre de sa box
+`/box invite [pseudo]` : invite un joueur à rejoindre la box
 
-`/box transfer [pseudo]`: permet de transférer le lead de sa box à un autre membre
+`/box accept [pseudo/nom de l’île]` : accepte une invitation
 
-`/box counts <pseudo/nom> de l’île` : permet d’afficher le compteur de blocs de la box
+`/box balance` : affiche l’argent sur la banque
 
-`/box team <pseudo/nom> de l’île` : permet d’obtenir des informations sur les membres d’une box
+`/box bank` : ouvre l'interface de la banque
 
-`/box info` : permet d’ouvrir des informations sur une box
+`/box bank logs` : affiche les logs de la banque
 
-`/box name [nom]`: permet de changer le nom de sa box
+`/box deposit [somme]` : dépose de l’argent dans la banque
 
-`/box upgrades` : permet d’augmenter sa box /box top : permet d’ouvrir le menu du classement des box
+`/box withdraw [somme]` : retire de l’argent de la banque
 
-`/box permissions` : permet de modifier les permissions générales de sa box
+`/box ban [pseudo]` : bannit un joueur de la box
 
-`/box permissions [pseudo]`: permet de modifier les permissions d’un joueur sur sa box
+`/box unban [pseudo]` : débannit un joueur de la box
 
-`/box settings` : permet d’ouvrir le menu des paramètres de sa box
+`/box expel [pseudo]` : expulse un joueur présent sur la box mais pas membre de la box
 
-`/box setgo` : permet de changer la position de téléportation de sa box
+`/box kick [pseudo]` : kick un membre de la box
 
-`/box tc` : permet de discuter dans le chat de sa box
+`/box toggle border` : active ou désactive les bordures de la box
 
-`/box visitors` : permet d’ouvrir le menu des visiteurs
+`/box border [couleur]` : change la couleur des bordures de la box (personnel)
 
-`/box biome` : permet de changer le biome de sa box
+`/box open` : ouvre la box au public
 
-`/box help` : permet d’avoir plus d’informations sur toutes les commandes
+`/box close` : ferme la box au public
 
-## <mark style="color:yellow;">Cadenas:</mark>
+`/box coop [pseudo]` : ajoute un joueur en tant que coopérateur sur la box
 
-`/cadenas lock` :  pour se privatiser un coffre (en ciblant le coffre ou autre)
+`/box uncoop [pseudo]` : retire un coopérateur de la box
 
-`/cadenas unlock` : pour se enlever la privatisation d'un coffre (en ciblant le coffre ou autre)
+`/box coops` : ouvre le menu des coopérateurs
 
-`/cadenas add [pseudo]`: pour donner l'accès à un coffre à un membre de votre île (en ciblant le coffre ou autre)
+`/box promote [pseudo]` : promeut le rôle d’un membre de la box
 
-`/cadenas remove [pseudo]` : pour enlever l'accès à un coffre à un membre de votre île (en ciblant le coffre ou autre)
+`/box demote [pseudo]` : rétrograde le rôle d’un membre de la box
 
-`/cadenas list`: pour obtenir la liste exhaustive des joueurs ayant accès au coffre ou autre
+`/box setrole [pseudo] [rôle]` : change le rôle d’un membre de la box
 
-## <mark style="color:yellow;">Social & Personnalisation</mark>
+`/box transfer [pseudo]` : transfère le lead de la box à un autre membre
 
-`/profil` :Affiche le profil du joueur.
+`/box counts {pseudo/nom de l’île}` : affiche le compteur de blocs de la box
 
-`/nick` : Change son pseudo du joueur.
+`/box team {pseudo/nom de l’île}` : affiche des informations sur les membres d’une box
 
-`/feed` : Restaure la barre de faim.
+`/box info {pseudo/nom de l’île}` : affiche des informations sur une box
 
-`/health` : Restaure la barre de santé.
+`/box name [nom]` : change le nom de la box
 
-`/ptime` : Change l'heure locale du joueur.
+`/box upgrades` : affiche les améliorations de la box
 
-`/pweather` : Change la météo locale du joueur.
+`/box top` : ouvre le menu du classement des box
 
-## <mark style="color:yellow;">Companions:</mark>&#x20;
+`/box permissions` : modifie les permissions générales de la box
 
-`/pet deactivate [nom du pet]` : permet de retirer le pet de la sélection active
+`/box permissions [pseudo]` : modifie les permissions d’un joueur sur la box
 
-`/pet` : permet d'acceder au menu des companions
+`/box settings` : ouvre le menu des paramètres de la box
+
+`/box setgo` : change la position de téléportation de la box
+
+`/box tc` : active le chat de la box
+
+`/box visitors` : ouvre le menu des visiteurs
+
+`/box biome` : ouvre l'interface des biomes disponibles dans la box
+
+## <mark style="color:yellow;">Jobs</mark>
+
+`/jobs join [métier]` : rejoint un métier
+
+`/jobs leave [métier]` : quitte un métier
+
+`/jobs info [métier]` : affiche toutes les informations concernant un job
+
+`/jobs bonus [métier]` : affiche les bonus actifs sur un job
+
+`/jobs claim` : délivre les récompenses de paliers de jobs (faire attention à avoir de la place dans votre inventaire)
+
+`/jobs stats` : affiche votre avancée globale
+
+`/jobs notify` : active/désactive les notifications de jobs
+
+## <mark style="color:yellow;">Warps</mark>
+
+`/pw set [nom]` : définit un warp sur votre emplacement actuel
+
+`/pw reset [nom]` : redéfinit un warp
+
+`/pw remove [nom]` : supprime un warp
+
+`/pw rename [ancien-nom] [nouveau-nom]` : renomme un warp
+
+`/pw rate [nom] [1-5]` : note un warp
+
+## <mark style="color:yellow;">Homes Personnels</mark>
+
+`/home [nom]` : téléporte à un home personnel
+
+`/sethome [nom]` : crée un home personnel sur votre emplacement actuel
+
+`/delhome [nom]` : supprime un home personnel
+
+## <mark style="color:yellow;">Téléportation entre Joueurs</mark>
+
+`/tpa [pseudo]` : envoie une demande de téléportation à un autre joueur
+
+`/tpahere [pseudo]` : propose à un autre joueur de se téléporter sur vous
+
+`/tpacancel {pseudo}` : annule une demande de téléportation
+
+`/tpaccept {pseudo}` : accepte une demande de téléportation
+
+`/tpadeny {pseudo}` : refuse une demande de téléportation
+
+## <mark style="color:yellow;">Cadenas</mark>
+
+`/cadenas lock` : privatise un coffre (en ciblant le coffre, idem pour le reste des commandes)
+
+`/cadenas unlock` : enlève la privatisation d'un coffre
+
+`/cadenas add [pseudo]` : donne l'accès à un coffre à un joueur
+
+`/cadenas remove [pseudo]` : enlève l'accès à un coffre à un joueur
+
+`/cadenas list` : obtient la liste exhaustive des joueurs ayant accès au coffre
+
+## <mark style="color:yellow;">Personnalisation</mark>
+
+`/nick [pseudo/off]` : change le pseudo affiché dans le chat
+
+`/glow` : ouvre l'interface du glow
+
+`/cosmetics` : ouvre l'interface des cosmétiques
+
+`/tags` : ouvre l'interface des icônes à mettre derrière son pseudo
+
+`/ptime set [day/night/%tick%]` : change l'heure locale du joueur
+
+`/pweather [clear/downfall/off]` : change la météo locale du joueur
+
+`/parametres` : affiche les paramètres du joueur
+
+## <mark style="color:yellow;">Companions</mark>
+
+`/pet deactivate [nom du pet]` : retire le pet de la sélection active
+
+`/pokedex` : affiche la liste de tous les companions présents sur le serveur
+
+## <mark style="color:yellow;">Intéractions entre Joueurs</mark>
+
+`/msg [pseudo] <message>` : envoie un message privé à un joueur
+
+`/r <message>` : répond à votre dernier message privé
+
+`/ignore add [pseudo]` : ignore un joueur
+
+`/ignore remove [pseudo]` : n'ignore plus un joueur
+
+`/ignore removeAll` : n'ignore plus aucun des joueurs ignorés auparavant
+
+`/ignore list` : liste tous les joueurs ignorés
+
+`/trade [pseudo]` : propose un échange avec un joueur
+
+`/trade accept` : accepte une demande d'échange
+
+`/trade deny` : refuse une demande d'échange
+
+`/pay [pseudo] [montant]` : donne de l'argent à un joueur
+
+## <mark style="color:yellow;">Boutique</mark>
+
+`/boutique_paliers` : affiche votre progession dans les paliers de boutique
+
+`/premium` : affiche les informations concernant l'abonnement mensuel
+
+`/objetsvip` : ouvre une boutique d'objets achetables avec des gemmes
+
+## <mark style="color:yellow;">Shop</mark>
+
+`/sell hand` : vend l'item que présent dans votre main
+
+`/sell all` : vend l'entièreté de votre inventaire
+
+## <mark style="color:yellow;">Hôtel des Ventes</mark>
+
+`/ah sell [prix]` : met l'item en main en vente
+
+`/ah average` : affiche le prix moyen de l'objet en main
+
+`/ah viewmine` : affiche vos objets mis en vente
+
+`/ah claim` : affiche vos objets à récupérer
+
+`/ah history` : affiche votre historique de vente et d'achat
 
 ## <mark style="color:yellow;">Artisanat & Services</mark>
 
-`/fly`: Active ou désactive le vol.
+`/forge` : ouvre la forge
 
-`/forgeron` : Permet de réparer un ou plusieurs items spécifiques.
+`/craft` : ouvre une table de craft
 
-`/xpbottle` : Remplit des bouteilles d'XP.
+`/trash` : ouvre la poubelle
 
-`/craft` : Ouvre une table de craft.
+`/anvil` : ouvre une enclume
 
-`/trash` : Jette les objets indésirables.
+`/grindstone` : ouvre une meule
 
-`/anvil` : Ouvre une enclume.
+`/stonecutter` : ouvre une machine de découpe de pierre
 
-`/grindstone` : Ouvre une meule.
+`/smithingtable` : ouvre une table de forge
 
-`/stonecutter` : Ouvre une machine de découpe de pierre.
+`/kits` : affiche les kits disponibles
 
-`/smithingtable` : Ouvre une table de forge.
+`/condense` : condense les objets en blocs
 
-`/kits` : Accède aux kits disponibles.
+`/ec` : ouvre l'ender chest
 
-`/condense` : Condense les objets en blocs.
+`/furnace` : cuit l'item dans votre main
 
-`/ec` : Permet d'ouvrir l'ender chest.
+`/furnace all` : cuit l'ensemble des items présents dans votre inventaire
 
-`/furnace` : Permet d'ouvrir l'interface d'un four.
+`/repair` : répare l'item dans votre main
 
-`/repair` : Permet de réparer l'item dans votre main.
+`/repair all` : répare l'ensemble des items présents dans votre inventaire
 
-`/repair all` : Permet de réparer l'ensemble des items présents dans votre inventaire.
+`/back` : retourne à votre dernière téléportation
 
-## <mark style="color:yellow;">Les autres commandes:</mark>
+`/feed` : restaure la barre de faim
 
-`/wiki` : permet d’obtenir toutes les informations nécessaires pour jouer sur le serveur
+`/regen` : restaure la barre de santé
 
-`/rangs` : permet d’améliorer ses rangs
+`/xpbottle` : remplit des bouteilles d'XP Vanilla
 
-`/jobs`: permet d’accéder aux jobs et leurs paliers
+`[i]` : identifie l'item en main dans le chat
 
-`/rewards` : permet d’obtenir des récompenses quotidiennes selon son temps de jeu
+## <mark style="color:yellow;">Quick Shops</mark>
 
-`/vote` : permet d’obtenir des récompenses en votant avec la possibilité de récupérer ses clés de vote, des paliers de vote et un classement
+`/qs help` : affiche toutes les commandes disponibles pour un shop joueur
 
-`/boutique` ou `/vip` ou `/grade` : permet d’ouvrir la boutique des gemmes
+`/qs create [somme]` : crée un shop joueur (en ciblant le coffre, idem pour le reste des commandes)
 
-**`/pay pseudo montant`** : permet de donner de l’argent à un joueur
+`/qs remove` : supprime un shop joueur
 
-**`/ah`** : permet d’accéder à l’hôtel des ventes global au serveur
+`/qs price [somme]` : change le prix d'achat/de vente d'un shop joueur
 
-**`/shop`** : permet d’accéder au shop du serveur
+`/qs buy` : change le shop joueur en mode achat
 
-**`/pw`** : permet d’ouvrir l’interface des warps des joueurs
+`/qs sell` : change le shop joueur en mode vente
 
-**`/tpa`**`[pseudo]`: permet de se téléporter à un autre joueur
+`/qs toggledisplay` : active/désactive l'affichage du shop joueur
 
-**`/sethome`**`[nom]`: permet de mettre à home personnel sur son emplacement actuel
+`/qs staff add [nom]` : ajoute un gérant au shop joueur
 
-**`/delhome`**`[nom]`: permet de supprimer un home
+`/qs staff del [nom]` : enlève un gérant au shop joueur
 
-**`/codex`** : permet d’ouvrir les warps du spawn
+`/qs staff list` : affiche la liste des gérants du shop joueur
 
-**`/qs create`**`[somme]`: permet de créer un shop joueur
+`/qs staff clear` : enlève tous les gérants du shop joueur
 
-**`/qs remove`** : permet de supprimer un shop joueur
+`/qs find [objet]` : localise le shop joueur le plus proche d'un type spécifique
 
-**`/qs price`**`[somme]` : permet de changer la somme d’un shop joueur
+## <mark style="color:yellow;">Autres Commandes</mark>
 
-**`/classements`** : permet de voir les différents classements du serveur
+`/rewards` : ouvre l'interface des récompenses quotidiennes selon son temps de jeu
 
-**`/pw set`**`[nom]`: permet de définir un warp
+`/vote` : ouvre l'interface des récompenses de vote
 
-**`/events`** : permet d’accéder à tous les événements du serveur
+`/antiquaireshop` : ouvre l'antiquaire
 
-**`/cosmetics`** : permet d’ouvrir l’interface des cosmétiques
+`/bar` : ouvre le bar
 
-**`/abonnement`** : permet d’avoir toutes les informations sur l’abonnement mensuel
+`/fish shop` : ouvre le poissonnier
 
-**`/tags`** : permet de mettre une icône derrière son pseudo
+`/catalogue` : ouvre le catalogue premium du Minekea
 
-**`/collection`** : permet d’accéder aux différentes collections
+`/hdb` : ouvre le catalogue de têtes
 
-**`/generateur`** : permet de voir les différents paliers du générateur
+`/enchere` : téléporte aux enchères
+
+`/mine` : téléporte à la mine
+
+`/pw trophées` : téléporte à la salle des trophées
+
+`/exploration` : téléporte au monde exploration
+
+`/compass` : active/désactive le codex dans votre inventaire
+
+`/classements` : affiche les différents classements
+
+`/events` : ouvre l'interface des événements
+
+`/collections` : ouvre l'interface des différentes collections
+
+`/clearlag info` : indique le temps restant avant le prochain clearlag
+
+`/generateur` : affiche les différentes paliers du générateur
+
+`/fly time` : affiche le temps de vol disponible
+
+`/whereiam` : affiche le serveur sur lequel vous êtes actuellement
+
+`/e` : ouvre la liste des emojis disponibles
