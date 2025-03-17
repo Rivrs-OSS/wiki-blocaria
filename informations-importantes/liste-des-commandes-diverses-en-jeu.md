@@ -66,8 +66,6 @@ description: Retrouvez ici toutes les informations concernant les commandes
 
 `/box accept [pseudo/nom de l’île]` : accepte une invitation
 
-`/box balance` : affiche l’argent sur la banque
-
 `/box bank` : ouvre l'interface de la banque
 
 `/box bank logs` : affiche les logs de la banque
