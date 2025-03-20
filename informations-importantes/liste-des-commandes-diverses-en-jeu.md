@@ -360,6 +360,8 @@ description: Retrouvez ici toutes les informations concernant les commandes
 
 `/clearlag info` : indique le temps restant avant le prochain clearlag
 
+`/limits` : indique la limite d'items que vous pouvez poser dans votre box pour certains items
+
 `/generateur` : affiche les différentes paliers du générateur
 
 `/fly time` : affiche le temps de vol disponible
