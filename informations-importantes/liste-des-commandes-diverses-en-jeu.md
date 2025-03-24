@@ -373,3 +373,5 @@ description: Retrouvez ici toutes les informations concernant les commandes
 `/whereiam` : affiche le serveur sur lequel vous êtes actuellement
 
 `/e` : ouvre la liste des emojis disponibles
+
+`/sb` : active/désactive le scoreboard lors des évènements, à écrire 2 fois pour désactiver
