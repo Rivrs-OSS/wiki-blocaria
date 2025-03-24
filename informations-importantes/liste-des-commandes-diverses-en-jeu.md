@@ -218,6 +218,8 @@ description: Retrouvez ici toutes les informations concernant les commandes
 
 `/r <message>` : répond à votre dernier message privé
 
+`/chattoggle` : active/désactive le chat global
+
 `/ignore add [pseudo]` : ignore un joueur
 
 `/ignore remove [pseudo]` : n'ignore plus un joueur
@@ -357,6 +359,8 @@ description: Retrouvez ici toutes les informations concernant les commandes
 `/events` : ouvre l'interface des événements
 
 `/collections` : ouvre l'interface des différentes collections
+
+`/droptoggle` : active/désactive le système anti-drop d'items
 
 `/clearlag info` : indique le temps restant avant le prochain clearlag
 
