@@ -218,6 +218,8 @@ description: Retrouvez ici toutes les informations concernant les commandes
 
 `/r <message>` : répond à votre dernier message privé
 
+`/chattoggle` : active/désactive le chat global
+
 `/ignore add [pseudo]` : ignore un joueur
 
 `/ignore remove [pseudo]` : n'ignore plus un joueur
@@ -358,6 +360,8 @@ description: Retrouvez ici toutes les informations concernant les commandes
 
 `/collections` : ouvre l'interface des différentes collections
 
+`/droptoggle` : active/désactive le système anti-drop d'items
+
 `/clearlag info` : indique le temps restant avant le prochain clearlag
 
 `/limits` : indique la limite d'items que vous pouvez poser dans votre box pour certains items
@@ -369,3 +373,5 @@ description: Retrouvez ici toutes les informations concernant les commandes
 `/whereiam` : affiche le serveur sur lequel vous êtes actuellement
 
 `/e` : ouvre la liste des emojis disponibles
+
+`/sb` : active/désactive le scoreboard lors des évènements, à écrire 2 fois pour désactiver
