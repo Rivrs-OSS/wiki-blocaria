@@ -334,6 +334,8 @@ description: Retrouvez ici toutes les informations concernant les commandes
 
 `/vote` : ouvre l'interface des récompenses de vote
 
+`/voteclaim` : délivre les récompenses de vote
+
 `/antiquaireshop` : ouvre l'antiquaire
 
 `/bar` : ouvre le bar
@@ -351,6 +353,8 @@ description: Retrouvez ici toutes les informations concernant les commandes
 `/pw trophées` : téléporte à la salle des trophées
 
 `/exploration` : téléporte au monde exploration
+
+`/exploinfo` : ouvre le wiki du monde exploration
 
 `/compass` : active/désactive le codex dans votre inventaire
 
