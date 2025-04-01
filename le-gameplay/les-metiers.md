@@ -39,7 +39,7 @@ Au niveau 80 et 175 de chaque métier, tu obtiendras un outil spéciale qui t'ai
 
 ## <mark style="color:yellow;">**Système de palier journalier**</mark>
 
-<mark style="color:yellow;">**Objectif quotidien**</mark> : Chaque jour, un objectif aléatoire est assigné au métier que tu exerces (par exemple, “Tuer 5000 cochons dans ta box” si tu as choisi le métier de chasseur). Une fois l’objectif rempli, tu obtiens un bonus de +1% par jour pour ton expérience métier, jusqu’à un maximum de 15%. Ce boost est global et te permet de progresser plus rapidement dans les métiers. De plus, une récompense supplémentaire peut être obtenue. pour récupérer la récompense des paliers il faut faire la commande '/jobs claim'
+<mark style="color:yellow;">**Objectif quotidien**</mark> : Chaque jour, un objectif aléatoire est assigné au métier que tu exerces (par exemple, “Tuer 5000 cochons dans ta box” si tu as choisi le métier de chasseur). Une fois l’objectif rempli, tu obtiens un bonus de +1% par jour pour ton expérience métier, jusqu’à un maximum de 15%. Ce boost est global et te permet de progresser plus rapidement dans les métiers. De plus, une récompense supplémentaire peut être obtenue. pour récupérer la récompense des paliers il faut faire la commande <mark style="color:yellow;">**`/jobs claim`**</mark>.
 
 <mark style="color:yellow;">**Compatibilité**</mark> : Ce système de boost s'additionne aux autres boosts. Par exemple, si tu possèdes un objet qui te confère un boost de 5% dans les métiers, ce bonus s’ajoutera à celui de l’objectif quotidien.
 

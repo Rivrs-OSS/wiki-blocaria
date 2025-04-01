@@ -48,7 +48,7 @@ Offre une large gamme de meubles uniques. Parfait pour personnaliser et meubler 
 
 <mark style="color:yellow;">**Poissonnier**</mark> :
 
-Revend de poissons customisés et normaux (redirection du <mark style="color:yellow;">**`/fish shop`**</mark>).
+Achète les poissons customisés (<mark style="color:yellow;">**`/fish shop`**</mark>).
 
 <mark style="color:yellow;">**Antiquaire**</mark> :
 
@@ -56,11 +56,11 @@ Revend de poissons customisés et normaux (redirection du <mark style="color:yel
 
 <mark style="color:yellow;">**Luxury Cosmetique**</mark> :
 
-Propose un système de cosmétiques. Personnalise l'apparence de ton personnage avec des vêtements uniques et stylés.
+Propose un système de cosmétiques. Personnalise l'apparence de ton personnage avec des vêtements uniques et stylés (<mark style="color:yellow;">**/cosmetics**</mark>).
 
 <mark style="color:yellow;">**Barmaid**</mark> :
 
-Vente de différentes boissons avec un pourcentage de récompense variable suivant la boisson choisie.
+Vente de différentes boissons avec un pourcentage de récompense variable suivant la boisson choisie (<mark style="color:yellow;">**/bar**</mark>).
 
 <mark style="color:yellow;">**Marché Noir**</mark> :
 
@@ -68,15 +68,11 @@ Permet d'acheter 5 marchandises générées par jour, disponibles en quantité l
 
 <mark style="color:yellow;">**Forgeron**</mark> :
 
-Permet de réparer tes objets grâce à la poudre de perlimpinpin, garantissant la longévité de ton équipement.
+Permet de réparer tes objets grâce à la poudre de perlimpinpin, garantissant la longévité de ton équipement (<mark style="color:yellow;">**/forge**</mark>).
 
 ## <mark style="color:yellow;">La mine</mark>
 
-Une mine est accessible via la commande `/carriere`, où vous pouvez descendre pour extraire des ressources précieuses. Cependant, l'accès à la mine est réglementé et nécessite des rangs spécifiques.
-
-**Commande pour accéder :**
-
-* Tapez `/carriere` pour vous rendre à l'entrée de la mine.
+Une mine est accessible via la commande <mark style="color:yellow;">**/mine**</mark>, où vous pouvez descendre pour extraire des ressources précieuses. Cependant, l'accès à la mine est réglementé et nécessite des rangs spécifiques.
 
 Pour descendre dans la mine et commencer à extraire ressources rares, vous devez posséder un rang spécifique. Chaque rang permet l'accès à différents niveaux de la mine, offrant ainsi des ressources de plus en plus rares.
 
