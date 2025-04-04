@@ -141,7 +141,7 @@ Il est interdit de dévoiler dans le chat public les informations liées aux qu�
 ### <mark style="color:yellow;">Article C : Utilisation de la Redstone</mark>
 
 * La redstone est à utiliser dans la limite du raisonnable et de l'utile.
-* Les usines dites "0-tick", machines volantes ainsi que l’ensemble des machines de duplication sont interdites.
+* Les usines en dessous de "4-ticks", machines volantes ainsi que l’ensemble des machines de duplication sont interdites.
 * Les machines créant des lags, volontairement ou non, sont interdites.
 * Les usines sans système on/off pour éteindre votre clock sont interdites.
 * Les trieurs d'items ne possédant pas de système pour détruire les objets automatiquement (avec de la lave) pourront se faire enlever par la modération.
