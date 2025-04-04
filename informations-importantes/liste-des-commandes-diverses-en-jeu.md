@@ -142,7 +142,7 @@ description: Retrouvez ici toutes les informations concernant les commandes
 
 `/jobs claim` : délivre les récompenses de paliers de jobs (faire attention à avoir de la place dans votre inventaire)
 
-`/jobs stats` : affiche votre avancée globale
+`/jobs stats {pseudo}` : affiche l'avancée globale d'un joueur
 
 `/jobs notify` : active/désactive les notifications de jobs
 
