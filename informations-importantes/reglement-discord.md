@@ -13,6 +13,7 @@ description: >-
 * Votre image de profil ne doit pas faire référence à du contenu obscène ou à de la politique.
 * Les images de profil ne doivent pas être offensantes envers quelconque individu ou groupe d'individus.
 * Il est interdit d'afficher des photographies personnelles d'un autre utilisateur.
+* Toutes photos pouvant faire référence à de la sexualité sont interdites
 
 ### <mark style="color:yellow;">Article B : Les Pseudos</mark>
 
@@ -33,6 +34,7 @@ description: >-
 * Tout comme en jeu, le Spam et le Flood sont proscrits.
 * Il est interdit de poster des liens autres que le site de Blocaria, l'IP du serveur ou les réseaux-sociaux du serveur.
 * Mentionner abusivement un rôle/membre est strictement interdit.
+* La mention d'un staff est strictement interdite (que ce soit par ticket ou tchat général).
 
 ### <mark style="color:yellow;">Article B : Conduite à tenir</mark>
 
@@ -55,7 +57,7 @@ Dire "Bonjour" lors de l'ouverture d'un ticket nous rendra tout de suite plus à
 
 * Comme à l'écrit, vous devez rester respectueux avec les autres joueurs.
 * Les sujets de discussion sont libres, mais nous vous demandons de prendre en considération l'âge des personnes présentes dans votre salon vocal.
-* Si vous souhaitez parler en privé, des salons limités sont disponibles.
+* Si vous souhaitez parler en privé, des salons limités sont disponibles ou créer un salon privé.
 
 ### <mark style="color:yellow;">Article B : Interdictions</mark>
 
