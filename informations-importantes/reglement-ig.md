@@ -20,15 +20,14 @@ Le règlement est susceptible de changer à tout moment sans préavis, nous vous
 
 * Vous êtes entièrement **responsable de votre compte** Minecraft, ainsi que de votre mot de passe. Il est interdit de donner ou de prêter son compte ainsi que son mot de passe à une personne tierce. Nous ne prenons en aucun cas une part de responsabilité si une personne autre que vous se connecte dessus. Si une règle n’est pas respectée par votre compte même si ce n’est pas vous dessus, une **sanction adéquate sera mise en place**.
 * Les pseudonymes (racistes, insultants, politiques, homophobes...) et skins inappropriés (politiques, nudités…) ne sont pas acceptés, de même pour le rename d’un pet.
-* Votre nick (surnom disponible avec un grade) doit également respecter ces règles. De plus, il est interdit d'utiliser votre surnom afin de faire de la pub (pour un pw, une box, une chaine youtube etc) ou d'usurper l'identité d'un autre joueur, un membre du staff ou une personne connue.
-* Nous ne prenons pas en charge les transferts de compte.
-* En cas de changement de pseudo, les sites de vote ne vous distribuera plus de clés de votes, dans ce cas, merci de [créer un ticket](https://discord.com/channels/994553717556777041/994553719318392841).
+* Votre nick (surnom disponible avec un grade) doit également respecter ces règles. Votre nick ne doit, ni comporter de caractères spéciaux, ni être assimilable à du flood, (ect..). De plus, il est interdit d'utiliser votre surnom afin de faire de la pub (pour un pw, une box, une chaine youtube etc) ou d'usurper l'identité d'un autre joueur, un membre du staff ou une personne connue.
+* Nous ne prenons pas en charge les transferts de compte sauf exeption de bedrock a java (Non réalisable à 100%).
+* En cas de changement de pseudo, les sites de vote ne vous distribueront pas vos récompense de votre ancien pseudo.
 
 ### <mark style="color:yellow;">Article B : Le Discord</mark>
 
-* Blocaria a pour moyen de communication principal son serveur Discord. L’accès y est donc fortement recommandé pour avoir les informations des mises à jour ou autres informations importantes.
-* Pour tout problème, toute question, toute suggestion ou rapport de bugs, nous vous invitons à vous rendre sur cette plateforme.
-* Des moyens de support, à la fois vocaux et écrits, sont disponibles sur le serveur Discord.
+* Blocaria a pour moyen de communication principal son serveur Discord. L’accès y est donc fortement recommandé, pour avoir les informations des **mises à jour**, autres **informations importantes** ou pour la création de **ticket**.
+* Pour tout problème, toute question, toute suggestion ou rapport de bugs, nous vous invitons à vous rendre sur cette plateforme, il est interdit de passer par message privé avec le staff.
 * **Le règlement en jeu s’applique également sur le serveur Discord que ce soit en discussion ou en vocal.**
 
 ### <mark style="color:yellow;">Article C : Les alliances</mark>
@@ -42,7 +41,7 @@ Le règlement est susceptible de changer à tout moment sans préavis, nous vous
 
 * Le chat est un espace de libre échange où les discussions s'effectuent dans le respect.
 * La modification de la typologie d’écriture n’est pas autorisée.
-* La langue officielle du serveur est le français, la langue anglaise reste cependant tolérée.
+* La langue officielle du serveur est le français, la langue anglaise reste cependant tolérée pour les anglophone.
 * L’utilisation de caractères spéciaux dans les /nick, sur les panneaux, dans le chat, … est strictement interdite.
 * Toute infraction pourra entraîner une modification forcée du pseudo ou du panneau, ainsi qu’une sanction.
 * En cas de situation ambiguë, sur un message ou autres situations, l’interprétation du staff fera foi.
@@ -53,14 +52,14 @@ Le règlement est susceptible de changer à tout moment sans préavis, nous vous
 
     * Provocation, insultes envers une personne ou une communauté.
     * Propos graves : racisme, misogynie, homophobie, transphobie, politique.
-    * Propos tendancieux (politiques, religieux, conflits géopolitiques, à caractère sexuel…)
+    * Propos tendancieux (à caractère sexuel, racisme, ... )
+    * Tous sujets amenant a débat (Sport, politiques, religieux, conflits géopolitiques, ...)
     * Troll, obscénité.
     * Réaction aux sanctions
-    * Spam (envoi répété de la même phrase, du même mot), Flood (succession de la même lettre, du même caractère ou même émojis. Exemple : Merciiiiiiiiiiiiiiiiiiiiiiiiii)
-    * Majuscules
+    * Spam (envoi répété de la même phrase, du même mot), Flood supèrieur à 5 caractères (succession de la même lettre, du même caractère ou même émojis. Exemple : Merciiiiiiiiiiiiiiiiiiiiiiiiii), Majuscules 
     * La mendicité (demander des items, prêts d'items, d'argent, etc.).
+    * Les menaces, le harcèlement, l’humour noir ainsi que la divulgation d'informations privées, demande de réseau social, ..., sur le serveur.
 
-    Les menaces, le harcèlement, l’humour noir ainsi que la divulgation d'informations privées sont interdits sur le serveur.
 * **Où qu'ils soient les messages sont sanctionnables :**
   * Chat public.
   * Chat de box.
@@ -70,10 +69,7 @@ Le règlement est susceptible de changer à tout moment sans préavis, nous vous
   * Pets...
   * Etc.
 * L’envoi de liens dans le chat est interdit.
-* L’usurpation d’identité est sanctionnable.
-* La divulgation d’informations privées est strictement interdite et entraînera de lourdes sanctions.
 * Trois emojis sont autorisés par message dans le chat.
-* L’abus d'emotes pour polluer la discussion est interdit et pourra être sanctionné.
 
 ### <mark style="color:yellow;">Article C : La Publicité</mark>
 
@@ -100,7 +96,7 @@ Chaque pub quelle qu'elle soit se doit d'être espacée de 20 minutes (pwarp, ve
 
     Toute infraction pourra entraîner une sanction adaptée selon la gravité des faits.
 * Les arnaques, les pillages, les vols, les griefs, les trahisons et toutes autres actions pouvant nuire à l'expérience de jeu des autres joueurs sont interdits.
-* Il est interdit de rejoindre une box, ou de faire quelconque action de bug ou utilisation de logiciels interdits dans un but de copier les farms/pattern déjà présentes sur celle-ci.
+* Il est interdit de rejoindre une box, ou de faire quelconque action de bug ou utilisation de logiciels interdits, par exemple, dans un but de copier les farms/pattern déjà présentes sur celle-ci.
 * Il est interdit de récupérer du stuff ou des schématiques sur une box avant de la quitter sans accord préalable avec son chef.
 * Le commerce inter-serveur est interdit incluant tout échange d'items, d'argent, et autres...
 
@@ -110,13 +106,13 @@ Si les preuves sont suffisantes et en fonction de la situation, le joueur fautif
 
 ### <mark style="color:yellow;">Article B : Les actions interdites</mark>
 
-* L'Anti-AFK (circuit d'eau, sneak, Auto-Jump, **AFK Farm** etc) est interdit.
+* L'Anti-AFK (circuit d'eau, **AFK Farm** etc) est interdit.
 * Le tp-kill est interdit. Il en va de même pour tout kill via des moyens divers.
 * Il est interdit d'utiliser une machine à pêche ou de farmer avec un véhicule (bateau, wagon, etc).
 * Il est interdit de poser des homes dans les autres box sans l'accord du chef de l'île.
 * La construction obscène, raciste et discriminante.
 * Les jeux de hasard :
-  * Les seuls jeux de hasard autorisés sur le serveur sont les jeux type casino. Il est obligatoire d’afficher le pourcentage d’obtention des lots.
+  * Les seuls jeux de hasard autorisés sur le serveur sont les jeux type casino. Il est obligatoire d’afficher le **pourcentage d’obtention des lots**.
   * En cas de doute sur la fiabilité d'un casino, il est possible de demander à un Modérateur de le vérifier.
 * La vente d’items, de services ou autres en jeu contre l’argent réel ou des gemmes est interdite.
 * Le fait de poser/casser des **blocs farmables** (bois, pierres, minerais...) pour les missions coopératives, les rituels
@@ -125,7 +121,7 @@ Si les preuves sont suffisantes et en fonction de la situation, le joueur fautif
 * Le prêt d’items entre joueurs est strictement interdit.
   * Tout échange d’objets doit être définitif afin d’éviter les litiges.
   * Le staff ne procédera à aucun remboursement en cas de non-restitution d’un item prêté.
-* Tout clique supérieure ou égale à 10 CPS peut entraîner une sanction immédiate.&#x20;
+* Tout clique supérieure ou égale à 10 CPS.&#x20;
   * Cette règle s’applique dans tous les cas de figure.
 
 {% hint style="warning" %}
@@ -136,7 +132,7 @@ Cette liste n'est pas exhaustive.
 
 Si vous avez un doute sur l'utilisation de votre farm, merci de créer un ticket. Une farm étant estimée comme incorrecte pourra se faire supprimer par le staff.
 
-Il est interdit de dévoiler dans le chat public les informations liées aux quêtes (position de NPC, réponse à une énigme, etc).
+Il est interdit de dévoiler dans le chat public les informations liées aux quêtes de recherche.
 
 ### <mark style="color:yellow;">Article C : Utilisation de la Redstone</mark>
 
@@ -155,7 +151,7 @@ Si votre système ne respecte pas les règles du serveur, celui-ci sera supprim�
 * **Tous les mods ne donnant pas d'avantages sur les autres joueurs tels que :**
   * Optifine, ReplayMod (Uniquement pour Record).
   * Badlion / Lunar / Labymod.
-    * Il est évident que l'ensemble des mods présents dans ces clients ne sont pas autorisés, veuillez vous référer à la liste des “Mods interdits" ci-dessous ainsi qu'aux "actions interdites" sur le serveur.
+    * Il est évident que l'ensemble des mods présents dans ces clients ne sont pas autorisés, veuillez vous référer à la liste des “Mods interdits" ci-dessous ainsi qu'aux "actions interdites" sur le serveur si un doute persiste merci d'ouvrire un ticket.
   * Schematica/litematica (Sans le mode printer, easyplace ou copy/paste).
   * Toggle Sneak / Sprint.
   * Inventory Tweaks.
@@ -169,10 +165,10 @@ Si votre système ne respecte pas les règles du serveur, celui-ci sera supprim�
 
     * X-Ray / FreeCam
     * FlyMod
-    * AutoClick / AutoMine / AutoPêche / AutoJump / AutoSell / Macros / BindClick / Script / …
+    * AutoClick / AutoMine / AutoPêche / AutoSell / Macros / BindClick / Script / Bot / …
     * AutoTools
 
-    Cette liste n'est pas exhaustive, en cas de doute, merci de demander l'accord à un staff.
+    Cette liste n'est pas exhaustive, en cas de doute, merci de demander l'accord à un staff en ticket.
 
 Pour ce qui est de l'autoclick, tout moyen utilisé pour miner automatiquement, que ce soit avec un mod ou tout autre procédé, sera considéré comme de l'autoclick. Par exemple, si vous tenez la souris en main et partez aux toilettes pendant qu'une vérification est effectuée, vous serez banni pour autoclick.
 
@@ -189,7 +185,7 @@ Pour ce qui est de l'autoclick, tout moyen utilisé pour miner automatiquement, 
 ### <mark style="color:yellow;">Article G : L'AFK</mark>
 
 * L'AFK est autorisé sur le serveur pendant 15 minutes au minimum ou plus selon votre grade **(uniquement si vous ne réalisez pas d’actions)**. Au-delà, vous serez téléporté au spawn.
-* Des vérifications d'AFK sont régulièrement effectuées par les Modérateurs, tout manquement à celles-ci sont passibles de sanctions, même en étant physiquement présent devant l’écran.
+* Des vérifications d'AFK sont régulièrement effectuées par les Modérateurs, tout manquement ou non réponses valides à celles-ci sont passibles de sanctions, même en étant physiquement présent devant l’écran.
 * Il est aussi interdit de contourner l'anti-AFK de quelconque manière, sous peine de sanctions.
 
 ### <mark style="color:yellow;">Article H : Triche et usebugs</mark>
@@ -197,15 +193,18 @@ Pour ce qui est de l'autoclick, tout moyen utilisé pour miner automatiquement, 
 * Les usebugs, la duplication (ainsi que la tentative de duplication) et la triche sous toutes ses formes sont prohibés sur le serveur.
 * Tous les mods ou logiciels externes donnant un avantage par rapport aux autres joueurs sont interdits.
 * **De plus, l'utilisation d'une touche autre que le clic, d'un moyen, d’une méthode ou d’un poids permettant de le bloquer pour casser et/ou poser des blocs, et utiliser des items, est totalement interdite.**
+
+{% hint style="warning" %}
 * Être en connaissance d’un bug sur le serveur et ne pas en informer la modération dans le but d’abuser de celui-ci ou de le partager aux joueurs est interdit sur Blocaria.
+{% endhint %}
 
 ### <mark style="color:yellow;">Article I : Les remboursements</mark>
 
-* Les demandes de remboursement se font par tickets sur le serveur Discord.
+* Les demandes de remboursement se font seulement par tickets sur le serveur Discord.
 * Nous ne remboursons pas les pertes liées aux items non reçus par manque de place dans l’inventaire, les voles au sein de la box, cela est aussi valable pour les clés de vote ainsi que pour vos achats.
 * Seules les pertes liées à un problème serveur sont remboursées.
-* Les pertes dues à une erreur d’inattention seront refusées (pertes dues au clearlag, jeter un item dans la lave, etc.).
-* Un bannissement temporaire ou définitif vous privera de tous vos avantages jusqu'à la fin (s'il y en a une) de la sanction. Aucun transfert ne sera possible durant la durée d'une sanction et tous vos "biens" en jeu sont gelés.
+* Les pertes dues à une erreur d’inattention seront refusées par exemple (pertes dues au clearlag, drop d'items, etc.).
+* Un bannissement temporaire ou définitif vous privera de tous vos avantages jusqu'à la fin (s'il y en a une) de la sanction. Aucun transfert ne sera possible durant la durée d'une sanction et **tous vos "biens" en jeu sont gelés**.
 * Si vous n'avez pas les preuves suffisantes, votre demande de remboursement peut être refusée.
 
 {% hint style="warning" %}
@@ -215,7 +214,7 @@ Les remboursements de vol ne sont pas automatiques, il est de la responsabilité
 
 ### <mark style="color:yellow;">Article J : Propriétaire de box</mark>
 
-* Un joueur désigné comme propriétaire de la Box doit être actif sur le serveur. En cas d’inactivité supérieure à 15 jours, le propriétaire pourra être transféré.
+* Un joueur désigné comme propriétaire de la Box doit être actif sur le serveur. En cas d’inactivité supérieure à 15 jours, la propriété pourra être transféré.
 * Si un propriétaire de la Box prévoit une absence prolongée, il est conseillé de prévenir le staff ou de transférer temporairement son rôle à un autre membre de confiance.
 * Toute tentative d'abus ou d'inactivité prolongée pour bloquer la gestion d’une Box pourra être sanctionnée.
 
@@ -257,4 +256,4 @@ En vous connectant sur nos plateformes, nous considérons que vous avez lu et ac
 Toute sanction sera donnée à l'entière appréciation du staff.
 
 Si vous souhaitez contester une quelconque sanction, merci de [créer un ticket](https://discord.com/channels/994553717556777041/994553719318392841) sur le discord. Toute contestation de sanction non recevable entraînera le doublement de celle-ci.\
-Créer un ticket pour contester la sanction d’une autre personne **ne sera pas prise en compte**.
+Toute création d'un ticket pour contester la sanction d’une autre personne **ne sera pas prise en compte**.
