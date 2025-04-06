@@ -97,7 +97,7 @@ Chaque pub quelle qu'elle soit se doit d'être espacée de 20 minutes (pwarp, ve
     Toute infraction pourra entraîner une sanction adaptée selon la gravité des faits.
 * Les arnaques, les pillages, les vols, les griefs, les trahisons et toutes autres actions pouvant nuire à l'expérience de jeu des autres joueurs sont interdits.
 * Il est interdit de rejoindre une box, ou de faire quelconque action de bug ou utilisation de logiciels interdits, par exemple, dans un but de copier les farms/pattern déjà présentes sur celle-ci.
-* Il est interdit de récupérer du stuff ou des schématiques sur une box avant de la quitter sans accord préalable avec son chef.
+* Il est interdit de récupérer du stuff ou des schématiques sur une box avant de la quitter sans accord préalable avec son chef. Concernant les schématiques, tout non respect entrainera le cut de celui-ci sans remboursement possible.
 * Le commerce inter-serveur est interdit incluant tout échange d'items, d'argent, et autres...
 
 {% hint style="warning" %}
