@@ -80,7 +80,7 @@ Le règlement est susceptible de changer à tout moment sans préavis, nous vous
 * La publicité de son propre contenu (vidéos Youtube, chaîne Twitch, compte TikTok…) est interdite sur le serveur, hormis si vous disposez du grade Créateur ou Partenaire.
 
 * Toutes les **publicités devront passer par le /pub**, sans quoi des sanctions pourront être appliquées.
-    Chaque pub quelle qu'elle soit se doit d'être espacée de 20 minutes (**pwarp, vente d'item, annonce d'événement, promotion d'un item...**).
+    Chaque pub quelle qu'elle soit se doit d'être espacée de 20 minutes (**pwarp, vente/achat d'item, annonce d'événement, promotion d'un item, location d'afk,...**).
 
 
 ## <mark style="color:yellow;">Partie III : Le Gameplay</mark>
@@ -125,6 +125,7 @@ Si les preuves sont suffisantes et en fonction de la situation, le joueur fautif
   * Le staff ne procédera à aucun remboursement en cas de non-restitution d’un item prêté.
 * Tout clique supérieure ou égale à 10 CPS.&#x20;
   * Cette règle s’applique dans tous les cas de figure.
+* Toute technique de faire dispawn des mobs est interdite (Rename, Bateau, ...).
 
 {% hint style="warning" %}
 Cette liste n'est pas exhaustive.
