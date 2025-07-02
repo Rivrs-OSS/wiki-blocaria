@@ -45,6 +45,7 @@ Le règlement est susceptible de changer à tout moment sans préavis, nous vous
 * L’utilisation de caractères spéciaux dans les /nick, sur les panneaux, dans le chat, … est strictement interdite.
 * Toute infraction pourra entraîner une modification forcée du pseudo ou du panneau, ainsi qu’une sanction.
 * En cas de situation ambiguë, sur un message ou autres situations, l’interprétation du staff fera foi.
+* Toute réaction aux vérifications d'anti-afk ou des modos (en vanish) est interdite, que ce soit dans le tchat ou autre.
 
 ### <mark style="color:yellow;">Article B : Un langage respectueux</mark>
 
