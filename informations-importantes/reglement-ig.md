@@ -125,6 +125,7 @@ Si les preuves sont suffisantes et en fonction de la situation, le joueur fautif
   * Le staff ne procédera à aucun remboursement en cas de non-restitution d’un item prêté.
 * Tout clique supérieure ou égale à 10 CPS.&#x20;
   * Cette règle s’applique dans tous les cas de figure.
+* Toute technique de faire dispawn des mobs est interdite (Rename, Bateau, ...).
 
 {% hint style="warning" %}
 Cette liste n'est pas exhaustive.
