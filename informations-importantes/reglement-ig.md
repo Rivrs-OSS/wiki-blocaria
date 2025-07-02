@@ -108,24 +108,34 @@ Si les preuves sont suffisantes et en fonction de la situation, le joueur fautif
 
 ### <mark style="color:yellow;">Article B : Les actions interdites</mark>
 
-* L'Anti-AFK (circuit d'eau, **AFK Farm** etc) est interdit.
-* Le tp-kill est interdit. Il en va de même pour tout kill via des moyens divers.
-* Il est interdit d'utiliser une machine à pêche ou de farmer avec un véhicule (bateau, wagon, etc).
-* Il est interdit de poser des homes dans les autres box sans l'accord du chef de l'île.
-* La construction obscène, raciste et discriminante.
-* Les jeux de hasard :
-  * Les seuls jeux de hasard autorisés sur le serveur sont les jeux type casino. Il est obligatoire d’afficher le **pourcentage d’obtention des lots**.
-  * En cas de doute sur la fiabilité d'un casino, il est possible de demander à un Modérateur de le vérifier.
-* La vente d’items, de services ou autres en jeu contre l’argent réel ou des gemmes est interdite.
-* Le fait de poser/casser des **blocs farmables** (bois, pierres, minerais...) pour les missions coopératives, les rituels
-* La vente de cosmétiques, d’items de missions, d’items renommés dans le but de tromper ou de faire de la pub, de fausses clés, de fausses têtes, de tête du staff, d’items exclusifs désenchantés.
-* Faire des chargements de chunks ou chunkloader.
-* Le prêt d’items entre joueurs est strictement interdit.
-  * Tout échange d’objets doit être définitif afin d’éviter les litiges.
-  * Le staff ne procédera à aucun remboursement en cas de non-restitution d’un item prêté.
-* Tout clique supérieure ou égale à 10 CPS.&#x20;
-  * Cette règle s’applique dans tous les cas de figure.
-* Toute technique de faire dispawn des mobs est interdite (Rename, Bateau, ...).
+B.1 — **Exploits, triches et abus de gameplay**
+* L'utilisation de systèmes Anti-AFK (circuit d’eau, AFK Farm, etc.) est interdite.
+* Il est interdit de faire du tp-kill ou de tuer via des moyens détournés.
+* Les machines à pêche automatiques sont interdites.
+* Le farming à l’aide de véhicules (bateaux, wagons, etc.) est interdit.
+* Le pose/cassage abusif de blocs farmables (bois, pierres, minerais…) pour les missions coopératives ou les rituels est interdit.
+* Toute tentative de contourner la progression prévue dans les métiers (machines automatiques, exploitation de bug, etc.) est interdite.
+* Le chunkloading (chargement de chunks via des techniques détournées) est interdit.
+* Toute technique empêchant de faire disparaître (despawn) des mobs (Rename, bateau, etc.) est interdite.
+* Il est interdit d’utiliser un clic supérieur ou égal à 10 CPS, quelle que soit la situation.
+* En cas de doute sur une farm, un ticket doit être ouvert. Le staff peut supprimer toute farm jugée non conforme.
+
+B.2 — **Constructions, interactions et comportements**
+* Il est interdit de poser un home dans la box d’un autre joueur sans l’accord du chef de l’île.
+* Les constructions obscènes, racistes ou discriminantes sont strictement interdites.
+* Il est interdit de dévoiler des informations liées aux quêtes de recherche dans le chat public.
+
+B.3 — **Économie, échanges et casinos**
+* Les jeux de hasard sont interdits, sauf ceux de type casino avec un affichage clair des probabilités. En cas de doute, un modérateur peut être sollicité pour vérification.
+* La vente d’items, de services ou de contenus en jeu contre de l’argent réel ou des gemmes est interdite.
+
+**Il est interdit de vendre** :
+
+* des cosmétiques
+* des items de mission
+* des items renommés dans le but de tromper (fausses clés, fausses têtes, têtes du staff, les têtes dans le HDB, items exclusifs désenchantés, etc.)
+* Le prêt d’items entre joueurs est strictement interdit. Tous les échanges doivent être définitifs.
+* Le staff ne remboursera aucun item non restitué.
 
 {% hint style="warning" %}
 Cette liste n'est pas exhaustive.
