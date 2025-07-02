@@ -80,7 +80,7 @@ Le règlement est susceptible de changer à tout moment sans préavis, nous vous
 * La publicité de son propre contenu (vidéos Youtube, chaîne Twitch, compte TikTok…) est interdite sur le serveur, hormis si vous disposez du grade Créateur ou Partenaire.
 
 * Toutes les **publicités devront passer par le /pub**, sans quoi des sanctions pourront être appliquées.
-    Chaque pub quelle qu'elle soit se doit d'être espacée de 20 minutes (**pwarp, vente d'item, annonce d'événement, promotion d'un item...**).
+    Chaque pub quelle qu'elle soit se doit d'être espacée de 20 minutes (**pwarp, vente/achat d'item, annonce d'événement, promotion d'un item, location d'afk,...**).
 
 
 ## <mark style="color:yellow;">Partie III : Le Gameplay</mark>
