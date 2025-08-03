@@ -236,6 +236,10 @@ description: Retrouvez ici toutes les informations concernant les commandes
 
 `/pay [pseudo] [montant]` : donne de l'argent à un joueur
 
+`/pub <message>` : affiche un message de publicité dans le chat, disponible toutes les 20 minutes
+
+`/pubtoggle` : active/désactive les publicités
+
 ## <mark style="color:yellow;">Boutique</mark>
 
 `/boutique_paliers` : affiche votre progession dans les paliers de boutique
@@ -261,6 +265,12 @@ description: Retrouvez ici toutes les informations concernant les commandes
 `/ah claim` : affiche vos objets à récupérer
 
 `/ah history` : affiche votre historique de vente et d'achat
+
+`/ah search` : pose une pancarte au sol pour permettre de rechercher un item
+
+`/ah search inname:[item]` : recherche un item
+
+`/ah search seller:[pseudo]` : recherche les items mis en vente par un joueur
 
 ## <mark style="color:yellow;">Artisanat & Services</mark>
 
@@ -379,3 +389,5 @@ description: Retrouvez ici toutes les informations concernant les commandes
 `/e` : ouvre la liste des emojis disponibles
 
 `/sb` : active/désactive le scoreboard lors des évènements, à écrire 2 fois pour désactiver
+
+`/item listgui` : ouvre une interface qui affiche tous les items customs du serveur
