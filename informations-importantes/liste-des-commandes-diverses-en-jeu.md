@@ -364,6 +364,10 @@ description: Retrouvez ici toutes les informations concernant les commandes
 
 `/exploration` : téléporte au monde exploration
 
+`/top` : téléporte à la couche la plus haute sur votre box
+
+`/below` : téléporte à la couche la plus basse sur votre box
+
 `/exploinfo` : ouvre le wiki du monde exploration
 
 `/compass` : active/désactive le codex dans votre inventaire
