@@ -32,14 +32,19 @@ Cependant, pour cela, il sera nécessaire de les nourrir avec des bonbons récup
 Il existe 9 types de nourritures, chacun ayant une rareté différente, les voici :
 
 * <mark style="color:blue;">**Banane**</mark> _(+0,75 Xp)_
+* <mark style="color:yellow;">**Ananas</mark> _(+1,5 Xp)_
 * <mark style="color:blue;">**Pêche**</mark> _(+2 Xp)_
 * <mark style="color:blue;">**Fraise**</mark> _(+2 Xp)_
-* <mark style="color:blue;">**Bonbon rare**</mark> _(+25 Xp)_
-* <mark style="color:purple;">**Bonbon épique**</mark> _(+50 Xp)_
-* <mark style="color:red;">**Bonbon divin**</mark> _(+100 Xp)_
-* <mark style="color:red;">**Bonbon rose**</mark> _(+100 Xp)_
-* <mark style="color:orange;">**Bonbon draconique**</mark> _(+250 Xp)_
+* <mark style="color:blue;">**Bonbon Rare**</mark> _(+25 Xp)_
+* <mark style="color:purple;">**Bonbon Épique**</mark> _(+50 Xp)_
+* <mark style="color:red;">**Bonbon Divin**</mark> _(+100 Xp)_
+* <mark style="color:pink;">**Bonbon Rose**</mark> _(+100 Xp)_
+* <mark style="color:cyan;">**Bonbon Estival**</mark> _(+100 Xp)_
+* <mark style="color:orange;">**Bonbon Draconique**</mark> _(+250 Xp)_
 * <mark style="color:orange;">**Sucre d'orge**</mark> _(+250 Xp)_
+* <mark style="color:yellow;">**Pomme Ensoleillé**</mark> _(+250 Xp)_
+* <mark style="color:yellow;">**Noix de coco**</mark> _(+300 Xp)_
+* <mark style="color:yellow;">**Fruit du dragon**</mark> _(+500 Xp)_
 
 
 
