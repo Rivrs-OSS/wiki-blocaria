@@ -253,7 +253,7 @@ Les remboursements de vol ne sont pas automatiques, il est de la responsabilité
   * Toute tentative de manipulation économique sera sanctionnée.
 * La vente d'empty spawner, de spawners renommés ou encore de rituels expirés est interdit.
 * Il est interdit de faire la vente : de cosmétiques, d’items de missions, d’items renommés dans le but de tromper ou de faire de la pub, de fausses clés, de fausses têtes, de tête du staff, d’items exclusifs désenchantés. Cette interdiction s’applique sur tout le serveur et non pas qu’à l’ah.
-* Le suivi de l'average est obligatoire, Vous pouvez ajuster votre prix à la hausse ou à la baisse lors de la mise en vente, mais l’écart entre votre prix et celui de l’average doit rester compris entre [+10 %] et [-10 %]. Si l'item ne possède pas d'average alors vous êtes libre d'en fixer le prix, tout en restant cohérent et raisonnable.
+* Le suivi de l'average est obligatoire, vous pouvez ajuster votre prix à la hausse ou à la baisse lors de la mise en vente, mais l’écart entre votre prix et celui de l’average doit rester compris entre [+10 %] et [-10 %]. Si l'item ne possède pas d'average alors vous êtes libre d'en fixer le prix, tout en restant cohérent et raisonnable.
 * Les rituels expirés ou impossibles à réaliser (car issus d’un ancien événement) doivent être placés dans une shulker renommée « Rituel de collection non faisable ».
 
 ### <mark style="color:yellow;">Article M : Limite de joueurs par box</mark>
