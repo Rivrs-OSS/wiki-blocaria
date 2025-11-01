@@ -192,7 +192,7 @@ Pour ce qui est de l'autoclick, tout moyen utilisé pour miner automatiquement, 
 * Les doubles-comptes sont limités à 1 par utilisateur.
 * Les doubles comptes ne sont pas acceptés dans les classements, tous évènements confondus, ainsi que dans le vote.
 * Il n’est pas possible de récupérer les différentes récompenses des évents grâce à vos doubles comptes ou de farmer grâce à celui-ci (calendrier, récompenses de jobs…).
-* L’utilisation d’un double compte est dans l’unique but de recommencer une partie ou pour AFK spawner, mais il est interdit de boost son compte principal (Items / Argent / autres).
+* L’utilisation d’un double compte est dans l’unique but  d'AFK, mais il est interdit de boost son compte principal. Seuls les gains du voteparty et du salaire reçu toutes les 10 minutes sont transférables vers le compte principal.
 *   Jouer sur un double compte alors que son compte principal est banni, ou inversement, est interdit. En cas de non-respect de cette règle, le temps de la sanction initiale sera doublé et plus si récidives.
 
     Si plusieurs personnes physiques sont sur la même IP, merci de le signaler à un membre de l'équipe de Blocaria en ticket.
