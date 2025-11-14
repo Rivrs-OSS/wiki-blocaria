@@ -46,6 +46,7 @@ Le règlement est susceptible de changer à tout moment sans préavis, nous vous
 * Toute infraction pourra entraîner une modification forcée du pseudo ou du panneau, ainsi qu’une sanction.
 * En cas de situation ambiguë, sur un message ou autres situations, l’interprétation du staff fera foi.
 * Toute réaction aux vérifications d'anti-afk ou des modos (en vanish) est interdite, que ce soit dans le tchat ou autre.
+* Toutes réactions provocatrices concernant l'orthographe peuvent, par décision du staff, être sanctionnées.
 
 ### <mark style="color:yellow;">Article B : Un langage respectueux</mark>
 
