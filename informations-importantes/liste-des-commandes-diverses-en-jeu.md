@@ -158,6 +158,8 @@ description: Retrouvez ici toutes les informations concernant les commandes
 
 `/pw rate [nom] [1-5]` : note un warp
 
+`/pw managers [set/remove/list] <warp> <joueur>` : ajoute/supprime/liste les joueurs qui peuvent gérer votre pw
+
 ## <mark style="color:yellow;">Homes Personnels</mark>
 
 `/home [nom]` : téléporte à un home personnel
