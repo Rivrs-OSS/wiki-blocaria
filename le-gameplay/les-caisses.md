@@ -21,7 +21,7 @@ Pour les ouvrir, il vous suffira de cliquer sur la caisse avec la clé. Cela lan
 Les clés peuvent être obtenues de différentes manières :
 
 * Achat dans la [boutique ](la-boutique.md)avec des **Gemmes** <mark style="color:yellow;">**`/`**</mark><mark style="color:yellow;">`boutique`</mark>
-* [Vote](../readme/comment-voter-pour-blocaria.md) pour le serveur via la commande <mark style="color:yellow;">**`/vote`**</mark>
+* [Vote](../bienvenue-sur-blocaria/comment-voter-pour-blocaria.md) pour le serveur via la commande <mark style="color:yellow;">**`/vote`**</mark>
 * Récompenses d’évènements
 * Progression dans certains métiers
 
@@ -29,7 +29,7 @@ Les clés peuvent être obtenues de différentes manières :
 
 Caisse Vote
 
-La **clé de Caisse Vote** s’obtient en [votant pour le serveur](../readme/comment-voter-pour-blocaria.md) avec la commande <mark style="color:yellow;">**`/vote`**</mark>.
+La **clé de Caisse Vote** s’obtient en [votant pour le serveur](../bienvenue-sur-blocaria/comment-voter-pour-blocaria.md) avec la commande <mark style="color:yellow;">**`/vote`**</mark>.
 
 <div align="center"><figure><img src="../.gitbook/assets/vote_crate_gif.gif" alt=""><figcaption></figcaption></figure></div>
 
@@ -767,7 +767,7 @@ La **Caisse Mythique** propose des récompenses d'une grande valeur, notamment :
 
 <summary>Sceau d'Eau Infini</summary>
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 </details>
 
@@ -865,7 +865,7 @@ La **Caisse Mythique** propose des récompenses d'une grande valeur, notamment :
 
 <summary>Boost d'XP (Métier)</summary>
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 </details>
 

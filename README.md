@@ -33,9 +33,9 @@ Vous y retrouverez **toutes les fonctionnalités du serveur !**
 
 ## **Tutoriels**
 
-* [Règlement In-Game](readme/reglement-in-game.md)
-* [Règlement Discord](readme/reglement-discord.md)
-* [Comment nous rejoindre](readme/comment-rejoindre-blocaria.md)
-* [Comment voter pour Blocaria](readme/comment-voter-pour-blocaria.md)
-* [Questions fréquentes](readme/questions-frequentes.md)
-* [Commandes](readme/commandes.md)
+* [Règlement In-Game](bienvenue-sur-blocaria/reglement-in-game.md)
+* [Règlement Discord](bienvenue-sur-blocaria/reglement-discord.md)
+* [Comment nous rejoindre](bienvenue-sur-blocaria/comment-rejoindre-blocaria.md)
+* [Comment voter pour Blocaria](bienvenue-sur-blocaria/comment-voter-pour-blocaria.md)
+* [Questions fréquentes](bienvenue-sur-blocaria/questions-frequentes.md)
+* [Commandes](bienvenue-sur-blocaria/commandes.md)
