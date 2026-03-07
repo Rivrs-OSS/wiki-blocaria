@@ -4,214 +4,138 @@ description: Retrouvez ici toutes les informations concernant les rangs
 
 # 👑 Les Rangs
 
-Sur le serveur Blocaria, les grades jouent un rôle crucial dans la progression et les avantages que chaque joueur peut obtenir.
+Chaque rang nécessite de remplir différents prérequis, incluant des quêtes à accomplir. <mark style="color:yellow;">**`/rangs`**</mark>\
+Les rangs permettent également d’obtenir des bonus permanents et d’accéder à certaines fonctionnalités supplémentaires.
 
-<figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:yellow;"><strong><code>/rangs</code></strong></mark></p></figcaption></figure>
+\
+Pour passer au rang suivant, il faudra compléter tous les "prérequis". Une fois les prérequis complétés, il vous suffira de cliquer sur confirmer. La maîtrise passera à la suivante et vous découvrirez de nouveaux prérequis.
 
-Voici une description détaillée de chaque grade et les avantages associés :
+<figure><img src="../.gitbook/assets/{631332FF-70FF-479A-8322-0A708AEF5692}.png" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:yellow;">Paysan</mark>
+### Récompenses maitrises
 
-<mark style="color:yellow;">**Prérequis**</mark>
+<details>
 
-* Personnage: 5 (/personnage)
-* Métiers: 15 (/jobs)
+<summary>Bronze</summary>
 
-<mark style="color:yellow;">**Prix**</mark> :  200,000
+Bronze I ![](../.gitbook/assets/bronze-1.png) : accès à un job en simultané, un magasin personnel, étage 1 du <mark style="color:yellow;">**`/warp mine`**</mark>
 
-<mark style="color:yellow;">**Avantages**</mark> :&#x20;
+Bronze II ![](../.gitbook/assets/bronze-2.png) : accès à 2 emplacements au <mark style="color:yellow;">**`/hdv`**</mark>, accès au <mark style="color:yellow;">**`/nightvision`**</mark>
 
-* Accès à un <mark style="color:yellow;">**métier supplémentaire**</mark> (<mark style="color:yellow;">**`/jobs`**</mark>)
-* Préfixe : <mark style="color:yellow;">**Paysan**</mark>
-* Accès à <mark style="color:yellow;">**3 objets dans l'HDV**</mark>
-* Accès à <mark style="color:yellow;">**4 magasins personnels**</mark>
-* Accès à <mark style="color:yellow;">**2 homes privatifs**</mark>
-* <mark style="color:yellow;">**Gain de 2000 toutes les 10 minutes**</mark>
+Bronze III ![](../.gitbook/assets/bronze-3.png) : accès à un concasseur supplémentaire <mark style="color:yellow;">**`/concasseur`**</mark>, accès à la commande <mark style="color:yellow;">**`/trade`**</mark>
 
-<mark style="color:yellow;">**Commandes**</mark> :&#x20;
+</details>
 
-* <mark style="color:yellow;">**`/sell`**</mark>
-* <mark style="color:yellow;">**`/trade <joueur>`**</mark>
+<details>
 
-***
+<summary>Argent</summary>
 
-## <mark style="color:yellow;">V</mark><mark style="color:yellow;">**illageois**</mark>
+Argent I ![](../.gitbook/assets/argent-1.png) : accès à 2 emplacements au <mark style="color:yellow;">**`/hdv`**</mark>, accès à 2 shop personnel
 
-<mark style="color:yellow;">**Prérequis**</mark>
+Argent II ![](../.gitbook/assets/argent-2.png) : accès à 2 magasins personnels, accès à un job supplémentaire
 
-* Personnage: 10 (/personnage)
-* Métiers: 40 (/jobs)
+Argent III ![](../.gitbook/assets/argent-3.png) : Accès à 3 homes <mark style="color:yellow;">**`/sethome`**</mark>, accès au premier bundle de rituel <mark style="color:yellow;">**`/jobs`**</mark>
 
-<mark style="color:yellow;">**Prix**</mark> :  1,000,000
+</details>
 
-<mark style="color:yellow;">**Avantages**</mark> :&#x20;
+<details>
 
-* Accès à <mark style="color:yellow;">**la carrière de niv. 1 (/mine)**</mark>
-* Préfixe : <mark style="color:yellow;">**Villageois**</mark>
-* Accès à <mark style="color:yellow;">**5 objets dans l'HDV**</mark>
-* Accès à <mark style="color:yellow;">**7 magasins personnels**</mark>
-* Accès à <mark style="color:yellow;">**3 homes privatifs**</mark>
-* <mark style="color:yellow;">**Gain de 3000 toutes les 10 minutes**</mark>
+<summary>Or</summary>
 
-<mark style="color:yellow;">**Commandes**</mark> :&#x20;
+Or I ![](../.gitbook/assets/or-1.png) : accès à une table d'atelier supplémentaire <mark style="color:yellow;">**`/atelier`**</mark>, accès à l'étage 2 du <mark style="color:yellow;">**`/warp mine`**</mark>, accès à 4 emplacements au <mark style="color:yellow;">**`/hdv`**</mark>, accès à la commande <mark style="color:yellow;">**`/pv1`**</mark>
 
-* <mark style="color:yellow;">**`/pw rate`**</mark>
+Or II ![](../.gitbook/assets/or-2.png) : accès à un concasseur supplémentaire <mark style="color:yellow;">**`/concasseur`**</mark>, accès à 4 magasins personnel, accès au deuxième bundle de rituel <mark style="color:yellow;">**`/jobs`**</mark> , accès à un job supplémentaire, accès à la commande <mark style="color:yellow;">**`/condense`**</mark> (cooldown 10 minutes)
 
-***
+Or III ![](../.gitbook/assets/or-3.png) : accès à 5 magasins personnels, accès à la commande <mark style="color:yellow;">**`/qs buy`**</mark>
 
-## <mark style="color:yellow;">Artisan</mark>
+</details>
 
-<mark style="color:yellow;">**Prérequis**</mark>
+<details>
 
-* Personnage: 20 (/personnage)
-* Métiers: 70 (/jobs)
+<summary>Platine</summary>
 
-<mark style="color:yellow;">**Prix**</mark> :  5,000,000
+Platine I ![](../.gitbook/assets/platine-1.png) : accès à 2 emplacements au <mark style="color:yellow;">**`/hdv`**</mark>, accès au troisième bundle de rituel <mark style="color:yellow;">**`/jobs`**</mark>
 
-<mark style="color:yellow;">**Avantages**</mark> :&#x20;
+Platine II ![](../.gitbook/assets/platine-2.png) : accès à 5 magasins personnels, accès à un job supplémentaire, accès à la commande <mark style="color:yellow;">**`/pv2`**</mark>
 
-* Accès à <mark style="color:yellow;">**un métier supplémentaire**</mark> (<mark style="color:yellow;">**`/jobs`**</mark>)
-* Préfixe : <mark style="color:yellow;">**Artisan**</mark>
-* Accès à <mark style="color:yellow;">**6 objets dans l'HDV**</mark>
-* Accès à <mark style="color:yellow;">**10 magasins personnels**</mark>
-* Accès à <mark style="color:yellow;">**4 homes privatifs**</mark>
-* <mark style="color:yellow;">**Gain de 4000 toutes les 10 minutes**</mark>
+Platine III ![](../.gitbook/assets/platine-3.png) : Accès à 4 homes <mark style="color:yellow;">**`/sethome`**</mark>, +5% d'argent pêcheur, accès à la commande <mark style="color:yellow;">**`/feed`**</mark> (cooldown 10 minutes)
 
-<mark style="color:yellow;">**Commandes**</mark> :&#x20;
+</details>
 
-* <mark style="color:yellow;">**`/back`**</mark>
+<details>
 
-***
+<summary>Diamant</summary>
 
-## <mark style="color:yellow;">Marquis</mark>
+Diamant I ![](../.gitbook/assets/diamant-1.png) : + 5% d'argent bucheron, Accès au marché noir <mark style="color:yellow;">**`/codex`**</mark> ,Accès à l'étage 3 de la mine <mark style="color:yellow;">**`/warp mine`**</mark>, Accès à 6 objets au <mark style="color:yellow;">**`/hdv`**</mark>, Accès à la commande <mark style="color:yellow;">**`/slimechunck`**</mark> (permet de voir où se situe le chunck à slime sur votre box.
 
-<mark style="color:yellow;">**Prérequis**</mark>
+Diamant II ![](../.gitbook/assets/diamant-2.png) : Accès à 8 magasins personnels, accès à un concasseur supplémentaire <mark style="color:yellow;">**`/concasseur`**</mark>, accès au quatrième bundle de rituels <mark style="color:yellow;">**`/jobs`**</mark>, accès à la commande <mark style="color:yellow;">**`/pv3`**</mark>
 
-* Personnage: 40 (/personnage)
-* Métiers: 140 (/jobs)
+Diamant III ![](../.gitbook/assets/diamant-3.png) : +5% d'argent chasseur, accès à 7 objets au <mark style="color:yellow;">**`/hdv`**</mark>, accès à la commande <mark style="color:yellow;">**`/hat`**</mark> permet de mettre un bloc au choix sur votre tête
 
-<mark style="color:yellow;">**Prix**</mark> :  10,000,000
+</details>
 
-<mark style="color:yellow;">**Avantages**</mark> :&#x20;
+<details>
 
-* Accès <mark style="color:yellow;">**à la carrière de niv. 2**</mark>
-* Accès <mark style="color:yellow;">**à un métier supplémentaire**</mark> (<mark style="color:yellow;">**`/jobs`**</mark>)
-* Préfixe : <mark style="color:yellow;">**Marquis**</mark>
-* Accès à <mark style="color:yellow;">**7 objets dans l'HDV**</mark>
-* Accès à <mark style="color:yellow;">**12 magasins personnels**</mark>
-* Accès à <mark style="color:yellow;">**5 homes privatifs**</mark>
-* Accès au <mark style="color:yellow;">**\[i] dans le chat**</mark>
-* <mark style="color:yellow;">**Gain de 5000 toutes les 10 minutes**</mark>
+<summary>Émeraude</summary>
 
-<mark style="color:yellow;">**Commandes**</mark> :&#x20;
+Émeraude I ![](../.gitbook/assets/emeraude-1.png) : +5%. d'expérience agriculteur, accès à une table d'atelier supplémentaire <mark style="color:yellow;">**`/atelier`**</mark>, Accès à 6 objets au <mark style="color:yellow;">**`/hdv`**</mark>
 
-* <mark style="color:yellow;">**`/slimechunk`**</mark>
+Émeraude II ![](../.gitbook/assets/emeraude-2.png) : Accès à 8 magasins personnels, accès à la commande <mark style="color:yellow;">**`/top`**</mark> permet de se téléporter au point le plus haut.
 
-***
+Émeraude III <img src="../.gitbook/assets/emeraude-3.png" alt="" data-size="original"> : +5% d'expérience mineur, Accès à 10 magasins personnels, Accès à 5 homes <mark style="color:yellow;">**`/sethome`**</mark>
 
-## <mark style="color:yellow;">Seigneur</mark>
+</details>
 
-<mark style="color:yellow;">**Prérequis**</mark>
+<details>
 
-* Personnage: 60 (/personnage)
-* Métiers: 200 (/jobs)
+<summary>Rubis</summary>
 
-<mark style="color:yellow;">**Prix**</mark> :  15,000,000
+Rubis I ![](../.gitbook/assets/rubis-1.png) : +5% d'expérience pêcheur, accès au cinquième bundle de rituel, <mark style="color:yellow;">**`/job`**</mark>, accès à l'étage 4 du <mark style="color:yellow;">**`/warp mine`**</mark>, accès à un métier supplémentaire.
 
-<mark style="color:yellow;">**Avantages**</mark> :&#x20;
+Rubis II ![](../.gitbook/assets/rubis-2.png) : accès à un concasseur supplémentaire <mark style="color:yellow;">**`/concasseur`**</mark>, accès à 11 magasins personnels, accès à la commande <mark style="color:yellow;">**`/sell all`**</mark> permet de vendre automatiquement l'entièreté de votre inventaire
 
-* Accès à <mark style="color:yellow;">**la carrière de niv. 3**</mark>
-* Accès à <mark style="color:yellow;">**un métier supplémentaire**</mark> (<mark style="color:yellow;">**`/jobs`**</mark>)
-* Préfixe : <mark style="color:yellow;">**Seigneur**</mark>
-* Accès à <mark style="color:yellow;">**8 objets dans l'HDV**</mark>
-* Accès à <mark style="color:yellow;">**15 magasins personnels**</mark>
-* Accès à <mark style="color:yellow;">**6 homes privatifs**</mark>
-* <mark style="color:yellow;">**Gain de 6000 toutes les 10 minutes**</mark>
+Rubis III ![](../.gitbook/assets/rubis-3.png) : Accès à 6 homes <mark style="color:yellow;">**`/sethome`**</mark>, accès à 9 objets au <mark style="color:yellow;">**`/hdv`**</mark>, accès à la commande <mark style="color:yellow;">**`/pv4`**</mark>
 
-<mark style="color:yellow;">**Commandes**</mark> :&#x20;
+</details>
 
-* <mark style="color:yellow;">**`/feed`**</mark> (3mn de délais)
+<details>
 
-***
+<summary>Saphir</summary>
 
-## <mark style="color:yellow;">Prince</mark>
+Saphir I ![](../.gitbook/assets/saphir-1.png) : +5% d'expérience bûcheron, accès à 12 magasins personnels, accès à un atelier supplémentaire <mark style="color:yellow;">**`/atelier`**</mark>
 
-<mark style="color:yellow;">**Prérequis**</mark>
+Saphir II ![](../.gitbook/assets/saphir-2.png) : accès à 14 magasins personnels, Accès à 7 homes <mark style="color:yellow;">**`/sethome`**</mark>
 
-* Personnage: 80 (/personnage)
-* Métiers: 310 (/jobs)
+Saphir III ![](../.gitbook/assets/saphir-3.png) : accès à 14 magasins personnels, accès au sixièmes bundle de rituels <mark style="color:yellow;">**`/jobs`**</mark>, accès à la commande <mark style="color:yellow;">**`/pv5`**</mark>
 
-<mark style="color:yellow;">**Prix**</mark> :  50,000,000
+</details>
 
-<mark style="color:yellow;">**Avantages**</mark> :&#x20;
+<details>
 
-* Accès à <mark style="color:yellow;">**un métier supplémentaire**</mark> (<mark style="color:yellow;">**`/jobs`**</mark>)
-* Préfixe : <mark style="color:yellow;">**Prince**</mark>
-* Accès à <mark style="color:yellow;">**9 objets dans l'HDV**</mark>
-* Accès à <mark style="color:yellow;">**20 magasins personnels**</mark>
-* Accès à <mark style="color:yellow;">**7 homes privatifs**</mark>
-* <mark style="color:yellow;">**Gain de 7000 toutes les 10 minutes**</mark>
+<summary>Onyx</summary>
 
-<mark style="color:yellow;">**Commandes**</mark> :&#x20;
+Onyx I ![](../.gitbook/assets/onyx-1.png) : +5% d'expérience chasseur, Accès à 10 objets au <mark style="color:yellow;">**`/hdv`**</mark>, accès à la commande <mark style="color:yellow;">**`/repair`**</mark> (cooldown 30 minutes) permet de réparer un outil classique gratuitement de manière illimitée
 
-* <mark style="color:yellow;">**`/top`**</mark>
-* <mark style="color:yellow;">**`/regen`**</mark> (10mn de délais)
+Onyx II ![](../.gitbook/assets/onyx-2.png) : +5% de capsule (agriculture), accès à 15 magasins personnels, accès à 8 homes <mark style="color:yellow;">**`/sethome`**</mark>, accès à un métier supplémentaire
 
-***
+Onyx III ![](../.gitbook/assets/onyx-3.png) : accès à 15 magasins personnels, accès au septième bundle de rituels <mark style="color:yellow;">**`/jobs`**</mark>, accès à un concasseur supplémentaire <mark style="color:yellow;">**`/concasseur`**</mark>, accès à la commande <mark style="color:yellow;">**`/pv6`**</mark>
 
-## <mark style="color:yellow;">Roi</mark>
+</details>
 
-<mark style="color:yellow;">**Prérequis**</mark>
+<details>
 
-* Personnage: 100 (/personnage)
-* Métiers: 450 (/jobs)
+<summary>Obsidienne</summary>
 
-<mark style="color:yellow;">**Prix**</mark> :  200,000,000
+Obsidienne I ![](../.gitbook/assets/obsidienne-1.png) : +5% de capsule (pêcheur), accès à 8 homes <mark style="color:yellow;">**`/sethome`**</mark>, accès à un atelier supplémentaire <mark style="color:yellow;">**`/atelier`**</mark>, accès à la commande <mark style="color:yellow;">**`/pv6`**</mark>
 
-<mark style="color:yellow;">**Avantages**</mark> :&#x20;
+Obsidienne II ![](../.gitbook/assets/obsidienne-2.png) : +5% de capsule (bucheron), accès à 15 magasins personnels, accès à vos concasseurs <mark style="color:yellow;">**`/concasseur`**</mark> permet d'accéder à vos concasseurs à distance, facilitant l'utilisation
 
-* Préfixe : <mark style="color:yellow;">**Roi**</mark>
-* Accès à <mark style="color:yellow;">**10 objets dans l'HDV**</mark>
-* Accès à <mark style="color:yellow;">**25 magasins personnels**</mark>
-* Accès à <mark style="color:yellow;">**10 homes privatifs**</mark>
-* <mark style="color:yellow;">**Gain de 10,000 toutes les 10 minutes**</mark>
+</details>
 
-<mark style="color:yellow;">**Commandes**</mark> :&#x20;
+<details>
 
-* <mark style="color:yellow;">**`/fly`**</mark>
-* <mark style="color:yellow;">**`/near`**</mark> (5mn de délais)
+<summary>Maitre</summary>
 
-***
+Maître <img src="../.gitbook/assets/maitre.png" alt="" data-size="original"> : Bravo, vous avez enfin réussi à gravir tous les échelons. Félicitations !
 
-## <mark style="color:yellow;">Empereur</mark>
-
-<mark style="color:yellow;">**Prérequis**</mark>
-
-* Personnage: 150 (/personnage)
-* Métiers: 650 (/jobs)
-
-<mark style="color:yellow;">**Prix**</mark> :  1,000,000,000
-
-<mark style="color:yellow;">**Avantages**</mark> :&#x20;
-
-* Préfixe : <mark style="color:yellow;">**Empereur**</mark>
-* Accès à <mark style="color:yellow;">**15 objets dans l'HDV**</mark>
-* Accès à <mark style="color:yellow;">**30 magasins personnels**</mark>
-* Accès à <mark style="color:yellow;">**16 homes privatifs**</mark>
-* <mark style="color:yellow;">**Gain de 20,000 toutes les 10 minutes**</mark>
-
-<mark style="color:yellow;">**Commandes**</mark> :&#x20;
-
-* <mark style="color:yellow;">**`/regen`**</mark> (2mn de délais)
-* <mark style="color:yellow;">**`/repair`**</mark>  (1h de délais)
-* <mark style="color:yellow;">**`/repair all`**</mark> (3h de délais)
-* <mark style="color:yellow;">**`/sell all`**</mark>&#x20;
-* <mark style="color:yellow;">**`/condense`**</mark> (aucun délais)
-* <mark style="color:yellow;">**`/feed`**</mark>
-* <mark style="color:yellow;">**`/speed fly`**</mark> 1-3
-
-***
-
-{% hint style="success" %}
-Chaque grade apporte des avantages uniques et permet aux joueurs de progresser dans le serveur en débloquant de nouvelles fonctionnalités et commandes.
-{% endhint %}
+</details>

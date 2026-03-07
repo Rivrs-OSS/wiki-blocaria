@@ -1,19 +1,41 @@
 ---
-description: Voici le wiki du serveur, il vous guidera tout au long de votre aventure ! ✨
+description: Retrouvez ici le sommaire du Wiki de Blocaria
+coverY: 0
+coverHeight: 485
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
 ---
 
-# 💎 BIENVENUE SUR BLOCARIA !
+# 💎 Bienvenue sur Blocaria
 
-Dans celui-ci, vous retrouverez différentes thématiques qui engloberont la majeure partie des choses à savoir sur le serveur Blocaria !
+Bienvenue sur le **wiki officiel du serveur Blocaria** ! Celui-ci vous sera utile tout au long de votre progression, et vous permettra une aventure sans soucis.
 
-## <mark style="color:yellow;">Présentation Générale</mark>
+Vous y retrouverez **toutes les fonctionnalités du serveur !**
 
-### <mark style="color:yellow;">**C'est quoi le mode box ?**</mark>
+<figure><img src=".gitbook/assets/image (1).avif" alt=""><figcaption></figcaption></figure>
 
-Le mode de jeu "box" est une variante de Minecraft où les joueurs débutent sur une carte personnalisée dans une zone restreinte, souvent délimitée par des frontières ou des barrières invisibles.&#x20;
+## **Tutoriels**
 
-L'objectif principal est de progresser et de prospérer dans cet environnement limité en utilisant les ressources disponibles. Les joueurs peuvent être confrontés à différents défis ou objectifs à l'intérieur de cette boîte.
-
-### <mark style="color:yellow;">**Quel est l’objectif du joueur ?**</mark>
-
-Dans ce mode de jeu, le joueur vise à renforcer sa box et son équipe, de manière similaire à la survie classique. Ils doivent accomplir divers objectifs, tels que progresser dans les grades et niveaux des personnages.&#x20;
+* [Règlement In-Game](readme/reglement-in-game.md)
+* [Règlement Discord](readme/reglement-discord.md)
+* [Comment nous rejoindre](readme/comment-rejoindre-blocaria.md)
+* [Comment voter pour Blocaria](readme/comment-voter-pour-blocaria.md)
+* [Questions fréquentes](readme/questions-frequentes.md)
+* [Commandes](readme/commandes.md)

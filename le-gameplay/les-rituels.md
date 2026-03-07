@@ -2,100 +2,78 @@
 description: Retrouvez ici toutes les informations concernant les rituels
 ---
 
-# 📿 Les Rituels
+# 📜 Les Rituels
 
-Les rituels sont répartis en différentes catégories de rareté, chacune offrant des défis et des récompenses spécifiques. Chaque rareté de rituel a une difficulté et des récompenses plus ou moins intéressantes.
+### Fonctionnement des rituels
 
-## <mark style="color:yellow;">Q</mark><mark style="color:yellow;">**uelles sont les différentes raretés disponibles ?**</mark>
+Les rituels sont des items se présentant sous la forme d’un parchemin. Ils arborent un bandeau de couleur différente selon leur niveau de rareté.
 
-<mark style="color:green;">**Commun**</mark>**,&#x20;**<mark style="color:blue;">**Rare**</mark>**,&#x20;**<mark style="color:purple;">**Épique**</mark>**,&#x20;**<mark style="color:orange;">**Légendaire**</mark>**,&#x20;**<mark style="color:red;">**Divin**</mark>**.**
+Ces derniers sont des missions temporaires vous demandant de récolter des ressources ou de tuer des mobs. Ces missions sont obligatoirement en lien avec l'un de vos métiers.
 
-{% hint style="warning" %}
-Les rituels ont une durée de 24 heures à partir de leur obtention.
+### Les différents rituels
 
-Si vous n'accomplissez pas la mission dans le temps imparti, vous ne recevrez aucune récompense et le rituel sera perdu.
+Les rituels aléatoires :
+
+Ces rituels aléatoires sont souvent distribués en récompense et vous permettent de recevoir un rituel lié à n'importe quel métier.
+
+Les rituels possèdent deux états possibles : **caché** et **révélé**.
+
+* **État Caché** : Le parchemin affiche uniquement le métier attribué ainsi que sa rareté.
+* **État Révélé** : Une fois le rituel révélé, la mission spécifique à accomplir apparaît. Vous disposez alors de 5 jours pour terminer cette mission avant qu'elle n'expire.
+
+Ces missions seront forcément en lien avec l'un des métiers présents sur le serveur :
+
+* ⛏️ Mineur
+* 🌾 Agriculteur
+* 🌲 Bûcheron
+* 🎣 Pêcheur
+* 🏹 Chasseur
+
+En plus des différents métiers, un niveau de rareté leur est attribué :
+
+➠ <mark style="color:green;">Commun</mark> <img src="../.gitbook/assets/Rituel Commun.png" alt="" data-size="line">
+
+➠ <mark style="color:blue;">Rare</mark> <img src="../.gitbook/assets/rituel_rare (1).png" alt="" data-size="line">
+
+➠ <mark style="color:purple;">Épique</mark> <img src="../.gitbook/assets/rituel_epique.png" alt="" data-size="line">
+
+➠ <mark style="color:red;">Légendaire</mark> <img src="../.gitbook/assets/rituel_legendaire.png" alt="" data-size="line">
+
+➠ <mark style="color:yellow;">Mythique</mark><img src="../.gitbook/assets/rituel_mythique.png" alt="" data-size="line">
+
+### Obtention des rituels
+
+Les rituels peuvent s’obtenir via les actions suivantes :
+
+→ Récompense de métiers.
+
+→ Achat aux enchères.
+
+→ Achat au marché noir.
+
+→ Achat journalier via le <kbd><mark style="color:yellow;">/jobs<mark style="color:yellow;"></kbd> (en échange d'XP vanilla).
+
+### Précision pour l'obtention via le /jobs
+
+Les rituels s’obtiennent via la commande <mark style="color:yellow;">**`/jobs`**</mark>, en achetant le **pack de rituels** disponible.
+
+Même si la l'achat s’effectue depuis une interface liée à un métier (par exemple : Agriculteur), le pack n’est **pas propre à ce métier.**
+
+Ainsi si le pack est acheté depuis l’interface **Agriculteur**, il ne pourra pas être acheté une seconde fois depuis l’interface **Mineur**. La limitation est globale et **indépendante du métier sélectionné**.\
+**Important** : Vous ne pouvez donc acheter qu'**un seul pack de rituels par jour**.
+
+{% hint style="info" %}
+**Vous pourrez l'acheter 2 fois par jour** si vous avez le grade **Légende** et un **abonnement actif**
 {% endhint %}
 
-### <mark style="color:green;">C</mark><mark style="color:green;">**ommun**</mark>
+### Activation du rituel
 
-Les rituels communs sont les plus simples et les plus fréquents. Ils impliquent généralement des tâches de base comme la collecte de ressources ou la fabrication d'objets courants.
+Un **clic droit avec le rituel en main** révèle la mission du parchemin.
 
-<mark style="color:green;">**Exemples de rituels communs**</mark> :&#x20;
+C’est à cet instant précis que le rituel s’active et que le **chronomètre démarre**. Si la mission n’est pas terminée dans le temps imparti, le rituel **disparaît définitivement**.
 
-* <mark style="color:green;">**Craft de Blocs de Melon**</mark>
-* <mark style="color:green;">**Craft de Pierres Taillées**</mark>
-* <mark style="color:green;">**Casser des Herbes**</mark>
-* <mark style="color:green;">**Tuer des Vaches**</mark>
-* <mark style="color:green;">**Manger des Steaks**</mark>
+### Important
 
-Les récompenses pour les rituels communs comprennent des montants variables de monnaie du jeu, des objets mystère, des clés mystère et des spawners mystère.
-
-### <mark style="color:blue;">Rare</mark>
-
-Les rituels rares sont plus complexes et nécessitent des actions plus élaborées que les rituels communs.
-
-<mark style="color:blue;">**Exemples de rituels rares**</mark> :&#x20;
-
-* <mark style="color:blue;">**Craft de Blocs de Diamant**</mark>
-* <mark style="color:blue;">**Craft de Pains**</mark>
-* <mark style="color:blue;">**Casser des Bûches de Bois d'Acacia**</mark>
-* <mark style="color:blue;">**Tuer des Endermans**</mark>
-* <mark style="color:blue;">**Manger des Pommes Dorées**</mark>
-
-Les récompenses pour les rituels rares sont plus généreuses et peuvent inclure des montants plus élevés de monnaie du jeu, ainsi que des objets, des clés et des spawners mystère avec des chances légèrement améliorées.
-
-### <mark style="color:purple;">Épique</mark>
-
-Les rituels épiques exigent un niveau encore plus élevé de compétence et d'effort de la part des joueurs.
-
-<mark style="color:purple;">**Exemples de rituels épiques**</mark> :&#x20;
-
-* <mark style="color:purple;">**Craft de Blocs d'Or**</mark>
-* <mark style="color:purple;">**Casser des Bûches de Bois de Sapin**</mark>
-* <mark style="color:purple;">**Tuer des Vaches**</mark>
-* <mark style="color:purple;">**Enchanter des Pioches en Diamant**</mark>
-* <mark style="color:purple;">**Casser des Roches**</mark>
-
-Les récompenses pour les rituels épiques sont substantielles et incluent des montants élevés de monnaie du jeu, des objets rares, des clés et des spawners mystère avec des chances accrues.
-
-### <mark style="color:orange;">Légendaire</mark>
-
-Les rituels légendaires représentent les défis les plus ardus et les plus gratifiants.
-
-<mark style="color:orange;">**Exemples de rituels légendaires**</mark> :&#x20;
-
-* <mark style="color:orange;">**Craft de Blocs d'Or en Grande Quantité**</mark>
-* <mark style="color:orange;">**Casser des Minerais de Diamant**</mark>
-* <mark style="color:orange;">**Tuer des Tigres**</mark>
-* <mark style="color:orange;">**Pêcher des Items**</mark>
-* <mark style="color:orange;">**Marcher sur de Longues Distances**</mark>
-
-Les récompenses pour les rituels légendaires sont les plus généreuses, offrant de grandes quantités de monnaie du jeu, des objets extrêmement rares, des clés et des spawners mystère avec les meilleures chances de gain.
-
-### <mark style="color:red;">Divin</mark>
-
-Les rituels divins sont les plus rares et les plus difficiles à accomplir, nécessitant des efforts considérables et des compétences avancées.
-
-<mark style="color:red;">**Exemples de rituels divins**</mark> :&#x20;
-
-* <mark style="color:red;">**Craft de Blocs de Diamant en Très Grande Quantité**</mark>
-* <mark style="color:red;">**Casser des Minerais d'Émeraude**</mark>
-* <mark style="color:red;">**Tuer des Anacondas**</mark>
-* <mark style="color:red;">**Enchanter des Objets de Haute Valeur**</mark>
-* <mark style="color:red;">**Manger des Poissons-Globe**</mark>
-
-Les récompenses pour les rituels divins sont exceptionnelles, incluant les plus hauts montants de monnaie du jeu, des objets extrêmement rares, des clés et des spawners mystère avec les meilleures chances de gain.
-
-## <mark style="color:yellow;">C</mark><mark style="color:yellow;">**omment en obtenir ?**</mark>
-
-L’obtention des rituels est spécifique à Blocaria. Ils ne seront pas obtenables en payant avec de l’XP ou de l’argent.
-
-Tu pourras les débloquer uniquement par le biais des <mark style="color:yellow;">**métiers**</mark>, des <mark style="color:yellow;">**récompenses quotidiennes**</mark>, des <mark style="color:yellow;">**largages**</mark>, des <mark style="color:yellow;">**caisses**</mark>, et d’autres <mark style="color:yellow;">**activités similaires**</mark>.
-
-## <mark style="color:yellow;">Les cristaux de complétion</mark>
-
-Les cristaux de complétion sont des objets puissants qui vous permettent de valider instantanément un rituel en cours. Ces cristaux sont essentiels pour les joueurs cherchant à accélérer leur progression et à finaliser des rituels sans attendre. Pour la validation du rituel, il faut cliquer simplement avec le cristal de complétion sur le rituel que vous souhaitez valider.
-
-{% hint style="success" %}
-Préparez-vous à relever ces défis pour gagner des trésors incroyables !
-{% endhint %}
+* Tant que le **clic droit** n’a pas été effectué, le rituel reste **inactif**.
+* Une fois le rituel **révélé**, l’activation est **irréversible**.
+* Aucun **délai supplémentaire** n’est accordé après l'**expiration**.

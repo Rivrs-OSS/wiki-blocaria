@@ -4,82 +4,94 @@ description: Retrouvez ici toutes les informations concernant le spawn
 
 # 🌎 Le Spawn
 
-## <mark style="color:yellow;">Codex</mark>
+Le spawn est un espace commun à tous les joueurs. Au centre de celui-ci, vous trouverez un portail de téléportation qui vous amènera vers votre box !
 
-Les zones importantes que tu as précédemment visitées sont disponibles dans le <mark style="color:yellow;">**`/codex`**</mark>.
+<figure><img src="../.gitbook/assets/{C67A449B-1CD3-4768-A3E5-E9A88A40E988}.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:yellow;"><strong><code>/codex</code></strong></mark></p></figcaption></figure>
+Au spawn, vous trouverez de nombreuses interfaces et commandes auprès des villageois, souvent postés près des bâtiments.
 
-Cela te permet de te téléporter directement à la zone de ton choix, facilitant ainsi tes déplacements et rendant ton exploration plus fluide.
+Vous pourrez facilement monter vos niveaux de métier : pêcheur, mineur, chasseur et fermier grâce à l'installation prévue au spawn.
 
-## <mark style="color:yellow;">Shop Général</mark>
+#### Voici une carte des différents points au spawn :
 
-Sur Blocaria, tu peux accéder facilement au marché du spawn en utilisant la commande <mark style="color:yellow;">**`/shop`**</mark>. C'est l'endroit idéal pour vendre et acheter tes matériaux à des PNJ.
+<figure><img src="../.gitbook/assets/Carte.png" alt=""><figcaption></figcaption></figure>
 
-Le <mark style="color:yellow;">**`/shop`**</mark> de Blocaria répertorie une variété d'articles dans différentes catégories, te permettant d'acheter et de vendre des ressources sans avoir à les obtenir manuellement.
+<details>
 
-Dans toutes les boutiques, lorsque tu passes le curseur sur un objet, tu verras les détails pertinents, comme le prix d'achat et le prix de vente.
+<summary>Place principale et secondaire</summary>
 
-{% hint style="warning" %}
-Attention, certains objets sont uniquement vendables.
-{% endhint %}
+Sur la place principale, on peut trouver l'arrivée du spawn et le portail de téléportation vers votre box. En avançant, vous trouverez la caisse de vote de couleur verte et les caisses accessibles par des récompenses ou avec la <mark style="color:yellow;">`/boutique`</mark>
 
-### <mark style="color:yellow;">Les Catégories</mark>
+Sur la place secondaire, vous retrouverez le barman
 
-* <mark style="color:yellow;">**Agriculture**</mark> : Articles liés à l'agriculture, tels que les graines, les plantes et les produits agricoles.
-* <mark style="color:yellow;">**Nourriture**</mark> : Aliments pour restaurer la santé et la saturation du joueur.
-* <mark style="color:yellow;">**Minerais**</mark> : Ressources minérales comme le fer, l'or, le diamant, etc.
-* <mark style="color:yellow;">**Loots des Mobs**</mark> : Objets obtenus en tuant des créatures.
-* <mark style="color:yellow;">**Spawners**</mark> : Blocs de génération de créatures. Débloquable au <mark style="color:yellow;">**rang**</mark> de <mark style="color:yellow;">**Artisan**</mark>.
-* <mark style="color:yellow;">**Objets Divers**</mark> : Articles variés, souvent utiles dans le gameplay.
-* <mark style="color:yellow;">**Blocs**</mark> : Différents types de blocs pour la construction et la décoration.
+</details>
 
-## <mark style="color:yellow;">Autres Commerçants au Spawn</mark>
+<details>
 
-Tu pourras également retrouver certains PNJ dans le spawn proposant d'autres articles non disponibles dans le <mark style="color:yellow;">**`/shop`**</mark>. Voici les différents autres commerçants présents au <mark style="color:yellow;">**`/spawn`**</mark>, utiles pour la progression de ton aventure :
+<summary>Place du marché</summary>
 
-<mark style="color:yellow;">**Fleuriste**</mark> :
+Sur la place du marché, vous trouverez 6 villageois qui ouvrent chacun une page du <mark style="color:yellow;">`/shop`</mark> et 1 qui propose les "offres spéciales".
 
-Vends une variété de fleurs dans des pots de différentes tailles. Idéal pour décorer ta box et ajouter une touche de nature à ton espace.
+</details>
 
-<mark style="color:yellow;">**Minekea**</mark> :
+<details>
 
-Offre une large gamme de meubles uniques. Parfait pour personnaliser et meubler ton espace avec style et originalité.
+<summary>Enchères</summary>
 
-<mark style="color:yellow;">**Poissonnier**</mark> :
+Le bâtiment des enchères est présent notamment pour l'événement en jeu (enchères) qui apparaît aléatoirement dans la journée. Un villageois vous y présente aussi l'hôtel des ventes, également accessible via le <mark style="color:yellow;">`/ah`</mark>
 
-Achète les poissons customisés (<mark style="color:yellow;">**`/fish shop`**</mark>).
+</details>
 
-<mark style="color:yellow;">**Antiquaire**</mark> :
+<details>
 
-Échange des géodes ouvertes contre des bijoux. Parfait pour obtenir des bijoux de base et commencer à équiper ton personnage.
+<summary>Zones safari (Marais, Désert, Savane, Jungle)</summary>
 
-<mark style="color:yellow;">**Luxury Cosmetique**</mark> :
+Dans chacune des zones Safari, vous pourrez trouver des spawners de mobs vanilla, mais aussi des apparitions aléatoires d’animaux customs. Vous pourrez facilement faire progresser votre métier de chasseur.
 
-Propose un système de cosmétiques. Personnalise l'apparence de ton personnage avec des vêtements uniques et stylés (<mark style="color:yellow;">**/cosmetics**</mark>).
+</details>
 
-<mark style="color:yellow;">**Barmaid**</mark> :
+<details>
 
-Vente de différentes boissons avec un pourcentage de récompense variable suivant la boisson choisie (<mark style="color:yellow;">**/bar**</mark>).
+<summary>Forgeron</summary>
 
-<mark style="color:yellow;">**Marché Noir**</mark> :
+Dans la forge (<mark style="color:yellow;">`/warp forgeron`</mark>), vous trouverez le forgeron. Celui-ci vous présente l'interface pour la réparation des outils rares.
 
-Permet d'acheter 5 marchandises générées par jour, disponibles en quantité limitée et achetables uniquement avec des crânes.
+Devant le bâtiment, vous trouverez également un [concasseur](le-concasseur.md), utile pour ouvrir vos [géodes](les-geodes.md).
 
-<mark style="color:yellow;">**Forgeron**</mark> :
+</details>
 
-Permet de réparer tes objets grâce à la poudre de perlimpinpin, garantissant la longévité de ton équipement (<mark style="color:yellow;">**/forge**</mark>).
+<details>
 
-## <mark style="color:yellow;">La mine</mark>
+<summary>Champs</summary>
 
-Une mine est accessible via la commande <mark style="color:yellow;">**/mine**</mark>, où vous pouvez descendre pour extraire des ressources précieuses. Cependant, l'accès à la mine est réglementé et nécessite des rangs spécifiques.
+Dans cette zone du spawn, vous pourrez facilement pratiquer votre métier d'agriculteur grâce aux différentes cultures (blé, carotte, pomme de terre...).
 
-Pour descendre dans la mine et commencer à extraire ressources rares, vous devez posséder un rang spécifique. Chaque rang permet l'accès à différents niveaux de la mine, offrant ainsi des ressources de plus en plus rares.
+Les cultures se replantent automatiquement, avec ou sans outil, et repoussent plus vite que les cultures vanilla (<mark style="color:yellow;">`/warp champs`</mark>)
 
-## <mark style="color:yellow;">Les animaux</mark>
+</details>
 
-Les animaux customisés sont tous disponibles au spawn. Ils donnent leurs loot , la vision de ceux-ci est disponible dans la catégorie 'Les Animaux' .
+<details>
 
-{% hint style="warning" %}
-Attention tout de même, les animaux du spawn ne droperont pas les œufs .
-{% endhint %}
+<summary>Cosmétique</summary>
+
+Dans ce bâtiment du spawn, vous aurez accès à votre inventaire de cosmétiques. Vous pourrez équiper vos différents cosmétiques et vous pavaner devant les autres joueurs avec les plus rares ! <mark style="color:yellow;">`/warp cosmetic`</mark>
+
+</details>
+
+<details>
+
+<summary>Mine</summary>
+
+La mine renferme bien des secrets et des trésors. Vous y trouverez facilement les minerais pour votre métier de mineur, mais faites attention : des monstres habitent ces cavernes et pourraient bien protéger leur butin. Pour votre vaillance, ces monstres vous feront monter votre métier de chasseur.
+
+</details>
+
+Beaucoup d'autres zones sont encore à découvrir au spawn ! N’hésitez pas à vous y balader tout en récupérant quelques pièces sur votre passage.
+
+## Codex
+
+Pour faciliter vos déplacements au spawn, nous avons créé le `/codex`. Cette interface propose différents points de téléportation vers les lieux clés. Cela vous permet de vous téléporter directement depuis votre île ou le spawn vers la zone de votre choix, rendant votre exploration plus fluide.
+
+Vous pouvez aussi utiliser la commande <mark style="color:yellow;">`/warp [Nom]`</mark> pour vous y rendre encore plus rapidement !
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2026-02-19 à 07.39.44.png" alt=""><figcaption></figcaption></figure>

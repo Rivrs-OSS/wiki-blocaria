@@ -4,10 +4,296 @@ description: Retrouvez ici toutes les informations concernant les quêtes tutori
 
 # 🗺️ Tutoriel
 
-## <mark style="color:yellow;">Chapitre I</mark>&#x20;
+Le tutoriel est une aide au début de ton aventure qui va te permettre de comprendre les fonctionnalités du serveur et d'apprendre les commandes de base.
 
-<table><thead><tr><th width="136">Numéro</th><th>Intitulé</th><th>Récompense</th></tr></thead><tbody><tr><td>Quête n°1</td><td>Sauter dans le portail au spawn</td><td>2500💰</td></tr><tr><td>Quête n°2</td><td>Cassez 2 bûches de bouleau sur votre box</td><td>2500💰</td></tr><tr><td>Quête n°3</td><td>Consulter vos missions coopératives en utilisant la commande <code>(/missions)</code></td><td>2500💰</td></tr><tr><td>Quête n°4 </td><td>Bêcher 12 de terre afin de compléter la seconde mission</td><td>x32 Graines de blé</td></tr><tr><td>Quête n°5</td><td>Vous devez choisir d'exercer votre premier métier <code>(/jobs)</code></td><td>2500💰</td></tr><tr><td>Quête n°6</td><td>Ouvrez le menu d'information du métier de Mineur <code>(/jobs info Mineur)</code></td><td>2500💰</td></tr><tr><td>Quête n°7</td><td>Augmenter votre métier de mineur d'un niveau en minant dans votre générateur</td><td>2500💰</td></tr><tr><td>Quête n°8 </td><td>Miner 10 blocs dans votre générateur afin de progresser</td><td>2500💰+ x2 fer brut</td></tr><tr><td>Quête n°9</td><td>Rendez-vous dans le shop afin de vendre votre fer non cuit <code>(/shop)</code></td><td>2500💰</td></tr><tr><td>Quête n°10</td><td>Effectuer la commande /box menu afin d'interagir avec les différentes fonctionnalités</td><td>2500💰</td></tr><tr><td>Quête n°11</td><td>Effectuez la commande /wiki afin de tous connaitre de Blocaria</td><td>2500💰</td></tr><tr><td>Quête n°12</td><td>Veuillez discuter avec le NPC vote au spawn <code>(/spawn</code>)</td><td>x1 clé de vote</td></tr><tr><td>Quête n°13</td><td>Ouvrir votre clé vote grâce à la caisse au spawn <code>(/spawn)</code></td><td>2500💰</td></tr><tr><td>Quête n°14</td><td>Veuillez discuter avec le NPC clé au spawn <code>(/spawn)</code></td><td>x1 Collier Vision nocturne I</td></tr><tr><td>Quête n°15</td><td>Équipez le collier night vision afin de bénéficier de ses effets</td><td>2500💰</td></tr></tbody></table>
+Le tutoriel se lance automatiquement à ton arrivée sur le serveur, dans l'interface à droite de ton écran. Il est impossible de passer le tutoriel. Le seul moyen de le fermer, c'est de le finir.
 
-## <mark style="color:yellow;">Chapitre II</mark>
+### Chapitre 1 : Une nouvelle aventure
 
-<table><thead><tr><th width="129">Numéro</th><th>Intitulé</th><th>Récompense</th></tr></thead><tbody><tr><td>Quête n°1</td><td>Rends toi dans la zone des animaux afin de trouver et tuer un écureuil</td><td>x1 Noisette</td></tr><tr><td>Quête n°2</td><td>Effectue la commande <code>/personnage</code> et dépose la noisette afin de monter en niveau</td><td>x2 Éponges</td></tr><tr><td>Quête n°3</td><td>Renseigne toi sur les différents rangs en effectuant la commande <code>/rang</code></td><td>2500💰</td></tr><tr><td>Quête n°4</td><td>Balade toi dans le spawn afin de découvrir tout le codex</td><td>2500💰</td></tr><tr><td>Quête n°5</td><td>Utilise ton codex pour te rendre à l'antiquaire</td><td>x1 Géode fermé</td></tr><tr><td>Quête n°6</td><td>Pour obtenir un concasseur, il vous suffit de monter niveau 9 mineur ou d'agrandir votre boxe</td><td>x1 Géode fermé</td></tr><tr><td>Quête n°7</td><td>Interagissez avec le concasseur et concasser une géode</td><td>x1 Poudre de perlimpinpin</td></tr><tr><td>Quête n°8</td><td>Rendez vous chez le forgeron afin de réparer vos outils</td><td>15000💰</td></tr></tbody></table>
+<details>
+
+<summary>Quête n°1 - Un nouveau départ</summary>
+
+Créez votre box via la commande <mark style="color:yellow;">`/box create`</mark> \[Nom de la boxe]
+
+<mark style="color:green;">Récompense</mark> : 500 ![](../.gitbook/assets/Argent.png)
+
+</details>
+
+<details>
+
+<summary>Quête n°2 - L'arbre de la vie</summary>
+
+Cassez 4 bûches de chênes sur votre box <mark style="color:yellow;">`/box go`</mark>
+
+<mark style="color:$success;">Récompense</mark> : 1000 <img src="../.gitbook/assets/Argent.png" alt="" data-size="original">
+
+</details>
+
+<details>
+
+<summary>Quête n°3 - Une sacrée mission !</summary>
+
+Effectuez la commande <mark style="color:yellow;">`/mission`</mark>
+
+<mark style="color:$success;">Récompense</mark> : 1000 ![](../.gitbook/assets/Argent.png)
+
+</details>
+
+<details>
+
+<summary>Quête n°4 - La magie des cailloux</summary>
+
+Minez 2 charbons dans le générateur de minerais sur votre box <mark style="color:yellow;">`/box go`</mark>
+
+<mark style="color:green;">Récompenses</mark> : 1500 ![](../.gitbook/assets/Argent.png) - 8 côtelettes crues
+
+</details>
+
+<details>
+
+<summary>Quête n°5 - Un mineur né !</summary>
+
+Rejoignez le métier de mineur <mark style="color:yellow;">`/jobs`</mark> (cliquer sur la pioche (métier miner) et sur l'icône rejoindre pour activer le métier). Montez au niveau 2 du job mineur.
+
+<mark style="color:green;">Récompense</mark> : 2000 ![](../.gitbook/assets/Argent.png)
+
+</details>
+
+<details>
+
+<summary>Quête n°6 - Un travail payant</summary>
+
+Récupérez la récompense de métier via la commande <mark style="color:yellow;">`/jobs claim`</mark>
+
+<mark style="color:green;">Récompense</mark> : 2000 ![](../.gitbook/assets/Argent.png)
+
+</details>
+
+<details>
+
+<summary>Quête n°7 - Des amis !</summary>
+
+Augmentez la limite de membres via la commande <mark style="color:yellow;">`/box upgrade`</mark>, passer la limite de 3 à 4 membres.
+
+<mark style="color:green;">Récompense</mark> : 2000 ![](../.gitbook/assets/Argent.png)
+
+</details>
+
+<details>
+
+<summary>Quête n°8 - Agrandissement</summary>
+
+Réalisez 4 missions afin d’agrandir votre box <mark style="color:yellow;">`/missions`</mark>
+
+<mark style="color:green;">Récompense</mark> : 2500 ![](../.gitbook/assets/Argent.png)
+
+</details>
+
+<details>
+
+<summary>Quête n°9 - Retour aux sources</summary>
+
+Retournez au spawn <mark style="color:yellow;">`/spawn`</mark>
+
+<mark style="color:green;">Récompense</mark> : 2500 ![](../.gitbook/assets/Argent.png)
+
+</details>
+
+{% hint style="info" %}
+_**Fin chapitre 1 : 100 xp personnage**_
+{% endhint %}
+
+### Chapitre 2 : Découverte des métiers
+
+<details>
+
+<summary>Quête n°1 - Mine craft</summary>
+
+Entrez dans la mine <mark style="color:yellow;">`/mine`</mark>
+
+<mark style="color:green;">Récompense :</mark> 2500![](../.gitbook/assets/Argent.png) - 1 Pioche commune
+
+</details>
+
+<details>
+
+<summary>Quête n°2 - Un mineur expérimenté</summary>
+
+Passez niveau 5 dans le métier de mineur <mark style="color:yellow;">`/jobs`</mark>
+
+<mark style="color:green;">Récompense</mark> : 3000 ![](../.gitbook/assets/Argent.png)
+
+</details>
+
+<details>
+
+<summary>Quête n°3 - Un nouvel horizon !</summary>
+
+Quittez le métier de mineur pour rejoindre le métier d'agriculteur via <mark style="color:yellow;">`/jobs`</mark>. (Cliquez sur la pioche, puis sur l'icône Quitter le métier. Cliquez ensuite sur la houe, puis sur l'icône rejoindre le métier) Vous voilà désormais agriculteur !
+
+<mark style="color:green;">Récompense</mark> : 3500 ![](../.gitbook/assets/Argent.png)
+
+</details>
+
+<details>
+
+<summary>Quête n°4 - Un agriculteur en herbe</summary>
+
+Récoltez 8 patates, carottes, betteraves, blés aux champs <mark style="color:yellow;">`/warp champ`</mark>
+
+<mark style="color:green;">Récompense</mark> : 4000 ![](../.gitbook/assets/Argent.png) - Fourche commune
+
+</details>
+
+<details>
+
+<summary>Quête n°5 - Ma jardinière secrète</summary>
+
+Allez au stand près des champs (<mark style="color:yellow;">`/warp champ`</mark> )puis cliquez sur le point d'interrogation en 3D (tesseract)
+
+<mark style="color:green;">Récompense</mark> : 4000 ![](../.gitbook/assets/Argent.png) - Jardinière - Arrosoir - une graine de tomate
+
+</details>
+
+<details>
+
+<summary>Quête n°6 - S'hydrater c’est important</summary>
+
+Placez votre jardinière sur votre box et arrosez la terre à l’aide de l’arrosoir
+
+<mark style="color:green;">Récompense</mark> : 4500 ![](../.gitbook/assets/Argent.png) / 4 Compost
+
+</details>
+
+<details>
+
+<summary>Quête n°7 - Le fruit d’un légume</summary>
+
+Plantez une graine de tomate dans la jardinière
+
+<mark style="color:green;">Récompense</mark> : 4500 ![](../.gitbook/assets/Argent.png)
+
+</details>
+
+<details>
+
+<summary>Quête n°8 - Un amis pour la vie ♥️</summary>
+
+Récupérez votre familier puis posez-le dans votre box ( <mark style="color:yellow;">`/box go`</mark> ) une fois éclos, absorbez-le (clic droit)
+
+<mark style="color:green;">Récompense</mark> : 5500 ![](../.gitbook/assets/Argent.png)
+
+</details>
+
+<details>
+
+<summary>Quête n°9 - Un compagnon pour la vie</summary>
+
+Activez votre familier grâce au <mark style="color:yellow;">`/pet`</mark> fait clic droit sur celui, puis sortez-le en faisant à nouveau clic droit sur celui-ci
+
+<mark style="color:green;">Récompense</mark> : 5500 ![](../.gitbook/assets/Argent.png) - 2 Friandises
+
+</details>
+
+<details>
+
+<summary>Quête n°10 - Les sucreries font grossir</summary>
+
+Maintenant que Zébra est sorti, nourrissez-le avec des friandises en faisant clic droit sur lui (Sortir le familier via le <mark style="color:yellow;">`/pets`</mark>).
+
+<mark style="color:green;">Récompense</mark> : 5500 ![](../.gitbook/assets/Argent.png) - 4 pousses de chênes, bouleaux, sapins, jungles - 64 poudres d’os
+
+</details>
+
+{% hint style="info" %}
+_**Fin du chapitre 2 : 250 xp de personnage**_
+{% endhint %}
+
+### Chapitre 3 : Les mécaniques avancées
+
+<details>
+
+<summary>Quête n°1 - Un joueur expérimenté</summary>
+
+Accédez au menu du personnage via la commande <mark style="color:yellow;">`/personnage`</mark>
+
+<mark style="color:green;">Récompense</mark> : 5000 ![](../.gitbook/assets/Argent.png)
+
+</details>
+
+<details>
+
+<summary>Quête n°2 - Le collectionneur</summary>
+
+Accédez au menu des collections via la commande <mark style="color:yellow;">`/success`</mark>
+
+<mark style="color:green;">Récompense</mark> : 5000 ![](../.gitbook/assets/Argent.png)
+
+</details>
+
+<details>
+
+<summary>Quête n°3 - L'échelle sociale</summary>
+
+Accédez au menu des rangs via la commande <mark style="color:yellow;">`/rang`</mark>
+
+<mark style="color:green;">Récompense</mark> : 5000 ![](../.gitbook/assets/Argent.png)
+
+</details>
+
+<details>
+
+<summary>Quête n°4 - Seconde vie</summary>
+
+Accéder à l’interface du forgeron <mark style="color:yellow;">`/forgeron`</mark>
+
+<mark style="color:green;">Récompense</mark> : 5500 ![](../.gitbook/assets/Argent.png) - Poudre de perlimpinpin - Poudre corrompue
+
+</details>
+
+<details>
+
+<summary>Quête n°5 - Un concasseur ?</summary>
+
+Allez au spawn, proche du forgeron <mark style="color:yellow;">`/warp forgeron`</mark>, et interagissez avec le concasseur
+
+<mark style="color:green;">Récompense</mark> : 7500 ![](../.gitbook/assets/Argent.png) - Un concasseur - Géode fermée
+
+</details>
+
+<details>
+
+<summary>Quête n°6 - Concasse-tête</summary>
+
+Concasser une géode fermée sur votre box <mark style="color:yellow;">`/box go`</mark>
+
+<mark style="color:green;">Récompense</mark> : 7500 ![](../.gitbook/assets/Argent.png)
+
+</details>
+
+<details>
+
+<summary>Quête n°7 - Tout vu et tout bronzé</summary>
+
+Passez le rang bronze II. Faire les quêtes dans le <mark style="color:yellow;">`/rang`</mark>
+
+<mark style="color:green;">Récompense</mark> : 10000 ![](../.gitbook/assets/Argent.png)
+
+</details>
+
+{% hint style="info" %}
+_**Fin du chapitre 3 : 400 xp de personnage**_
+{% endhint %}
+
+### Les tesseracts
+
+Les tesseracts sont un hologramme en forme d’un point d’interrogation <mark style="color:yellow;">\[?]</mark> placés à des endroits stratégiques au spawn
+
+<figure><img src="../.gitbook/assets/2026-02-22_15.33.19.png" alt="" width="344"><figcaption></figcaption></figure>
+
+<mark style="color:yellow;">→</mark> Devant la mine
+
+<mark style="color:yellow;">→</mark> Devant le safari
+
+<mark style="color:yellow;">→</mark> A côté du concasseur…
