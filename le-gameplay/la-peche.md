@@ -32,7 +32,7 @@ Pour les poissons communs :
 
 Lorsque vous lancez votre ligne à l'eau, et au moment où le poisson arrive, vous avez une probabilité que l'interface ne s'affiche pas. Vous pourrez donc pêcher un poisson commun exactement comme en vanilla.
 
-Au spawn, les poissons pêchés seront exclusivement communs.
+Au spawn, les poissons pêchés seront exclusivement vanilla.
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2026-02-15 à 16.22.10.png" alt="" width="375"><figcaption></figcaption></figure>
 

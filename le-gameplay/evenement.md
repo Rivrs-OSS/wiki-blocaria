@@ -21,6 +21,32 @@ Plusieurs catégories d’évènements sont disponibles, notamment :
 
 Chaque évènement dispose de ses propres règles, objectifs et récompenses.
 
+
+
+### **Evénements**
+
+Les **mini-événements aléatoires** peuvent apparaître à n’importe quel moment de la journée, y compris pendant les autres événements.
+
+**Chat réaction :**\
+Un message apparaît dans le chat et vous demande d’effectuer une action spécifique.
+
+**Jackpot :**\
+Un joueur est tiré aléatoirement et reçoit une importante récompense.
+
+**Glouton :**\
+Un NPC de grande taille apparaît à un emplacement fixe au spawn (commun à tous les spawns) et demande une ressource accompagnée d’une quantité précise.\
+Il est nécessaire d’aller lui parler au spawn afin de connaître la ressource demandée.
+
+Les cinq premiers joueurs qui lui apportent la bonne ressource, dans la quantité demandée, reçoivent une récompense.
+
+**Chasse aux trésors :**\
+Entre cinq et huit coffres sont dispersés aléatoirement dans le spawn.\
+Le premier joueur qui découvre et crochette un coffre récupère la récompense et fait disparaître le coffre.
+
+Un message apparaît uniquement dans le chat du spawn lorsqu’un coffre est trouvé.
+
+Pour crocheter un coffre, il est nécessaire d’effectuer plusieurs clics droits successifs dessus.
+
 ### Médailles et classements
 
 En remportant des **évènements classés**, vous obtenez des **médailles**.\
