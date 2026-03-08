@@ -94,7 +94,7 @@ TOUTES LES RÈGLES S'APPLIQUENT INCONDITIONNELLEMENT.
 * L'utilisation de systèmes Anti-AFK (circuit d’eau, AFK Farm, etc.) est interdite.
 * Les machines à pêche automatiques sont interdites.
 * Le farming à l’aide de véhicules (bateaux, wagons, etc.) est interdit.
-* Le posé/casser abusif de blocs farmables (bois, pierres, minerais…) pour les missions coopératives ou les rituels est interdit.
+* Le posé/casser abusif de blocs farmables (bois, pierres, minerais…) pour les missions coopératives, jobs ou les rituels est interdit.
 * Toute tentative de contourner la progression prévue par le serveur (machines automatiques, exploitation de bug, etc.) est interdite.
 * Le chunkloading (chargement de chunks via des techniques détournées) est interdit.
 * Toute technique empêchant de faire disparaître (despawn) des mobs (Rename, bateau, etc.) est interdite.
