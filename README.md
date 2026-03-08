@@ -27,7 +27,7 @@ layout:
 
 Bienvenue sur le **wiki officiel du serveur Blocaria** ! Celui-ci vous sera utile tout au long de votre progression, et vous permettra une aventure sans soucis.
 
-Vous y retrouverez **toutes les fonctionnalités du serveur !!!**
+Vous y retrouverez **toutes les fonctionnalités du serveur !**
 
 <figure><img src=".gitbook/assets/image (1).avif" alt=""><figcaption></figcaption></figure>
 
