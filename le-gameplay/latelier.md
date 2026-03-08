@@ -100,7 +100,7 @@ x64 diamants\
 x64 émeraudes\
 x8 netherite\
 x64 lingots d'argent\
-x64 lingots de cobalt
+x32 lingots de cobalt
 
 </details>
 
@@ -317,7 +317,7 @@ x1 fiole vide
 
 <summary>Breuvage de vitesse</summary>
 
-Ce breuvage augmente votre saturation pendant 15 minutes
+Ce breuvage augmente votre vitesse pendant 15 minutes
 
 _**Commun**_
 

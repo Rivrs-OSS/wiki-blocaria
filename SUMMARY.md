@@ -26,7 +26,7 @@
   * [🛠️ Le Concasseur](le-gameplay/le-concasseur.md)
   * [💎 Les Géodes](le-gameplay/les-geodes.md)
   * [⚒️ La Forge](le-gameplay/la-forge.md)
-  * [🪄 Outil Spéciaux](le-gameplay/outil-speciaux.md)
+  * [🪄 Outils évolutifs](le-gameplay/outil-speciaux.md)
   * [🛠️ L'atelier](le-gameplay/latelier.md)
   * [🧪 Les breuvages](le-gameplay/les-breuvages.md)
   * [🍌 Les cultures custom](le-gameplay/les-cultures-custom.md)

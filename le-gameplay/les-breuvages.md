@@ -17,7 +17,7 @@ Le détail de leur fabrication et de leur fonctionnement est présenté dans la 
 
 ### **Type de breuvage**
 
-**Les breuvages sont tous disponibles avec 5 formes différente :**
+**Les breuvages sont tous disponibles avec 5 formes différentes :**
 
 Mini breuvage ![](../.gitbook/assets/petite_breuvage.png)
 
