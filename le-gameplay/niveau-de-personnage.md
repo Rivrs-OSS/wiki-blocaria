@@ -38,6 +38,13 @@ Les niveaux de personnage jouent un rôle central dans votre aventure :
 La c**hance** est une statistique de grande importance qui influence de nombreux aspects du serveur.\
 Elle se débloque et s’améliore en augmentant votre niveau de personnage, lui-même obtenu grâce aux succès. Vous pouvez en obtenir également grâce à certains [familiers](./), et temporairement avec des [breuvages](les-breuvages.md).
 
+La **chance** permet d’augmenter les probabilités d’obtenir des **rares drops** lors de différentes actions.\
+Elle améliore notamment les chances d’obtenir des objets spéciaux, comme les **géodes lors du minage** ou les **engrais lors des récoltes**.
+
+Elle augmente également les probabilités d’obtenir **de meilleurs résultats lors de l’éclosion des œufs (Shyni).**
+
+
+
 Compléter un succès tel que :
 
 * _Casser 100 bûches de chêne_
