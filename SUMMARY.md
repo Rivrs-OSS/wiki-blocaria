@@ -2,7 +2,7 @@
 
 * [💎 Bienvenue sur Blocaria](README.md)
   * [🚂 Comment rejoindre Blocaria](bienvenue-sur-blocaria/comment-rejoindre-blocaria.md)
-  * [📢 Règlement In game](bienvenue-sur-blocaria/reglement-in-game.md)
+  * [📢 Règlement in-game](bienvenue-sur-blocaria/reglement-in-game.md)
   * [🪧 Règlement Discord](bienvenue-sur-blocaria/reglement-discord.md)
   * [❓ Questions Fréquentes](bienvenue-sur-blocaria/questions-frequentes.md)
   * [📮 Comment voter pour Blocaria](bienvenue-sur-blocaria/comment-voter-pour-blocaria.md)
