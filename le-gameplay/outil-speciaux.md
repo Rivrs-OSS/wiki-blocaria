@@ -2,10 +2,12 @@
 description: Retrouvez ici toutes les informations concernant les outil spéciaux
 ---
 
-# 🪄 Outil Spéciaux
+# 🪄 Outils évolutifs
 
 Les **outils spéciaux sont évolutifs** et s’obtiennent par la progression dans les métiers.\
-Ils peuvent être améliorés via une interface accessible avec **sneak + clic droit** (outil en main).
+Ils peuvent être améliorés via une interface accessible avec **`sneak + clic droit`** (outil en main).
+
+<figure><img src="../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
 L’amélioration s’effectue à l’aide de **pierres d’évolution**, obtenables :
 
@@ -14,21 +16,49 @@ L’amélioration s’effectue à l’aide de **pierres d’évolution**, obtena
 * En récompenses de métiers, caisses ou événements
 * Par certaines améliorations d’outils évolutifs
 
-Les **outils enchantés** nécessitent des **pierres d’évolution enchantées**.
+Les **outils enchantés** nécessitent des **pierres d’évolution forgée**.
+
+<details>
+
+<summary>Pierre d'évolution </summary>
+
+<table><thead><tr><th>Nom</th><th align="center" valign="middle">Items</th><th align="center">Craft</th></tr></thead><tbody><tr><td>Pierre d'évolution </td><td align="center" valign="middle"><img src="../.gitbook/assets/evolution_stone (1).png" alt="" data-size="original"></td><td align="center"><img src="../.gitbook/assets/image (46).png" alt="" data-size="original"></td></tr><tr><td><p>Pierre d'évolution forgée</p><p></p></td><td align="center" valign="middle"><img src="../.gitbook/assets/enchanted_evolution_stone.png" alt="" data-size="original"></td><td align="center"><img src="../.gitbook/assets/image (45).png" alt="" data-size="original"></td></tr></tbody></table>
+
+</details>
 
 ### Agriculteur
 
 <details>
 
-<summary><strong>Fourche</strong></summary>
+<summary><strong>Récolteuse rustique</strong></summary>
 
-Déblocage : **Niveau 25**
+**Déblocage** : _Niveau 25_
 
-Type : Houe évolutive
+**Type** : _Cisaille évolutive_
 
-Cultures : Carottes, Patates, Blé, Betteraves, Verrues du Nether
+**Cultures** : _Cannes à sucre, Baies sucrées, Algues, Vignes_
 
-Durabilité : **15 000**
+**Durabilité** : _15 000_
+
+**Amélioration possible :** _Vente automatique_
+
+<figure><img src="../.gitbook/assets/cisaille_1.png" alt=""><figcaption></figcaption></figure>
+
+</details>
+
+<details>
+
+<summary><strong>Fourche rustique</strong></summary>
+
+**Déblocage** : _**Niveau 50**_
+
+**Type** : _Houe évolutive_
+
+**Cultures** : _Carottes, Patates, Blé, Betteraves, Verrues du Nether_
+
+**Durabilité** : _15 000_
+
+**Amélioration possible :** _Replanteuse, Fortune, Vente automatique_
 
 <figure><img src="../.gitbook/assets/hoe_1.gif" alt="" width="319"><figcaption></figcaption></figure>
 
@@ -36,31 +66,17 @@ Durabilité : **15 000**
 
 <details>
 
-<summary><strong>Fourche enchantée</strong></summary>
+<summary><strong>Hachette rustique</strong></summary>
 
-Déblocage : **Niveau 100**
+**Déblocage** : _Niveau 75_
 
-Amélioration de la Fourche
+**Type** : _Hache évolutive_
 
-Cultures : Torche-fleur, Planturne, Carottes, Patates, Blé, Betteraves, Verrues du Nether
+**Cultures** : _Melons, Citrouilles, Bambous_
 
-Durabilité : **20 000**
+**Durabilité** : _15 000_
 
-<figure><img src="../.gitbook/assets/enchanted_hoe_1.gif" alt="" width="319"><figcaption></figcaption></figure>
-
-</details>
-
-<details>
-
-<summary><strong>Récolteuse</strong></summary>
-
-Déblocage : **Niveau 50**
-
-Type : Cisaille évolutive
-
-Cultures : Cannes à sucre, Baies sucrées, Algues, Vignes
-
-Durabilité : **15 000**
+**Amélioration possible :** _Touché de soie, Vente automatique_
 
 <figure><img src="../.gitbook/assets/rake_1.gif" alt="" width="319"><figcaption></figcaption></figure>
 
@@ -68,45 +84,51 @@ Durabilité : **15 000**
 
 <details>
 
-<summary><strong>Récolteuse enchantée</strong></summary>
+<summary><strong>Fourche forgée</strong></summary>
+
+**Déblocage** _: Niveau 100_
+
+**Type** _: Amélioration de la Fourche rustique_
+
+**Cultures** _: Torche-fleur, Planturne, Carottes, Patates, Blé, Betteraves, Verrues du Nether_
+
+**Durabilité** _: 20 000_
+
+**Amélioration possible :** _Niveaux d'îles, Replanteuse, Fortune, Vente automatique, Durabilités_&#x20;
+
+<figure><img src="../.gitbook/assets/enchanted_hoe_1.gif" alt="" width="319"><figcaption></figcaption></figure>
+
+</details>
+
+<details>
+
+<summary><strong>Récolteuse forgée</strong></summary>
 
 **Déblocage** : _Niveau 125_
 
-**Cultures** : Champignon brun, Champignon roug&#x65;_,_&#x43;annes à sucre, Baies sucrées, Algues, Vignes
+**Cultures** : _Champignon brun, Champignon rouge, Cannes à sucre, Baies sucrées, Algues, Vignes_
 
 **Durabilité** : _20 000_\
 \
 **Amélioration possible :** _Niveaux d'île, Vente automatique, Durabilités_
 
-<figure><img src="../.gitbook/assets/enchanted_rake_1.gif" alt="" width="319"><figcaption></figcaption></figure>
+<figure><img src="/broken/files/pewUuF2k4EXpEXqmcGfv" alt=""><figcaption></figcaption></figure>
 
 </details>
 
 <details>
 
-<summary><strong>Hachette</strong></summary>
+<summary><strong>Hachette forgée</strong></summary>
 
-Déblocage : **Niveau 75**
+**Déblocage** : _Niveau 75_
 
-Type : Hache évolutive
+**Type** : _Hache évolutive_
 
-Cultures : Melons, Citrouilles, Bambous
+**Cultures** : _Melons, Citrouilles, Bambous, Cactus_
 
-Durabilité : **15 000**
+**Durabilité** : _15 000_
 
-<figure><img src="../.gitbook/assets/scythe_1.gif" alt="" width="319"><figcaption></figcaption></figure>
-
-</details>
-
-<details>
-
-<summary><strong>Hachette enchantée</strong></summary>
-
-Déblocage : **Niveau 150**
-
-Cultures : Cactus, Melons, Citrouilles, Bambous
-
-Durabilité : **20 000**
+**Amélioration possible :** Niveaux d'île, _Touché de soie, Vente automatique, Durabilités_
 
 <figure><img src="../.gitbook/assets/enchanted_scythe_1.gif" alt="" width="319"><figcaption></figcaption></figure>
 
@@ -116,7 +138,7 @@ Durabilité : **20 000**
 
 <details>
 
-<summary><strong>Hache</strong></summary>
+<summary><strong>Hache rustique</strong></summary>
 
 Déblocage : **Niveau 50**
 
@@ -125,20 +147,6 @@ Arbres : Chêne, Bouleau, Sapin, Acajou, Acacia, Cerisier
 Durabilité : **2 500**
 
 <figure><img src="../.gitbook/assets/axe_1.gif" alt=""><figcaption></figcaption></figure>
-
-</details>
-
-<details>
-
-<summary><strong>Hache enchantée</strong></summary>
-
-Déblocage : **Niveau 100**
-
-Arbres : Chêne sombre, Chêne pâle, Palétuvier, Chêne, Bouleau, Sapin, Acajou, Acacia, Cerisier
-
-Durabilité : **5 000**
-
-<figure><img src="../.gitbook/assets/enchanted_axe_3.gif" alt=""><figcaption></figcaption></figure>
 
 </details>
 
@@ -153,6 +161,20 @@ Blocs : Tige carmin, Tige biscornue
 Durabilité : **2 500**
 
 <figure><img src="../.gitbook/assets/hell_axe_2.gif" alt=""><figcaption></figcaption></figure>
+
+</details>
+
+<details>
+
+<summary><strong>Hache forgée</strong></summary>
+
+Déblocage : **Niveau 100**
+
+Arbres : Chêne sombre, Chêne pâle, Palétuvier, Chêne, Bouleau, Sapin, Acajou, Acacia, Cerisier
+
+Durabilité : **5 000**
+
+<figure><img src="../.gitbook/assets/enchanted_axe_3.gif" alt=""><figcaption></figcaption></figure>
 
 </details>
 
@@ -174,11 +196,13 @@ Durabilité : **5 000**
 
 <details>
 
-<summary><strong>Épée</strong></summary>
+<summary><strong>Épée rustique</strong></summary>
 
-Déblocage : **Niveau 50**
+**Déblocage** : _Niveau 50_
 
-Durabilité : **5 000**
+**Durabilité** : _5 000_
+
+**Amélioration possible :** _Aura de feu, Tranchant, Butin, Affilage, Vente automatique_
 
 <figure><img src="../.gitbook/assets/sword_1.gif" alt=""><figcaption></figcaption></figure>
 
@@ -186,23 +210,13 @@ Durabilité : **5 000**
 
 <details>
 
-<summary><strong>Épée enchantée</strong></summary>
+<summary><strong>Arc rustique</strong></summary>
 
-Déblocage : **Niveau 125**
+**Déblocage** : _Niveau 75_
 
-Durabilité : **10 000**
+**Durabilité** : _1 500_
 
-<figure><img src="../.gitbook/assets/enchanted_sword_3.gif" alt=""><figcaption></figcaption></figure>
-
-</details>
-
-<details>
-
-<summary><strong>Arc</strong></summary>
-
-Déblocage : **Niveau 75**
-
-Durabilité : **1 500**
+**Amélioration possible :** _Frappe, Infinité, Flamme, Puissance_
 
 <figure><img src="../.gitbook/assets/bow_one_1.gif" alt=""><figcaption></figcaption></figure>
 
@@ -210,11 +224,27 @@ Durabilité : **1 500**
 
 <details>
 
-<summary><strong>Arc enchanté</strong></summary>
+<summary><strong>Épée forgée</strong></summary>
 
-Déblocage : **Niveau 150**
+**Déblocage** : _Niveau 125_
 
-Durabilité : **2 000**
+**Durabilité** : _10 000_
+
+**Amélioration possible :** _Niveaux d'île_, _Aura de feu, Tranchant, Fléau des arthropodes, Butin, Affilage, Châtiment, Vente automatique, Durabilités_
+
+<figure><img src="../.gitbook/assets/enchanted_sword_3.gif" alt=""><figcaption></figcaption></figure>
+
+</details>
+
+<details>
+
+<summary><strong>Arc forgée</strong></summary>
+
+**Déblocage** : _Niveau 150_
+
+**Durabilité** : _2 000_
+
+**Amélioration possible :** _Frappe, Infinité, Flamme, Puissance, Explosion, Durabilités_
 
 <figure><img src="../.gitbook/assets/enchanted_bow_five_2.gif" alt=""><figcaption></figcaption></figure>
 
@@ -224,7 +254,7 @@ Durabilité : **2 000**
 
 <details>
 
-<summary><strong>Pioche</strong></summary>
+<summary><strong>Pioche rustique</strong></summary>
 
 Déblocage : **Niveau 50**
 
@@ -238,19 +268,7 @@ Durabilité : **2 000**
 
 <details>
 
-<summary><strong>Pioche enchantée</strong></summary>
-
-Déblocage : **Niveau 100**
-
-Durabilité : **3 000**
-
-<figure><img src="../.gitbook/assets/enchanted_pickaxe_5.gif" alt=""><figcaption></figcaption></figure>
-
-</details>
-
-<details>
-
-<summary><strong>Marteau</strong></summary>
+<summary><strong>Marteau rustique</strong></summary>
 
 Déblocage : **Niveau 75**
 
@@ -266,7 +284,19 @@ Durabilité : **50 000**
 
 <details>
 
-<summary><strong>Marteau enchanté</strong></summary>
+<summary><strong>Pioche forgée</strong></summary>
+
+Déblocage : **Niveau 100**
+
+Durabilité : **3 000**
+
+<figure><img src="../.gitbook/assets/enchanted_pickaxe_5.gif" alt=""><figcaption></figcaption></figure>
+
+</details>
+
+<details>
+
+<summary><strong>Marteau forgée</strong></summary>
 
 Déblocage : **Niveau 125**
 
@@ -280,11 +310,13 @@ Durabilité : **10 000**
 
 <details>
 
-<summary><strong>Canne à pêche</strong></summary>
+<summary><strong>Canne à pêche rustique</strong></summary>
 
-Déblocage : **Niveau 50**
+**Déblocage** : _Niveau 50_
 
-Durabilité : **300**
+**Durabilité** : _300_
+
+**Amélioration possible :** _Double hameçon, Appât, Chance de la mer_
 
 <figure><img src="../.gitbook/assets/enchanted_fisher_rod_2_cast.gif" alt=""><figcaption></figcaption></figure>
 
@@ -292,11 +324,13 @@ Durabilité : **300**
 
 <details>
 
-<summary><strong>Canne à pêche enchantée</strong></summary>
+<summary><strong>Canne à pêche forgée</strong></summary>
 
-Déblocage : **Niveau 100**
+**Déblocage** : _Niveau 100_
 
-Durabilité : **500**
+**Durabilité** : _500_
+
+**Amélioration possible :** Niveaux d'île, _Double hameçon, Appât, Chance de la mer, Durabilités_
 
 <figure><img src="../.gitbook/assets/enchanted_fisher_rod_5_cast.gif" alt=""><figcaption></figcaption></figure>
 
