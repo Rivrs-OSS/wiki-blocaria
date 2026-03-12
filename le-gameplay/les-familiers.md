@@ -33,11 +33,21 @@ Grâce aux petits écrous situés entre les flèches, vous pourrez sauvegarder d
 
 Vous pouvez équiper **5 familiers en même temps**, ce qui vous permet de combiner les avantages de ces derniers.
 
-→ Gratuit : 3 emplacements
+→ Gratuit : 2 emplacements
 
+→ Grade VIP  : +1 emplacement
+
+→ Grade MVP : +1 emplacement\
+\
 → Grade Légende : +1 emplacement
 
-→ Abonnement : +1 emplacement
+Une fois votre familier sorti, en faisant <mark style="color:yellow;">`shift + clic droit`</mark> sur votre familier un menu s'ouvre ! Dans celui-ci vous avez plusieurs possibilités qui s'offrent à vous :&#x20;
+
+* Vous pouvez voir les statistiques de votre familier
+* Vous pouvez renommer votre familier (_uniquement disponible avec l'abonnement premium_)
+* Vous pouvez accéder au menu de [fusion](les-familiers.md#niveau-de-familiers-et-rarete)
+
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 #### Les fruits et les bonbons
 
@@ -72,7 +82,7 @@ Si un familier shiny est inclus dans la fusion, le familier obtenu bénéficiera
 
 Étape pour fusionner:
 
-* Assurez-vous de posséder 3 familiers du **même animal**, tous les trois au **niveau 20**.
+* Assurez-vous de posséder 4 familiers du **même animal**, tous les quatre au **niveau 20**.
 * Ouvrez l'interface avec la commande <kbd><mark style="color:yellow;">/pets<mark style="color:yellow;"></kbd>
 * Passez votre souris sur le familier que vous souhaitez fusionner, puis faites <mark style="color:yellow;">`Shift + clic gauche`</mark> sur celui-ci pour ouvrir l'interface de fusion.
 * Déposez vos **3 familiers** dans les emplacements prévus et validez la fusion.
@@ -80,7 +90,7 @@ Si un familier shiny est inclus dans la fusion, le familier obtenu bénéficiera
 
 <figure><img src="../.gitbook/assets/Sans titre-1.png" alt=""><figcaption></figcaption></figure>
 
-Il existe différents niveau de rareté pour les familiers :
+Il existe différents niveaux de rareté pour les familiers :
 
 ➠ <mark style="color:green;">Commun</mark> ➠ <mark style="color:blue;">Rare</mark> ➠ <mark style="color:purple;">Épique</mark> ➠ <mark style="color:red;">Légendaire</mark> ➠ <mark style="color:yellow;">Mythique</mark>
 
