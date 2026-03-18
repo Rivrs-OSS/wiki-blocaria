@@ -10,12 +10,6 @@ Toute décision d’un membre du staff, basée sur un article du règlement ou n
 Le règlement est susceptible de changer à tout moment sans préavis, nous vous invitons à le consulter régulièrement.
 {% endhint %}
 
-{% hint style="danger" %}
-Règle n°1 : Le staff a toujours raison\
-Règle n°2 : Si le staff a tord alors se référé à la Règle n°1\
-TOUTES LES RÈGLES S'APPLIQUENT INCONDITIONNELLEMENT.
-{% endhint %}
-
 ## <mark style="color:yellow;">Partie I : Les Joueurs</mark>
 
 ### <mark style="color:yellow;">Article A : Votre compte</mark>
@@ -93,6 +87,7 @@ TOUTES LES RÈGLES S'APPLIQUENT INCONDITIONNELLEMENT.
 
 * L'utilisation de systèmes Anti-AFK (circuit d’eau, AFK Farm, etc.) est interdite.
 * Les machines à pêche automatiques sont interdites.
+* Les fermes utilisant des withers ou des tnt sont interdites.
 * Le farming à l’aide de véhicules (bateaux, wagons, etc.) est interdit.
 * Le posé/casser abusif de blocs farmables (bois, pierres, minerais…) pour les missions coopératives, jobs ou les rituels est interdit.
 * Toute tentative de contourner la progression prévue par le serveur (machines automatiques, exploitation de bug, etc.) est interdite.
