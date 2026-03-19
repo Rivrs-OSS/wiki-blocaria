@@ -10,12 +10,6 @@ Toute décision d’un membre du staff, basée sur un article du règlement ou n
 Le règlement est susceptible de changer à tout moment sans préavis, nous vous invitons à le consulter régulièrement.
 {% endhint %}
 
-{% hint style="danger" %}
-Règle n°1 : Le staff a toujours raison\
-Règle n°2 : Si le staff a tord alors se référé à la Règle n°1\
-TOUTES LES RÈGLES S'APPLIQUENT INCONDITIONNELLEMENT.
-{% endhint %}
-
 ## <mark style="color:yellow;">Partie I : Les Joueurs</mark>
 
 ### <mark style="color:yellow;">Article A : Votre compte</mark>
@@ -43,6 +37,7 @@ TOUTES LES RÈGLES S'APPLIQUENT INCONDITIONNELLEMENT.
 * L'utilisation de caractères spéciaux dans l'écriture (chat, nick, panneaux, ...) n’est pas autorisée.
 * Seules les langues présentes sur le serveur sont autorisées (FR, DE, US, ES, IT, PL).
 * Toutes réactions (provocatrices ou non) concernant l'orthographe sera sanctionnées.
+* Il est interdit de réagir à une sanction ou une vérification anti-afk.
 
 ### <mark style="color:yellow;">Article B : Un langage respectueux</mark>
 
@@ -94,6 +89,7 @@ TOUTES LES RÈGLES S'APPLIQUENT INCONDITIONNELLEMENT.
 * L'utilisation de systèmes Anti-AFK (circuit d’eau, AFK Farm, etc.) est interdite.
 * Les machines à pêche automatiques sont interdites.
 * Le farming à l’aide de véhicules (bateaux, wagons, etc.) est interdit.
+* Les fermes utilisant des withers ou des tnt sont interdites.
 * Le posé/casser abusif de blocs farmables (bois, pierres, minerais…) pour les missions coopératives, jobs ou les rituels est interdit.
 * Toute tentative de contourner la progression prévue par le serveur (machines automatiques, exploitation de bug, etc.) est interdite.
 * Le chunkloading (chargement de chunks via des techniques détournées) est interdit.
@@ -177,6 +173,7 @@ De plus, l'utilisation d'une touche autre que le clic, d'un moyen, d’une méth
 * Nous ne remboursons pas les pertes liées aux items non reçus par manque de place dans l’inventaire, les vols au sein de la box, cela est aussi valable pour les clés de vote ainsi que les pertes liées aux déplacements d'item lors d'une téléportation.
 * Seules les pertes liées à un problème serveur sont remboursées.
 * Les pertes dues à une erreur d’inattention ne seront pas remboursées, par exemple : pertes dues au clearlag, drop d'items, etc.).
+* Aucun remboursement ne sera effectué en cas de vol de spawner, quelle que soit la personne à qui vous avez accordé un accès. Vous êtes entièrement responsable des autorisations que vous donnez.
 * Un bannissement temporaire ou définitif vous privera de tous vos avantages jusqu'à la fin (s'il y en a une) de la sanction. Aucun transfert ne sera possible durant la durée d'une sanction et **tous vos "biens" en jeu sont gelés qu'ils vous appartiennent ou pas**.
 * Si vous n'avez pas les preuves suffisantes, votre demande de remboursement peut être refusée.
 
