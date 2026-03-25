@@ -63,7 +63,7 @@ Ainsi si le pack est acheté depuis l’interface **Agriculteur**, il ne pourra 
 **Important** : Vous ne pouvez donc acheter qu'**un seul pack de rituels par jour**.
 
 {% hint style="info" %}
-**Vous pourrez l'acheter 2 fois par jour** si vous avez le grade **Légende** et un **abonnement actif**
+**Vous pourrez l'acheter 2 fois par jour** **sans grade, et 3 fois avec l'abonnement premium.**
 {% endhint %}
 
 ### Activation du rituel
