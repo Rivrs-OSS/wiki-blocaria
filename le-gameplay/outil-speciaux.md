@@ -276,7 +276,7 @@ Fonction : Minage en **3x3**
 
 Usage : Générateurs à minerais
 
-Durabilité : **50 000**
+Durabilité : **5 000**
 
 <figure><img src="../.gitbook/assets/hammer_1.gif" alt=""><figcaption></figcaption></figure>
 
