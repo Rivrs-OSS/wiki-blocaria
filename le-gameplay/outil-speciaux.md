@@ -90,7 +90,7 @@ Les **outils enchantés** nécessitent des **pierres d’évolution forgée**.
 
 **Type** _: Amélioration de la Fourche rustique_
 
-**Cultures** _: Torche-fleur, Planturne, Carottes, Patates, Blé, Betteraves, Verrues du Nether_
+**Cultures** _: Carottes, Patates, Blé, Betteraves, Verrues du Nether_
 
 **Durabilité** _: 20 000_
 
