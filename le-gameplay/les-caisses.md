@@ -791,7 +791,7 @@ La **Caisse Mythique** propose des récompenses d'une grande valeur, notamment :
 
 <summary>Pierre d'Evolution Forgée</summary>
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (4).png" alt=""><figcaption></figcaption></figure>
 
 </details>
 

@@ -20,9 +20,9 @@ Les **outils enchantés** nécessitent des **pierres d’évolution forgée**.
 
 <details>
 
-<summary>Pierre d'évolution </summary>
+<summary>Pierre d'évolution</summary>
 
-<table><thead><tr><th>Nom</th><th align="center" valign="middle">Items</th><th align="center">Craft</th></tr></thead><tbody><tr><td>Pierre d'évolution </td><td align="center" valign="middle"><img src="../.gitbook/assets/evolution_stone (1).png" alt="" data-size="original"></td><td align="center"><img src="../.gitbook/assets/image (46).png" alt="" data-size="original"></td></tr><tr><td><p>Pierre d'évolution forgée</p><p></p></td><td align="center" valign="middle"><img src="../.gitbook/assets/enchanted_evolution_stone.png" alt="" data-size="original"></td><td align="center"><img src="../.gitbook/assets/image (45).png" alt="" data-size="original"></td></tr></tbody></table>
+<table><thead><tr><th>Nom</th><th align="center" valign="middle">Items</th><th align="center">Craft</th></tr></thead><tbody><tr><td>Pierre d'évolution</td><td align="center" valign="middle"><img src="../.gitbook/assets/evolution_stone (1).png" alt="" data-size="original"></td><td align="center"><img src="../.gitbook/assets/image (46).png" alt="" data-size="original"></td></tr><tr><td>Pierre d'évolution forgée</td><td align="center" valign="middle"><img src="../.gitbook/assets/enchanted_evolution_stone.png" alt="" data-size="original"></td><td align="center"><img src="../.gitbook/assets/image (45).png" alt="" data-size="original"></td></tr></tbody></table>
 
 </details>
 
@@ -94,7 +94,7 @@ Les **outils enchantés** nécessitent des **pierres d’évolution forgée**.
 
 **Durabilité** _: 20 000_
 
-**Amélioration possible :** _Niveaux d'îles, Replanteuse, Fortune, Vente automatique, Durabilités_&#x20;
+**Amélioration possible :** _Niveaux d'îles, Replanteuse, Fortune, Vente automatique, Durabilités_
 
 <figure><img src="../.gitbook/assets/enchanted_hoe_1.gif" alt="" width="319"><figcaption></figcaption></figure>
 

@@ -28,7 +28,7 @@ Fer ![](../.gitbook/assets/Iron.png)
 
 Argent ![](../.gitbook/assets/silver_ingot.png)
 
-Or ![](../.gitbook/assets/image.png)
+Or ![](<../.gitbook/assets/image (1).png>)
 
 </details>
 
