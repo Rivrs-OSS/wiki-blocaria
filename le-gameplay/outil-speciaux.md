@@ -120,7 +120,7 @@ Les **outils enchantés** nécessitent des **pierres d’évolution forgée**.
 
 <summary><strong>Hachette forgée</strong></summary>
 
-**Déblocage** : _Niveau 75_
+**Déblocage** : _Niveau 150_
 
 **Type** : _Hache évolutive_
 
