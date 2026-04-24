@@ -83,4 +83,78 @@ Vous trouverez dans le tableau ci-dessous la liste des animaux présents sur le 
 
 Pour chaque animal, vous avez une chance de drop un œuf de familier. Vous pourrez tenter de faire éclore cet œuf afin d'obtenir le familier de l'animal en question (qu'il s'agisse d'un familier normal ou d'un shiny)
 
+{% hint style="info" %}
 Pour mieux comprendre les familiers, vous pouvez trouver plus d'explications dans la catégorie [<mark style="color:yellow;">Les familiers</mark>](les-familiers.md)
+{% endhint %}
+
+
+
+## Apparition des Mobs sur votre Île
+
+Sur votre île, il est possible de faire apparaître différents mobs en respectant des conditions précises liées aux **biomes** et aux **types de blocs**.
+
+⚠️ **Important :**\
+Il est **obligatoire d’être dans le biome spécifié** pour chaque créature afin qu’elle puisse apparaître. Même si les blocs requis sont présents, aucun mob ne spawn en dehors de son biome.
+
+***
+
+### 🌿 Biome Plains
+
+Les créatures suivantes peuvent apparaître dans ce biome :
+
+* **Écureuil** : spawn uniquement sur des blocs d’herbe, jamais dans l’eau.
+* **Capybara** : spawn uniquement sur des blocs d’herbe, jamais dans l’eau.
+
+***
+
+### 🏜️ Biome Desert
+
+Les créatures adaptées aux environnements arides apparaissent ici :
+
+* **Bouquetin** : spawn sur sable, sable rouge ou grès, jamais dans l’eau.
+* **Serpent** : spawn sur sable, sable rouge ou grès, jamais dans l’eau.
+
+***
+
+### ❄️ Biome Taiga
+
+Ce biome froid permet l’apparition des mobs suivants :
+
+* **Bison** : spawn sur neige et blocs d’herbe enneigés, jamais dans l’eau.
+* **Pingouin** : spawn sur neige et blocs d’herbe enneigés, jamais dans l’eau.
+
+***
+
+### 🌾 Biome Savanna
+
+* **Zèbre** : spawn sur blocs d’herbe et de terre, jamais dans l’eau.
+
+***
+
+### 🌴 Biome Jungle
+
+Les créatures exotiques apparaissent dans ce biome :
+
+* **Singe** : spawn sur herbe, podzol et terre racineuse, jamais dans l’eau.
+* **Tigre** : spawn sur herbe et sable, jamais dans l’eau.
+
+***
+
+### 🌊 Biomes Swamp & Mangrove Swamp
+
+Ces biomes permettent l’apparition de mobs semi-aquatiques :
+
+* **Alligator** : spawn sur blocs d’herbe **et dans l’eau**.
+* **Flamant rose** : spawn sur blocs d’herbe **et dans l’eau**.
+
+***
+
+### ✅ Résumé des Règles
+
+* Chaque mob a un **biome spécifique obligatoire**
+* Chaque mob a des **blocs de spawn précis**
+* La majorité des mobs **ne peuvent pas apparaître dans l’eau**
+* Exceptions : **Alligator** et **Flamant rose**
+
+
+

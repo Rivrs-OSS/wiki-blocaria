@@ -19,10 +19,43 @@ Chaque fouille permet d’obtenir différents types de récompenses aléatoires.
 
 ### 📍 Zones de fouille
 
-Les sables suspects se trouvent à plusieurs endroits du spawn :
+{% columns fullWidth="false" %}
+{% column %}
+Zone\
+\
+Mine étage 1\
+\
+Mine étage 2\
+\
+Mine étage 3\
+\
+Mine étage 4\
+\
+Safari désert\
+\
+Plage de plaisance\
+\
+Plage du pêcheur
+{% endcolumn %}
 
-* Sur les plages
-* Dans la mine, du niveau 1 au niveau 4
+{% column %}
+Récompense\
+\
+Morceau de jarre 1\
+\
+Morceau de jarre 2 \
+\
+Morceau de jarre 3\
+\
+Morceau de jarre 4\
+\
+Morceau de jarre 5\
+\
+Morceau de jarre 6\
+\
+Morceau de jarre 7
+{% endcolumn %}
+{% endcolumns %}
 
 
 
@@ -32,22 +65,30 @@ Les sables suspects se trouvent à plusieurs endroits du spawn :
 
 En fouillant les sables, il est possible d’obtenir :
 
-* Des minerais
-* Des coins
-* Des gemmes
-* Des morceaux de jarre antique
-* Des revêtements antiques
-* Des familiers exclusifs
 
-### 🏺 Jarres antiques
 
-Les morceaux de jarre antique sont numérotés de 1 à 7.\
-Ils permettent de fabriquer des jarres via la commande **/atelier**.
+* 💰 Coins
+* 💎 Gemmes
+* ⛏️ Minerais
+* 🏺 Morceaux de jarres antiques (1 à 7)
+* 🧩 Revêtements antiques
+* 🐾 Familiers : **Zephyr** & **Zephyr Shiny**
 
-Une fois fabriquées, les jarres peuvent être consommées.
+### 🏺 Système de Jarres Antiques
 
-* Maximum : 5 jarres actives en même temps
-* Chaque jarre donne +10 de chance
+Les fragments collectés permettent de fabriquer des **jarres antiques** via le **/atelier**.
+
+#### 🔧 Fabrication
+
+* 7 fragments différents nécessaires
+* 1 jarre = combinaison de morceaux
+
+#### ⚡ Effets
+
+* Maximum : **5 jarres actives**
+* Chaque jarre donne : **+10 de chance**
+
+➡️ Bonus cumulable jusqu’à **+50 de chance**
 
 <figure><img src="../.gitbook/assets/{5E67430D-E9FE-4141-9869-AF8EB5A0C779}.png" alt=""><figcaption></figcaption></figure>
 
@@ -55,19 +96,24 @@ Une fois fabriquées, les jarres peuvent être consommées.
 
 Les revêtements antiques permettent de fabriquer une boussole via la commande <mark style="color:yellow;">**`/atelier`**</mark>
 
-* 8 revêtements antiques sont nécessaires
+#### 🔧 Fabrication
 
-Une fois obtenue, la boussole :
+* Nécessite **8 revêtements antiques**
+* Craft via **/atelier**
 
-* Donne +50 de chance
-* Doit être tenue en main gauche pour activer son effet
+#### ⚡ Effet
 
-### 🐾 Familiers
+* Donne **+50 de chance**
+* Actif uniquement en **main gauche**
 
-L’archéologie permet également d’obtenir de nouveaux familiers :
+### 🐾 Familiers Exclusifs
 
-* Zephyr
-* Zephyr Shiny
+L’archéologie permet d’obtenir :
+
+* **Zephyr**
+* **Zephyr Shiny (rare)**
+
+Ces familiers constituent des récompenses **rares et prestigieuses**
 
 ###
 
