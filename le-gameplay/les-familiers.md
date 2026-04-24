@@ -294,7 +294,7 @@ Pets événements et autres
 
 <table><thead><tr><th width="129.7333984375">Niveau</th><th width="270.183349609375">Classique</th><th width="260.16656494140625">Shiny</th></tr></thead><tbody><tr><td>Niveau 1</td><td>+50 de chance</td><td>+75 de chance</td></tr><tr><td>Niveau 5</td><td>15 000 $ /h</td><td>22 500 $ /h</td></tr><tr><td>Niveau 10</td><td>3.5% supplémentaire sur l'xp du métier chasseur</td><td>5% supplémentaire sur l'xp du métier chasseur</td></tr><tr><td>Niveau 15</td><td>Vous pouvez monter sur Imperius</td><td>Vous pouvez monter sur Imperius</td></tr><tr><td>Niveau 20</td><td>2,5% supplémentaire sur l'xp de tous les métiers</td><td>3,5% supplémentaire sur l'xp de tous les métiers</td></tr></tbody></table>
 
-<div><figure><img src="../.gitbook/assets/imperius_gif.gif" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/imperius_shiny (1).gif" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/imperius_gif.gif" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/imperius_shiny.gif" alt=""><figcaption></figcaption></figure></div>
 
 </details>
 

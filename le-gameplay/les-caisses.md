@@ -361,7 +361,7 @@ La clé de la Caisse Cosmétique s'obtient en l'achetant dans le <mark style="co
 
 <summary>Chapeau de Corbeau</summary>
 
-<figure><img src="../.gitbook/assets/shark_hat (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/shark_hat.gif" alt=""><figcaption></figcaption></figure>
 
 </details>
 
@@ -537,7 +537,7 @@ La **Caisse Légendaire** propose des récompenses de grande valeur, notamment :
 
 <details>
 
-<summary>350 <img src="../.gitbook/assets/gemmes128 (1).png" alt="" data-size="line"></summary>
+<summary>350 <img src="../.gitbook/assets/gemmes128.png" alt="" data-size="line"></summary>
 
 <figure><img src="../.gitbook/assets/gemmes128.png" alt=""><figcaption></figcaption></figure>
 
@@ -643,7 +643,7 @@ La **Caisse Légendaire** propose des récompenses de grande valeur, notamment :
 
 <details>
 
-<summary>350 000 <img src="../.gitbook/assets/Argent1.png" alt=""></summary>
+<summary>350 000 <img src="../.gitbook/assets/Argent.png" alt=""></summary>
 
 <figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
@@ -675,9 +675,9 @@ La **Caisse Légendaire** propose des récompenses de grande valeur, notamment :
 
 <details>
 
-<summary>250 000 <img src="../.gitbook/assets/Argent1 (1).png" alt=""></summary>
+<summary>250 000 <img src="../.gitbook/assets/Argent.png" alt=""></summary>
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 </details>
 {% endcolumn %}
@@ -849,7 +849,7 @@ La **Caisse Mythique** propose des récompenses d'une grande valeur, notamment :
 
 <summary>1000 <img src="../.gitbook/assets/image (2).png" alt="" data-size="line"></summary>
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 </details>
 
