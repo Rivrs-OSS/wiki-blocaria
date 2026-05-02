@@ -109,6 +109,7 @@ Le règlement est susceptible de changer à tout moment sans préavis, nous vous
 * La vente d’items, de services ou de contenus en jeu contre de l’argent réel ou des gemmes est interdite.
 * Toutes les formes de don que ce soit du stuff, de l'argent ou autre sont interdites dans toutes les situations.
 * Le prêt d’items entre joueurs est strictement interdit, tous les échanges doivent être définitifs.
+* Toute location est strictement interdite, à l’exception des spawners.&#x20;
 
 {% hint style="info" %}
 Informations supplémentaires Article K
