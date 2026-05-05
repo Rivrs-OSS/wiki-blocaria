@@ -29,7 +29,7 @@ Bienvenue sur le **wiki officiel du serveur Blocaria** ! Celui-ci vous sera util
 
 Vous y retrouverez **toutes les fonctionnalités du serveur !!!**
 
-<figure><img src=".gitbook/assets/image (1).avif" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image.avif" alt=""><figcaption></figcaption></figure>
 
 ## **Tutoriels**
 

@@ -29,6 +29,7 @@
   * [🪄 Outils évolutifs](le-gameplay/outil-speciaux.md)
   * [🛠️ L'atelier](le-gameplay/latelier.md)
   * [🧪 Les breuvages](le-gameplay/les-breuvages.md)
+  * [🏺 Archéologie](le-gameplay/archeologie.md)
   * [🍌 Les cultures custom](le-gameplay/les-cultures-custom.md)
   * [📚 Les Collections](le-gameplay/les-collections.md)
   * [🎊 Évènement](le-gameplay/evenement.md)
@@ -40,3 +41,4 @@
   * [🎁 Les Caisses](le-gameplay/les-caisses.md)
   * [🏦 Hôtel des Ventes](le-gameplay/hotel-des-ventes.md)
   * [🍱 Shop](le-gameplay/shop.md)
+  * [🌳 Arbres Fruitiers](le-gameplay/arbres-fruitiers.md)
