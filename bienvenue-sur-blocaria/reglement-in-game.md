@@ -67,7 +67,7 @@ Le règlement est susceptible de changer à tout moment sans préavis, nous vous
 
 * Il est interdit de faire une publicité allant à l'encontre de Blocaria. Ainsi, il est interdit de promouvoir un serveur concurrent ou de citer un serveur autre que ceux de Rivrs.
 * La publicité de son propre contenu (vidéos Youtube, chaîne Twitch, compte TikTok…) est interdite sur le serveur, hormis si vous disposez du grade Créateur ou Partenaire.
-* Toutes les **publicités devront passer par le /pub**, sans quoi des sanctions pourront être appliquées. Chaque pub quelle qu'elle soit se doit d'être espacée de 30 minutes (**pwarp, vente/achat d'item, annonce d'événement, promotion d'un item, location d'afk, recherche d'équipe, …**).
+* Toutes les **publicités devront passer par le /pub**, sans quoi des sanctions pourront être appliquées. Chaque pub quelle qu'elle soit se doit d'être espacée de 15 minutes (**pwarp, vente/achat d'item, annonce d'événement, promotion d'un item, location d'afk, recherche d'équipe, …**).
 
 ## <mark style="color:yellow;">Partie III : Le Gameplay</mark>
 
