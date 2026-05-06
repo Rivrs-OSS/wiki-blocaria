@@ -14,4 +14,5 @@ description: Retrouvez ici toutes les informations afin de voter pour Blocaria
 
 4- Une fenêtre verte confirme que votre vote a été enregistré avec succès, et vos récompenses en jeu sont maintenant disponibles. Votez pour notre serveur et obtenez des avantages toutes les 1h30 !
 
-Lien pour voter : <mark style="color:$danger;">Link</mark>
+Lien pour voter : [**Blocaria**](https://blocaria.net/en/vote/)
+
