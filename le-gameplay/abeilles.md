@@ -28,22 +28,22 @@ Il repose sur plusieurs éléments autour de la production de ressources et de l
 * Optimisation des gains via le familier Maya
 * Progression via des succès liés aux abeilles
 
+### **Succès**
+
+De nouveaux succès liés au système Abeille seront ajoutés dans la catégorie **Agriculteur**.
 
 
-<figure><img src="../.gitbook/assets/{23BB975E-7B38-4C65-9901-8169EB10A8F4}.png" alt=""><figcaption></figcaption></figure>
 
-
-
-### **📦 Limite des ruches royales**
+### **Limite des ruches royales**
 
 Le nombre de **ruches royales** pouvant être placées est limité et peut être augmenté via le système de <mark style="color:yellow;">**`/box upgrades`**</mark>.
 
 Chaque amélioration augmente la capacité maximale en échange d’un coût en **argent** et en **ressources liées aux abeilles**.
 
-> ⚠️ **Important**
->
-> • Cette limite est appliquée **par box**\
-> • Une ruche supplémentaire ne peut pas être placée si la limite est atteinte
+{% hint style="warning" %}
+• Cette limite est appliquée **par box**\
+• Une ruche supplémentaire ne peut pas être placée si la limite est atteinte
+{% endhint %}
 
 ### Nouveaux objets
 
@@ -77,7 +77,15 @@ La ruche fonctionne par cycles de production :
 * La production dépend du nombre et de la rareté des abeilles
 * La ruche doit être dans un **chunk chargé** pour fonctionner
 
+Un hologramme est affiché au-dessus de chaque ruche afin de fournir des informations en temps réel.
 
+Il permet de visualiser :
+
+* Le niveau de la ruche
+* Le nombre d’abeilles présentes
+* Le temps restant avant le prochain cycle
+* Le nombre de cycles actuels par rapport au maximum
+* L’état de la ruche (en production ou pleine)
 
 {% hint style="info" %}
 Une ruche cesse de produire lorsqu’elle atteint son nombre maximum de cycles sans récupération.
@@ -165,5 +173,51 @@ Lorsqu’elle est utilisée, la Combinaison 2000 permet de :\
 Pas de fusion possible pour ce famillier
 {% endhint %}
 
+<figure><img src="../.gitbook/assets/maya_bee.gif" alt="" width="234"><figcaption></figcaption></figure>
 
+
+
+### 🧬 Combinaison des abeilles
+
+
+
+La combinaison permet de fusionner deux abeilles identiques afin d’obtenir une abeille de niveau supérieur.
+
+Pour effectuer une combinaison, les conditions suivantes doivent être respectées :
+
+* Les deux abeilles doivent avoir le **même nombre d’étoiles**
+* Les deux abeilles doivent être du **même type**
+* Les abeilles normales et les reines ne peuvent pas être mélangées
+
+
+
+| Abeilles utilisées | Résultat   |
+| ------------------ | ---------- |
+| 2  Abeille 1★      | Abeille 2★ |
+| 2  Abeille 2★      | Abeille 3★ |
+| 2  Abeille 3★      | Abeille 4★ |
+| 2  Abeille 4★      | Abeille 5★ |
+| 2  Reine 1★        | Reine 2★   |
+| 2  Reine 2★        | Reine 3★   |
+| 2  Reine 3★        | Reine 4★   |
+| 2  Reine 4★        | Reine 5★   |
+
+### 🔄 Déroulement
+
+#### En cas de réussite
+
+* Les deux abeilles sont consommées
+* Une abeille de niveau supérieur est obtenue
+
+#### En cas d’échec
+
+* La première abeille est conservée
+* La seconde abeille est perdue
+* Aucun résultat n’est obtenu
+
+
+
+### Crafts à l’atelier
+
+Les nouveaux crafts <mark style="color:yellow;">**`/atelier`**</mark> seront ajoutés prochainement.
 
