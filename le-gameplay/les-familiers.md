@@ -35,13 +35,13 @@ Vous pouvez équiper **5 familiers en même temps**, ce qui vous permet de combi
 
 → Gratuit : 2 emplacements
 
-→ Grade VIP  : +1 emplacement
+→ Grade VIP : +1 emplacement
 
 → Grade MVP : +1 emplacement\
 \
 → Grade Légende : +1 emplacement
 
-Une fois votre familier sorti, en faisant <mark style="color:yellow;">`shift + clic droit`</mark> sur votre familier un menu s'ouvre ! Dans celui-ci vous avez plusieurs possibilités qui s'offrent à vous :&#x20;
+Une fois votre familier sorti, en faisant <mark style="color:yellow;">`shift + clic droit`</mark> sur votre familier un menu s'ouvre ! Dans celui-ci vous avez plusieurs possibilités qui s'offrent à vous :
 
 * Vous pouvez voir les statistiques de votre familier
 * Vous pouvez renommer votre familier (_uniquement disponible avec l'abonnement premium_)
@@ -77,8 +77,9 @@ Pour procéder à une fusion, il vous suffit de réunir 3 familiers identiques d
 
 Si un familier shiny est inclus dans la fusion, le familier obtenu bénéficiera d'une probabilité accrue de devenir shiny.
 
-* <mark style="color:yellow;">1 familier shiny</mark> - 50% de chance
-* <mark style="color:yellow;">2 - 3 familiers shiny</mark> - 100% de chance
+* <mark style="color:yellow;">1 familier shiny</mark> - 33% de chance
+* <mark style="color:yellow;">2 familiers shiny</mark> - 66% de chance
+* <mark style="color:yellow;">3 familiers shiny</mark> - 100% de chance
 
 Étape pour fusionner:
 
