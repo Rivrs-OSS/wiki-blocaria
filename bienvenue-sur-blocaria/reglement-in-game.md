@@ -28,6 +28,11 @@ Le règlement est susceptible de changer à tout moment sans préavis, nous vous
 ### <mark style="color:yellow;">Article C : Les alliances</mark>
 
 * Toute forme d'alliance entre box est interdite si elle a pour but de vous faire progresser dans le classement de boxe, les jobs, les maitrises, le niveau de personnage (cela comprend mais ne se limite pas aux items de niveau de boxe du mois, l'argent, ainsi que tout autre item permettant de propulser une box dans le classement). Tout abus concernant ces alliances sera sanctionné que l'exemple soit noté ici ou non.
+* Toute action d'alliances entrainant un impact dans les classements sont interdits, cela sera considéré comme de l'alliance de box.
+* Plantage de pousses
+* AFK mobs
+* Remplissage de distributeurs
+* Cette liste n'est pas exhaustive&#x20;
 
 ## <mark style="color:yellow;">Partie II : Le Chat</mark>
 
@@ -96,6 +101,7 @@ Le règlement est susceptible de changer à tout moment sans préavis, nous vous
 * Toute technique empêchant de faire disparaître (despawn) des mobs (Rename, bateau, etc.) est interdite.
 * Il est interdit d’utiliser un clic supérieur à 10 CPS, quelle que soit la situation.
 * En cas de doute sur une farm, un ticket doit être ouvert. Le staff peut supprimer toute farm jugée non conforme sans remboursement.
+* Il est strictement interdit d’exploiter les mobiliers customs à des fins de farm.
 
 #### <mark style="color:yellow;">B.2 -</mark> <mark style="color:yellow;">**Constructions, interactions**</mark>
 

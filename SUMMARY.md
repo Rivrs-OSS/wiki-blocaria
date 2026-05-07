@@ -42,3 +42,4 @@
   * [🏦 Hôtel des Ventes](le-gameplay/hotel-des-ventes.md)
   * [🍱 Shop](le-gameplay/shop.md)
   * [🌳 Arbres Fruitiers](le-gameplay/arbres-fruitiers.md)
+  * [🐝 Abeilles](le-gameplay/abeilles.md)
