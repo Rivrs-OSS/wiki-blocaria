@@ -102,8 +102,8 @@ Il est **obligatoire d’être dans le biome spécifié** pour chaque créature 
 
 Les créatures suivantes peuvent apparaître dans ce biome :
 
-* **Écureuil** : spawn uniquement sur des blocs d’herbe, jamais dans l’eau.
-* **Capybara** : spawn uniquement sur des blocs d’herbe, jamais dans l’eau.
+* **Écureuil** : spawn uniquement sur des blocs d’herbe
+* **Capybara** : spawn uniquement sur des blocs d’herbe
 
 ***
 
@@ -111,8 +111,8 @@ Les créatures suivantes peuvent apparaître dans ce biome :
 
 Les créatures adaptées aux environnements arides apparaissent ici :
 
-* **Bouquetin** : spawn sur sable, sable rouge ou grès, jamais dans l’eau.
-* **Serpent** : spawn sur sable, sable rouge ou grès, jamais dans l’eau.
+* **Bouquetin** : spawn sur sable, sable rouge ou grès
+* **Serpent** : spawn sur sable, sable rouge ou grès
 
 ***
 
@@ -120,14 +120,14 @@ Les créatures adaptées aux environnements arides apparaissent ici :
 
 Ce biome froid permet l’apparition des mobs suivants :
 
-* **Bison** : spawn sur neige et blocs d’herbe enneigés, jamais dans l’eau.
-* **Pingouin** : spawn sur neige et blocs d’herbe enneigés, jamais dans l’eau.
+* **Bison** : spawn sur neige et blocs d’herbe enneigés
+* **Pingouin** : spawn sur neige et blocs d’herbe enneigés
 
 ***
 
 ### 🌾 Biome Savanna
 
-* **Zèbre** : spawn sur blocs d’herbe et de terre, jamais dans l’eau.
+* **Zèbre** : spawn sur blocs d’herbe et de terre
 
 ***
 
@@ -135,8 +135,8 @@ Ce biome froid permet l’apparition des mobs suivants :
 
 Les créatures exotiques apparaissent dans ce biome :
 
-* **Singe** : spawn sur herbe, podzol et terre racineuse, jamais dans l’eau.
-* **Tigre** : spawn sur herbe et sable, jamais dans l’eau.
+* **Singe** : spawn sur herbe, podzol et terre racineuse
+* **Tigre** : spawn sur herbe et sable
 
 ***
 
@@ -153,8 +153,6 @@ Ces biomes permettent l’apparition de mobs semi-aquatiques :
 
 * Chaque mob a un **biome spécifique obligatoire**
 * Chaque mob a des **blocs de spawn précis**
-* La majorité des mobs **ne peuvent pas apparaître dans l’eau**
-* Exceptions : **Alligator** et **Flamant rose**
 
 
 

@@ -126,6 +126,7 @@ Informations supplémentaires Article K
 * La redstone est à utiliser dans la limite du raisonnable et de l'utile.
 * Les usines en dessous de "4-ticks", machines volantes ainsi que l’ensemble des machines de duplication sont interdites.
 * Les machines créant des lags, volontairement ou non, sont interdites et seront cut.
+* Toute machine permettant la plantation automatique de pousses d’arbres, champignons, azalées etc est strictement interdite.
 
 {% hint style="warning" %}
 Si votre système ne respecte pas les règles du serveur, celui-ci sera supprimé sans aucun remboursement possible.
