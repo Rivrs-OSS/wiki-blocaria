@@ -68,7 +68,7 @@ description: Retrouvez ici toutes les informations concernant les commandes
 
 <mark style="color:yellow;">`/box accept [pseudo/nom de l’île]`</mark> : accepte une invitation
 
-<mark style="color:yellow;">`/box chest [1-9]`</mark> : ouvre les coffres de la box&#x20;
+<mark style="color:yellow;">`/box chest [1-9]`</mark> : ouvre les coffres de la box
 
 <mark style="color:yellow;">`/box bank`</mark> : ouvre l'interface de la banque
 
@@ -187,8 +187,6 @@ description: Retrouvez ici toutes les informations concernant les commandes
 <mark style="color:yellow;">`/ptime [day/night/%tick%]`</mark> : change l'heure locale du joueur (requiert le premium)
 
 <mark style="color:yellow;">`/pweather [clear/downfall/off]`</mark> : change la météo locale du joueur (requiert le premium)
-
-<mark style="color:yellow;">`/glow`</mark> : vous permet de mettre votre skin avec un glow (requiert le legende et le premium)
 
 </details>
 
@@ -326,29 +324,17 @@ description: Retrouvez ici toutes les informations concernant les commandes
 
 <mark style="color:yellow;">`/vote`</mark> : ouvre l'interface des récompenses de vote
 
-<mark style="color:yellow;">`/antiquaireshop`</mark> : ouvre l'antiquaire
+<mark style="color:yellow;">`/blackmarket`</mark> : ouvre le marché noir
 
 <mark style="color:yellow;">`/bar`</mark> : ouvre le bar
 
-<mark style="color:yellow;">`/fish shop`</mark> : ouvre le poissonnier
-
 <mark style="color:yellow;">`/catalogue`</mark> : ouvre le catalogue premium du Minekea
 
-<mark style="color:yellow;">`/hdb`</mark> : ouvre le catalogue de têtes
-
-<mark style="color:yellow;">`/enchere`</mark> : téléporte aux enchères
-
-<mark style="color:yellow;">`/mine`</mark> : téléporte à la mine
-
-<mark style="color:yellow;">`/pw trophées`</mark> : téléporte à la salle des trophées
-
-<mark style="color:yellow;">`/exploration`</mark> : téléporte au monde exploration
+<mark style="color:yellow;">`/warp mine (1,2,3,4)`</mark> : téléporte à la mine (et l'étage)
 
 <mark style="color:yellow;">`/top`</mark> : téléporte à la couche la plus haute sur votre box
 
 <mark style="color:yellow;">`/below`</mark> : téléporte à la couche la plus basse sur votre box
-
-<mark style="color:yellow;">`/compass`</mark> : active/désactive le codex dans votre inventaire
 
 <mark style="color:yellow;">`/classements`</mark> : affiche les différents classements
 
@@ -356,19 +342,15 @@ description: Retrouvez ici toutes les informations concernant les commandes
 
 <mark style="color:yellow;">`/collections`</mark> : ouvre l'interface des différentes collections
 
-<mark style="color:yellow;">`/droptoggle`</mark> : active/désactive le système anti-drop d'items
+<mark style="color:yellow;">`/drops`</mark> : Ouvre le menu pour voir votre taux de drop des items customs
 
 <mark style="color:yellow;">`/limits`</mark> : indique la limite d'items que vous pouvez poser dans votre box pour certains items
 
 <mark style="color:yellow;">`/generateur`</mark> : affiche les différentes paliers du générateur
 
-<mark style="color:yellow;">`/fly time`</mark> : affiche le temps de vol disponible
-
 <mark style="color:yellow;">`/e`</mark> : ouvre la liste des emojis disponibles
 
 <mark style="color:yellow;">`/sb`</mark> : active/désactive le scoreboard lors des évènements, à écrire 2 fois pour désactiver
-
-<mark style="color:yellow;">`/item listgui`</mark> : ouvre une interface qui affiche tous les items customs du serveur
 
 <mark style="color:yellow;">`/cadena`</mark> : ouvre la liste des actions possible
 
