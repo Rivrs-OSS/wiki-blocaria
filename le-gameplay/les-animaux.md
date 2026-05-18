@@ -79,7 +79,7 @@ Le lion n'est disponible qu'au spawn.
 
 | Nom        | Biome  | Loots                     |                                                                         |
 | ---------- | ------ | ------------------------- | ----------------------------------------------------------------------- |
-| Méduse     | Ocean  | Cœur de méduse / Familier | <img src="../.gitbook/assets/Meduseee.gif" alt="" data-size="original"> |
+| Méduse     | Océan  | Cœur de méduse / Familier | <img src="../.gitbook/assets/Meduseee.gif" alt="" data-size="original"> |
 | Rhinocéros | Désert | Corne / Familier          | <img src="../.gitbook/assets/Rhino.gif" alt="" data-size="original">    |
 | Éléphant   | Désert | Défense / Familier        | <img src="../.gitbook/assets/Elephant.gif" alt="" data-size="original"> |
 
