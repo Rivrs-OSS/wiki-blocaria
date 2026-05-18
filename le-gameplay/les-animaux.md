@@ -67,6 +67,10 @@ Vous trouverez dans le tableau ci-dessous la liste des animaux présents sur le 
 | Tigre     | Jungle | Dent / Familier     | <img src="../.gitbook/assets/Tigre.gif" alt="" data-size="original">     |
 | Alligator | Marais | Dent / Familier     | <img src="../.gitbook/assets/Alligator.gif" alt="" data-size="original"> |
 
+{% hint style="info" %}
+Le lion n'est disponible qu'au spawn.
+{% endhint %}
+
 </details>
 
 <details>
@@ -75,9 +79,13 @@ Vous trouverez dans le tableau ci-dessous la liste des animaux présents sur le 
 
 | Nom        | Biome  | Loots                     |                                                                         |
 | ---------- | ------ | ------------------------- | ----------------------------------------------------------------------- |
-| Méduse     | Marais | Cœur de méduse / Familier | <img src="../.gitbook/assets/Meduseee.gif" alt="" data-size="original"> |
-| Rhinocéros | Savane | Corne / Familier          | <img src="../.gitbook/assets/Rhino.gif" alt="" data-size="original">    |
-| Éléphant   | Savane | Défense / Familier        | <img src="../.gitbook/assets/Elephant.gif" alt="" data-size="original"> |
+| Méduse     | Ocean  | Cœur de méduse / Familier | <img src="../.gitbook/assets/Meduseee.gif" alt="" data-size="original"> |
+| Rhinocéros | Désert | Corne / Familier          | <img src="../.gitbook/assets/Rhino.gif" alt="" data-size="original">    |
+| Éléphant   | Désert | Défense / Familier        | <img src="../.gitbook/assets/Elephant.gif" alt="" data-size="original"> |
+
+{% hint style="info" %}
+Les animaux mythique ne sont disponible qu'au spawn.
+{% endhint %}
 
 </details>
 
