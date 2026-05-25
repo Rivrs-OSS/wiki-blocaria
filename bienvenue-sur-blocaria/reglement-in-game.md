@@ -32,7 +32,7 @@ Le règlement est susceptible de changer à tout moment sans préavis, nous vous
 * Plantage de pousses
 * AFK mobs
 * Remplissage de distributeurs
-* Cette liste n'est pas exhaustive&#x20;
+* Cette liste n'est pas exhaustive
 
 ## <mark style="color:yellow;">Partie II : Le Chat</mark>
 
@@ -56,7 +56,7 @@ Le règlement est susceptible de changer à tout moment sans préavis, nous vous
   * Spam (envoi répété de la même phrase, du même mot), Flood supérieur à 5 caractères (succession de la même lettre, du même caractère ou même émojis. Exemple : Merciiiiiiiiiiiiiiiiiiiiiiiiii), Majuscules
   * La mendicité (demander des items, prêts d'items, d'argent, etc.).
   * Les menaces, le harcèlement, l’humour noir ainsi que la divulgation d'informations privées, demande de réseau social, ….
-  * L’envoi de liens dans le chat est strictement et inconditionnellement interdit sauf lien de ce wiki.
+  * L’envoi de liens dans le chat est strictement et inconditionnellement interdit.
 * **Où qu'ils soient, les propos sont sanctionnables :**
   * Chat public.
   * Chat de box.
@@ -115,7 +115,7 @@ Le règlement est susceptible de changer à tout moment sans préavis, nous vous
 * La vente d’items, de services ou de contenus en jeu contre de l’argent réel ou des gemmes est interdite.
 * Toutes les formes de don que ce soit du stuff, de l'argent ou autre sont interdites dans toutes les situations.
 * Le prêt d’items entre joueurs est strictement interdit, tous les échanges doivent être définitifs.
-* Toute location est strictement interdite, à l’exception des spawners.&#x20;
+* Toute location est strictement interdite, à l’exception des spawners.
 
 {% hint style="info" %}
 Informations supplémentaires Article K
