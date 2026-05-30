@@ -6,7 +6,7 @@ description: Retrouvez ici toutes les informations concernant les spawners
 
 ### Introduction
 
-Les spawners sur les serveurs sont customisés. Pour qu'il fonctionne il faudra les alimenter avec de la poudre organique.\
+Les spawners sur le serveur sont customisés. Pour qu'il fonctionne il faudra les alimenter avec de la poudre organique.\
 \
 Ces spawners pourront être additionnés pour augmenter le taux de production.
 
@@ -41,6 +41,18 @@ Sur votre île, vous aurez une limite de 3 spawners par box en début d'aventure
 \
 Vous pourrez additionner jusqu'à 100 spawners et qui consommeront le même nombre de poudre organique qu'un seul spawner.
 
+
+
+Avec un sneack clic sur le spawner vous pourrez ouvrir l’interface du spawner.\
+Dans celui ci vous pourrez:
+
+* Ajouter la poudre organique
+* Mettre le spawner en mode actif ou inactif et suivre les informations du spawner
+* Afficher ou non l’hologramme du spawner
+* Donner ou non accès au spawner à vos équipier
+
+<div><img src="../.gitbook/assets/unknown (17).png" alt="" height="221" width="384"> <figure><img src="../.gitbook/assets/unnamed.png" alt=""><figcaption></figcaption></figure></div>
+
 ### La pioche à spawner
 
 La pioche à spawner est obtenable dans les caisses afin de pouvoir les retirer toutefois elle a une durabilité et n'est pas réparable.
@@ -70,7 +82,5 @@ La poudre organique sert à réparer les spawners de 100 de durabilité par poud
 Elle est uniquement obtenable via fabrication dans l’atelier <kbd><mark style="color:yellow;">/atelier<mark style="color:yellow;"></kbd>.
 
 Pour la fabriquer, il vous suffit d'une âme, une poudre de perlimpinpin et 16 graines d'aubergines. Les âmes sont un loot rare obtenable en tuant des mobs customs.
-
-
 
 <figure><img src="../.gitbook/assets/2026-03-06_21.15.12.png" alt=""><figcaption></figcaption></figure>

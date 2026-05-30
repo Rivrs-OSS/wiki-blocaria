@@ -49,17 +49,27 @@ Une fois votre familier sorti, en faisant <mark style="color:yellow;">`shift + c
 
 <figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
-#### Les fruits et les bonbons
+### Nourriture des pets
 
-Les familiers se nourrissent de fruits et de bonbons pour gagner de l'expérience (XP) et monter en niveau.
+Les familiers se nourrissent de fruits, de bonbons et de gourmandise pour gagner de l'expérience (XP) et monter en niveau.
+
+Les gourmandises sont des items craftable à l’atelier qui donnent souvent plus d’xp que les fruits seuls.
 
 Étapes pour nourrir votre familier :
 
-* Ouvrez l'interface avec la commande <kbd><mark style="color:yellow;">/pets<mark style="color:yellow;"></kbd>.
+* Ouvrez l'interface avec la commande <kbd><mark style="color:yellow;">/pets<mark style="color:yellow;"></kbd>
 * Placez le familier que vous souhaitez nourrir parmi vos familiers actifs.
 * Faites un clic droit sur lui pour qu'il soit invoqué.
 * Quittez l'interface : votre familier doit maintenant apparaître à vos côtés.
 * Vous pouvez alors le nourrir en faisant un clic droit sur lui avec vos fruits ou bonbons en main.
+
+| Nom des gourmandises | XP     | Comment les obtenir ? |
+| -------------------- | ------ | --------------------- |
+| Barre de chocolat    | 80 XP  | Via le /atelier       |
+| Bonbon au miel       | 75 XP  | Via le /atelier       |
+| Smoothie acidulé     | 75 XP  | Via le /atelier       |
+| Smoothie détoxifiant | 250 XP | Via le /atelier       |
+| Jus de légume        | 150 XP | Via le /atelier       |
 
 {% hint style="info" %}
 À noter que vous pouvez lui donner stack par stack en faisant Shift + clic sur votre familier avec les fruits ou les bonbons en main
@@ -73,7 +83,7 @@ Les familiers se nourrissent de fruits et de bonbons pour gagner de l'expérienc
 
 Les familiers peuvent atteindre le niveau 20 en version classique ou shiny, mais grâce à la fusion, vous pouvez les faire monter jusqu'au niveau 25.
 
-Pour procéder à une fusion, il vous suffit de réunir 3 familiers identiques de niveau 20. Une fois la fusion effectuée, le familier débloqué pourra atteindre le niveau 25 et obtenir sa dernière amélioration.
+Pour procéder à une fusion, il vous suffit de réunir 4 familiers identiques de niveau 20. Une fois la fusion effectuée, le familier débloqué pourra atteindre le niveau 25 et obtenir sa dernière amélioration.
 
 Si un familier shiny est inclus dans la fusion, le familier obtenu bénéficiera d'une probabilité accrue de devenir shiny.
 

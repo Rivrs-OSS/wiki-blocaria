@@ -1,5 +1,5 @@
 ---
-description: Retrouvez ici toutes les informations concernant la
+description: Retrouvez ici toutes les informations concernant la mine
 ---
 
 # 🏗️ La mine
@@ -58,6 +58,10 @@ Or ![](../.gitbook/assets/Gold.png)
 
 Cobalt ![](../.gitbook/assets/cobalt_ingot.png)
 
+Argent  ![](<../.gitbook/assets/image (3).png>)
+
+Cuivre ![](<../.gitbook/assets/image (10).png>)
+
 </details>
 
 <details>
@@ -83,6 +87,8 @@ Cuivre ![](../.gitbook/assets/raw_copper-removebg-preview.png)
 Or ![](../.gitbook/assets/Gold.png)
 
 Rubis ![](../.gitbook/assets/ruby.png)
+
+Redstone ![](<../.gitbook/assets/image (47).png>)
 
 </details>
 

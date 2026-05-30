@@ -82,7 +82,7 @@ En cliquant sur le livre des recettes vous pourrez avoir accès à la liste des 
 
 Pour lancer une recette il vous suffit de choisir l'item que vous souhaitez crafter et lancer la production avec le bouton fabriquer
 
-<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<img src="../.gitbook/assets/unknown.png" alt="" height="211" width="366">
 
 #### Liste des différents crafts
 
@@ -175,6 +175,52 @@ x32 graines customs\
 x10 blocs de diamant\
 x32 topazes\
 x16 opales
+
+</details>
+
+<details>
+
+<summary>Arrosoir </summary>
+
+Arrosoir métallique
+
+<img src="../.gitbook/assets/unknown (1).png" alt="" height="111" width="112">
+
+x256 lingots de fer
+
+x1 seau d’eau
+
+
+
+Arrosoir dorée
+
+
+
+<img src="../.gitbook/assets/unknown (2).png" alt="" height="113" width="111">
+
+x128 blocs d’or
+
+x128 lingots de cobalt
+
+x128 lingots d’argent
+
+x1 arrosoir métallique
+
+
+
+Arrosoir précieux
+
+
+
+<img src="../.gitbook/assets/unknown (3).png" alt="" height="111" width="111">
+
+x128 topazes
+
+x128 opales
+
+x256 rubis
+
+x1 arrosoir dorée
 
 </details>
 
@@ -466,3 +512,238 @@ x64 opales\
 x1 fiole vide
 
 </details>
+
+<details>
+
+<summary>Boussole Antique</summary>
+
+Boussole Antique
+
+
+
+<img src="../.gitbook/assets/unknown (4).png" alt="" height="110" width="112">
+
+x8 revêtements antique
+
+x1 boussole
+
+</details>
+
+<details>
+
+<summary>Ruche royale</summary>
+
+Ruche royale
+
+
+
+<img src="../.gitbook/assets/unknown (5).png" alt="" height="112" width="111">
+
+x256 miels
+
+x32 gelées royale
+
+x1 nid d’abeilles
+
+</details>
+
+<details>
+
+<summary>8 Blocs de miel</summary>
+
+8 Blocs de miel
+
+
+
+<img src="../.gitbook/assets/unknown (6).png" alt="" height="111" width="110">
+
+x36 miels
+
+</details>
+
+<details>
+
+<summary>Barre de chocolat</summary>
+
+Barre de chocolat
+
+
+
+<img src="../.gitbook/assets/unknown (7).png" alt="" height="110" width="109">
+
+x9 carrés de chocolat
+
+</details>
+
+<details>
+
+<summary>Pomme dorée enchantée</summary>
+
+Pomme dorée enchantée
+
+
+
+<img src="../.gitbook/assets/unknown (8).png" alt="" height="112" width="112">
+
+x128 miels
+
+x16 gelées royale
+
+x1 pomme dorée
+
+</details>
+
+<details>
+
+<summary>Bonbon au miel</summary>
+
+Bonbon au miel
+
+
+
+<img src="../.gitbook/assets/unknown (9).png" alt="" height="113" width="111">
+
+x32 miels
+
+x1 gelée royale
+
+</details>
+
+<details>
+
+<summary>Filet</summary>
+
+Filet
+
+
+
+<img src="../.gitbook/assets/unknown (10).png" alt="" height="112" width="111">
+
+x32 ficelles
+
+x128 bâtons
+
+</details>
+
+<details>
+
+<summary>Souffleur mielleux</summary>
+
+Souffleur mielleux
+
+
+
+<img src="../.gitbook/assets/unknown (11).png" alt="" height="111" width="113">
+
+x128 gelée royale
+
+x1 corne de chèvre
+
+</details>
+
+<details>
+
+<summary>Masse mielleuse</summary>
+
+Masse mielleuse
+
+
+
+<img src="../.gitbook/assets/unknown (12).png" alt="" height="113" width="111">
+
+x512 dards d’abeille
+
+x1 épée mythique
+
+</details>
+
+<details>
+
+<summary>Smoothie acidulé</summary>
+
+Smoothie acidulé
+
+
+
+<img src="../.gitbook/assets/unknown (13).png" alt="" height="112" width="111">
+
+x8 fraises
+
+x8 bananes
+
+x8 pêches
+
+x1 fiole
+
+</details>
+
+<details>
+
+<summary>Smoothie détoxifiant</summary>
+
+Smoothie détoxifiant
+
+
+
+<img src="../.gitbook/assets/unknown (14).png" alt="" height="113" width="112">
+
+x8 noix de coco
+
+x8 figues
+
+x8 abricots
+
+x8 mangues
+
+x1 smoothie acidulé
+
+</details>
+
+<details>
+
+<summary>Jus de légume</summary>
+
+Jus de légume
+
+
+
+<img src="../.gitbook/assets/unknown (15).png" alt="" height="111" width="111">
+
+x32 salades
+
+x32 tomates
+
+x32 maïs
+
+x32 aubergine
+
+x1 fiole
+
+</details>
+
+<details>
+
+<summary>Jarre antique</summary>
+
+Jarre antique
+
+
+
+<img src="../.gitbook/assets/unknown (16).png" alt="" height="113" width="114">
+
+x1 morceau de jarre 1
+
+x1 morceau de jarre 2
+
+x1 morceau de jarre 3
+
+x1 morceau de jarre 4
+
+x1 morceau de jarre 5
+
+x1 morceau de jarre 6
+
+x1 morceau de jarre 7
+
+</details>
+
