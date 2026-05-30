@@ -80,4 +80,4 @@ Le serveur fonctionne avec un pack de textures, il est obligatoire pour pouvoir 
 * Toutes les améliorations de votre box sont financées par la monnaie principale du mode de jeu et tous les membres de votre équipe peuvent accéder à l'amélioration de leur box.
 * Plusieurs limites ne sont pas améliorable et vous pourrez retrouver ces limites avec le /limite
 
-<figure><img src="../.gitbook/assets/{DDFF5922-5C34-46EA-ABF4-F32FC989D6D8}.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/{DDFF5922-5C34-46EA-ABF4-F32FC989D6D8} (2).png" alt="" width="279"><figcaption></figcaption></figure>
