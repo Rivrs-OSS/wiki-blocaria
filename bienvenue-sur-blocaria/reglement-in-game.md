@@ -32,7 +32,7 @@ Le règlement est susceptible de changer à tout moment sans préavis, nous vous
 * Plantage de pousses
 * AFK mobs
 * Remplissage de distributeurs
-* Cette liste n'est pas exhaustive&#x20;
+* Cette liste n'est pas exhaustive
 
 ## <mark style="color:yellow;">Partie II : Le Chat</mark>
 
@@ -56,7 +56,7 @@ Le règlement est susceptible de changer à tout moment sans préavis, nous vous
   * Spam (envoi répété de la même phrase, du même mot), Flood supérieur à 5 caractères (succession de la même lettre, du même caractère ou même émojis. Exemple : Merciiiiiiiiiiiiiiiiiiiiiiiiii), Majuscules
   * La mendicité (demander des items, prêts d'items, d'argent, etc.).
   * Les menaces, le harcèlement, l’humour noir ainsi que la divulgation d'informations privées, demande de réseau social, ….
-  * L’envoi de liens dans le chat est strictement et inconditionnellement interdit sauf lien de ce wiki.
+  * L’envoi de liens dans le chat est strictement et inconditionnellement interdit.
 * **Où qu'ils soient, les propos sont sanctionnables :**
   * Chat public.
   * Chat de box.
@@ -95,7 +95,7 @@ Le règlement est susceptible de changer à tout moment sans préavis, nous vous
 * Les machines à pêche automatiques sont interdites.
 * Le farming à l’aide de véhicules (bateaux, wagons, etc.) est interdit.
 * Les fermes utilisant des withers ou des tnt sont interdites.
-* Le posé/casser abusif de blocs farmables (bois, pierres, minerais…) pour les missions coopératives, jobs ou les rituels est interdit.
+* Le posé/casser de blocs farmables (bois, pierres, minerais…) pour les missions coopératives, jobs ou les rituels est interdit. La seule exception autorisée concerne les événements de réactions dans le chat (_chat reactions_).
 * Toute tentative de contourner la progression prévue par le serveur (machines automatiques, exploitation de bug, etc.) est interdite.
 * Le chunkloading (chargement de chunks via des techniques détournées) est interdit.
 * Toute technique empêchant de faire disparaître (despawn) des mobs (Rename, bateau, etc.) est interdite.
@@ -115,7 +115,7 @@ Le règlement est susceptible de changer à tout moment sans préavis, nous vous
 * La vente d’items, de services ou de contenus en jeu contre de l’argent réel ou des gemmes est interdite.
 * Toutes les formes de don que ce soit du stuff, de l'argent ou autre sont interdites dans toutes les situations.
 * Le prêt d’items entre joueurs est strictement interdit, tous les échanges doivent être définitifs.
-* Toute location est strictement interdite, à l’exception des spawners.&#x20;
+* Toute location est strictement interdite, à l’exception des spawners.
 
 {% hint style="info" %}
 Informations supplémentaires Article K
@@ -221,7 +221,9 @@ Les remboursements de vol ne sont pas automatiques, il est de la responsabilité
 
 * Une box ne peut pas contenir plus de 10 membres simultanément.
 * Il est interdit de kick un membre pour en ajouter un autre temporairement dans le but d’optimiser le farm.
-  * Toute tentative de contournement de cette règle sera sanctionnée.
+* Règle du classement mensuel : Si une île participe au classement des boxs, tout membre exclu (_kick/ban_) en cours de mois ne pourra pas la réintégrer avant le 1er jour du deuxième mois suivant. \
+  &#xNAN;_<mark style="color:$success;">Exemple : Si un joueur est exclu le 15 mai, il ne pourra pas rejoindre à nouveau l'île avant le 1er juillet.</mark>_
+* Toute tentative de contournement de cette règle sera sanctionnée.
 
 ### <mark style="color:yellow;">Article M : Gestion des départs de box</mark>
 

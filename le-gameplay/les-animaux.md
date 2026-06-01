@@ -75,9 +75,9 @@ Vous trouverez dans le tableau ci-dessous la liste des animaux présents sur le 
 
 | Nom        | Biome  | Loots                     |                                                                         |
 | ---------- | ------ | ------------------------- | ----------------------------------------------------------------------- |
-| Méduse     | Marais | Cœur de méduse / Familier | <img src="../.gitbook/assets/Meduseee.gif" alt="" data-size="original"> |
-| Rhinocéros | Savane | Corne / Familier          | <img src="../.gitbook/assets/Rhino.gif" alt="" data-size="original">    |
-| Éléphant   | Savane | Défense / Familier        | <img src="../.gitbook/assets/Elephant.gif" alt="" data-size="original"> |
+| Méduse     | Océan  | Cœur de méduse / Familier | <img src="../.gitbook/assets/Meduseee.gif" alt="" data-size="original"> |
+| Rhinocéros | Désert | Corne / Familier          | <img src="../.gitbook/assets/Rhino.gif" alt="" data-size="original">    |
+| Éléphant   | Désert | Défense / Familier        | <img src="../.gitbook/assets/Elephant.gif" alt="" data-size="original"> |
 
 </details>
 
@@ -86,8 +86,6 @@ Pour chaque animal, vous avez une chance de drop un œuf de familier. Vous pourr
 {% hint style="info" %}
 Pour mieux comprendre les familiers, vous pouvez trouver plus d'explications dans la catégorie [<mark style="color:yellow;">Les familiers</mark>](les-familiers.md)
 {% endhint %}
-
-
 
 ## Apparition des Mobs sur votre Île
 
@@ -153,6 +151,3 @@ Ces biomes permettent l’apparition de mobs semi-aquatiques :
 
 * Chaque mob a un **biome spécifique obligatoire**
 * Chaque mob a des **blocs de spawn précis**
-
-
-
