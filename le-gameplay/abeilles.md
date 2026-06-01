@@ -10,15 +10,9 @@ Le système Abeille est une fonctionnalité permettant d’introduire une nouvel
 
 Il repose sur plusieurs éléments autour de la production de ressources et de l’amélioration continue.
 
-
-
-
-
 <figure><img src="../.gitbook/assets/beenest (1).gif" alt=""><figcaption></figcaption></figure>
 
 ### Fonctionnement général
-
-
 
 * Capture d’abeilles dans les differents warp du spawn à l’aide d’un filet
 * Production de miel via les ruches royales
@@ -31,8 +25,6 @@ Il repose sur plusieurs éléments autour de la production de ressources et de l
 ### **Succès**
 
 De nouveaux succès liés au système Abeille seront ajoutés dans la catégorie **Agriculteur**.
-
-
 
 ### **Limite des ruches royales**
 
@@ -106,8 +98,6 @@ Une ruche cesse de produire lorsqu’elle atteint son nombre maximum de cycles s
 
 Une fois capturées, elles peuvent être placées dans une **ruche royale** afin de produire du miel automatiquement.
 
-
-
 | Propriété   | Valeur                  |
 | ----------- | ----------------------- |
 | Type        | Ressource / Production  |
@@ -117,8 +107,6 @@ Une fois capturées, elles peuvent être placées dans une **ruche royale** afin
 | Placement   | Ruche royale uniquement |
 
 #### Niveaux d’abeilles
-
-
 
 | Abeilles         | Rareté     | Réduction cycle |
 | ---------------- | ---------- | --------------- |
@@ -157,8 +145,6 @@ Lorsqu’elle est utilisée, la Combinaison 2000 permet de :\
 
 </details>
 
-
-
 ### 🐝Familier Maya
 
 | Level     | Maya                                                | Shiny               |
@@ -175,13 +161,9 @@ Pas de fusion possible pour ce famillier
 
 <figure><img src="../.gitbook/assets/maya_bee.gif" alt="" width="234"><figcaption></figcaption></figure>
 
-
-
 ### 🧬 Combinaison des abeilles
 
-
-
-La combinaison permet de fusionner deux abeilles identiques afin d’obtenir une abeille de niveau supérieur.
+La combinaison <mark style="color:yellow;">**`/combinaison`**</mark> permet de fusionner deux abeilles identiques afin d’obtenir une abeille de niveau supérieur
 
 Pour effectuer une combinaison, les conditions suivantes doivent être respectées :
 
@@ -189,18 +171,20 @@ Pour effectuer une combinaison, les conditions suivantes doivent être respecté
 * Les deux abeilles doivent être du **même type**
 * Les abeilles normales et les reines ne peuvent pas être mélangées
 
-
+{% hint style="info" %}
+Pour cette fusion, vous pouvez utiliser une combinaison 2000 qui vous offrira 100% de chance que la fusion des deux abeilles fonctionne.
+{% endhint %}
 
 | Abeilles utilisées | Résultat   |
 | ------------------ | ---------- |
-| 2  Abeille 1★      | Abeille 2★ |
-| 2  Abeille 2★      | Abeille 3★ |
-| 2  Abeille 3★      | Abeille 4★ |
-| 2  Abeille 4★      | Abeille 5★ |
-| 2  Reine 1★        | Reine 2★   |
-| 2  Reine 2★        | Reine 3★   |
-| 2  Reine 3★        | Reine 4★   |
-| 2  Reine 4★        | Reine 5★   |
+| 2 Abeille 1★       | Abeille 2★ |
+| 2 Abeille 2★       | Abeille 3★ |
+| 2 Abeille 3★       | Abeille 4★ |
+| 2 Abeille 4★       | Abeille 5★ |
+| 2 Reine 1★         | Reine 2★   |
+| 2 Reine 2★         | Reine 3★   |
+| 2 Reine 3★         | Reine 4★   |
+| 2 Reine 4★         | Reine 5★   |
 
 ### 🔄 Déroulement
 
@@ -215,9 +199,6 @@ Pour effectuer une combinaison, les conditions suivantes doivent être respecté
 * La seconde abeille est perdue
 * Aucun résultat n’est obtenu
 
-
-
 ### Crafts à l’atelier
 
 Les nouveaux crafts <mark style="color:yellow;">**`/atelier`**</mark> seront ajoutés prochainement.
-
