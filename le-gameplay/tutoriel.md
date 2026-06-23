@@ -190,7 +190,7 @@ Récupérez votre familier puis posez-le dans votre box ( <mark style="color:yel
 
 <summary>Quête n°9 - Un compagnon pour la vie</summary>
 
-Activez votre familier grâce au <mark style="color:yellow;">`/pet`</mark> fait clic droit sur celui, puis sortez-le en faisant à nouveau clic droit sur celui-ci
+Activez votre familier grâce au <mark style="color:yellow;">`/pets`</mark> fait clic droit sur celui, puis sortez-le en faisant à nouveau clic droit sur celui-ci
 
 <mark style="color:green;">Récompense</mark> : 5500 ![](../.gitbook/assets/Argent.png) - 2 Friandises
 
