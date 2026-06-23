@@ -18,7 +18,7 @@ Pour les poissons customs :
 * **Lancez la ligne** : Utilisez le clic gauche pour lancer votre ligne
 * **Attendez qu’un poisson morde** : Quand vous voyez l'interface de pêche s'ouvrir, c'est le moment d'attraper le poisson !
 * **Le duel** : Une barre verticale apparaît. Le poisson s'y déplace de haut en bas de manière imprévisible.
-* **Contrôlez la barre verte** : Vous dirigez une zone de capture verte à l'aide de votre clic gauche :
+* **Contrôlez la barre verte** : Vous dirigez une zone de capture verte à l'aide de votre clic droit :
   * **Maintenez** : la barre monte.
   * **Relâchez** : elle descend.
 * **L'objectif** : Maintenez le poisson à l'intérieur de la barre verte jusqu'à ce que la jauge de progression à droite soit pleine. Une fois remplie, le poisson est à vous !
