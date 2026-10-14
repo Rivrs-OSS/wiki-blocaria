@@ -27,12 +27,27 @@ Le règlement est susceptible de changer à tout moment sans préavis, nous vous
 
 ### <mark style="color:yellow;">Article C : Les alliances</mark>
 
-* Toute forme d'alliance entre box est interdite si elle a pour but de vous faire progresser dans le classement de boxe, les jobs, les maitrises, le niveau de personnage (cela comprend mais ne se limite pas aux items de niveau de boxe du mois, l'argent, ainsi que tout autre item permettant de propulser une box dans le classement). Tout abus concernant ces alliances sera sanctionné que l'exemple soit noté ici ou non.
-* Toute action d'alliances entrainant un impact dans les classements sont interdits, cela sera considéré comme de l'alliance de box.
-* Plantage de pousses
-* AFK mobs
-* Remplissage de distributeurs
-* Cette liste n'est pas exhaustive
+L’alliance de box est interdite lorsqu'elle a pour but de faire progresser une autre box ou un autre joueur dans les classements.
+
+**Actions interdites :**
+
+* Aide aux quêtes du Journal (plantage de pousses, AFK mobs, remplissage de machines, etc.).
+* Don d'objets ou de ressources d'une valeur supérieure à 1M.
+* Prêt de fermes ou d'installations permettant de progresser dans les rangs, missions, jobs, niveaux ou classements.
+
+**Actions autorisées :**
+
+* Création de warps publics avec des fermes, des spawners et des générateurs à minerais en libre-service.
+* Échange ou prêt d'objets : en cas de litige, vous devez fournir toutes les preuves de votre échange avec le joueur. Nous n’irons pas en chercher pour vous. Nous vous conseillons de faire votre échange dans un coffre, pour que nous ayons des logs.
+
+**Actions autorisées (contre rémunération) :**
+
+_La valeur doit être représentative._
+
+* Construction de fermes (hors quêtes du Journal).
+* AFK spawner/champs (hors quêtes du Journal).
+
+**Cette liste n'est pas exhaustive. Toute aide ayant pour objectif principal de faire progresser une autre box pourra être considérée comme une alliance de box et sanctionnée.**
 
 ## <mark style="color:yellow;">Partie II : Le Chat</mark>
 
@@ -40,7 +55,7 @@ Le règlement est susceptible de changer à tout moment sans préavis, nous vous
 
 * Le chat est un espace de libre échange où les discussions s'effectuent dans le respect.
 * L'utilisation de caractères spéciaux dans l'écriture (chat, nick, panneaux, ...) n’est pas autorisée.
-* Seules les langues présentes sur le serveur sont autorisées (FR, DE, US, ES, IT, PL).
+* Seules les langues présentes sur le serveur sont autorisées (FR et US).
 * Toutes réactions (provocatrices ou non) concernant l'orthographe sera sanctionnées.
 * Il est interdit de réagir à une sanction ou une vérification anti-afk.
 
@@ -68,11 +83,15 @@ Le règlement est susceptible de changer à tout moment sans préavis, nous vous
 
 ### <mark style="color:yellow;">Article C : La Publicité</mark>
 
-**Les messages suivants sont interdits :**
+**La publicité externe :**
 
-* Il est interdit de faire une publicité allant à l'encontre de Blocaria. Ainsi, il est interdit de promouvoir un serveur concurrent ou de citer un serveur autre que ceux de Rivrs.
-* La publicité de son propre contenu (vidéos Youtube, chaîne Twitch, compte TikTok…) est interdite sur le serveur, hormis si vous disposez du grade Créateur ou Partenaire.
-* Toutes les **publicités devront passer par le /pub**, sans quoi des sanctions pourront être appliquées. Chaque pub quelle qu'elle soit se doit d'être espacée de 15 minutes (**pwarp, vente/achat d'item, annonce d'événement, promotion d'un item, location d'afk, recherche d'équipe, …**).
+* Il est interdit de faire une publicité allant à l'encontre de Blocaria. Ainsi, il est interdit de promouvoir un serveur concurrent, et de citer un serveur autre que ceux de Rivrs.
+* La publicité de son propre contenu (vidéos Youtube, chaîne Twitch, compte TikTok, bots, mods, …) est interdite sur le serveur, hormis si vous disposez du grade Créateur ou Partenaire ou que vous avez une autorisation écrite d’un administrateur du serveur.
+
+**La publicité interne :**
+
+* La promotion de votre pw, recrutement de box, promotion d'un item, vente au ah, doivent passer **obligatoirement par un /pub**.
+* Pour les recherches d’un item ou d’un mob, il est conseillé (mais non obligatoire), pour plus de visibilité, d’utiliser le /pub. Vous avez l'obligation d'espacer vos demandes, en cas d'abus vous serez sanctionné. Le jugement du staff fera loi, espacement conseillé 15 minutes.
 
 ## <mark style="color:yellow;">Partie III : Le Gameplay</mark>
 
@@ -98,7 +117,7 @@ Le règlement est susceptible de changer à tout moment sans préavis, nous vous
 * Le posé/casser de blocs farmables (bois, pierres, minerais…) pour les missions coopératives, jobs ou les rituels est interdit. La seule exception autorisée concerne les événements de réactions dans le chat (_chat reactions_).
 * Toute tentative de contourner la progression prévue par le serveur (machines automatiques, exploitation de bug, etc.) est interdite.
 * Le chunkloading (chargement de chunks via des techniques détournées) est interdit.
-* Toute technique empêchant de faire disparaître (despawn) des mobs (Rename, bateau, etc.) est interdite.
+* Toute technique empêchant de faire disparaître (despawn) des mobs (Rename, bateau, déplacement des stacks etc.) est interdite. Le fait de posséder plus d’un « tas de mob » par dimension est interdit, concrètement c’est un bloc maximum par mob où on peut stack 36 stacks de mob. Si contournement ou non-respect de cette règle, le staff se donne le droit de supprimer les mobs de votre box sans remboursement.
 * Il est interdit d’utiliser un clic supérieur à 10 CPS, quelle que soit la situation.
 * En cas de doute sur une farm, un ticket doit être ouvert. Le staff peut supprimer toute farm jugée non conforme sans remboursement.
 * Il est strictement interdit d’exploiter les mobiliers customs à des fins de farm.
@@ -111,11 +130,9 @@ Le règlement est susceptible de changer à tout moment sans préavis, nous vous
 
 #### <mark style="color:yellow;">B.3 -</mark> <mark style="color:yellow;">**Économie, échanges et casinos**</mark>
 
-* Les jeux de hasard sont interdits, sauf ceux de type casino avec un affichage clair des probabilités et un modérateur doit être sollicité pour vérification.
+* Les jeux de hasard sont interdits, sauf ceux de type casino avec un affichage clair des probabilités et un modérateur peut être sollicité pour vérification.
 * La vente d’items, de services ou de contenus en jeu contre de l’argent réel ou des gemmes est interdite.
-* Toutes les formes de don que ce soit du stuff, de l'argent ou autre sont interdites dans toutes les situations.
-* Le prêt d’items entre joueurs est strictement interdit, tous les échanges doivent être définitifs.
-* Toute location est strictement interdite, à l’exception des spawners.
+* Acheter des gemmes pour le compte d’une autre personne est interdit.
 
 {% hint style="info" %}
 Informations supplémentaires Article K
@@ -163,12 +180,15 @@ De plus, l'utilisation d'une touche autre que le clic, d'un moyen, d’une méth
 
 ### <mark style="color:yellow;">Article F : Les doubles comptes</mark>
 
-* Les doubles-comptes sont limités à 1 par utilisateur.
+* Les doubles comptes sont limités à 1 par utilisateur.
 * Les doubles comptes ne sont pas acceptés dans les classements, tous évènements confondus, ainsi que dans le vote.
-* Il n’est pas possible de récupérer les différentes récompenses des évents grâce à vos doubles comptes ou de farmer grâce à celui-ci (calendrier, récompenses de jobs, …).
-* L’utilisation d’un double compte est dans l’unique but d'AFK, mais il est interdit de boost son compte principal. Seuls les gains du voteparty et du salaire reçu toutes les 10 minutes sont transférables vers le compte principal.
-* Jouer sur un double compte alors que son compte principal est banni, ou inversement, est interdit. En cas de non-respect de cette règle, le temps de la sanction initiale sera doublé et plus si récidives.
-* Si plusieurs personnes physiques sont sur la même IP, merci de le signaler à un membre de l'équipe de Blocaria en ticket. Toute présence d'un double compte doit aussi etre annoncer au staff.
+* Il n’est pas possible de récupérer les différentes récompenses gratuites des évents grâce à vos doubles comptes ou de farmer grâce à celui-ci (calendrier, pass event, récompenses de jobs, …).
+* L’utilisation d’un double compte est dans l’unique but d'AFK et il est interdit de boost son compte principal. Seuls les gains du voteparty (dont les clés vote) et ceux du warp afk sont transférables sur votre compte principal.
+* L’afk, sur d'autres box que la vôtre, est autorisé contre rémunération versée sur le compte principal.
+* Jouer sur un double compte alors que son compte principal est banni, ou inversement, est interdit. En cas de non-respect de cette règle, le temps de la sanction initiale sera doublé et plus si récidive.
+* Si plusieurs personnes physiques sont sur la même IP, merci de le signaler à un membre de l'équipe de Blocaria en ticket.
+* Les doubles comptes ne peuvent intégrer que l'île de leur propriétaire et ils peuvent y consommer des items de fly ou y poser des homes pour faciliter leurs déplacements.
+* Les doubles comptes ne peuvent être propriétaires que d’une box de build et sa création doit passer, obligatoirement, en ticket sur le discord.
 
 ### <mark style="color:yellow;">Article G : L'AFK</mark>
 
@@ -198,7 +218,7 @@ Les remboursements de vol ne sont pas automatiques, il est de la responsabilité
 
 ### <mark style="color:yellow;">Article J : Achat et gestion des PW</mark>
 
-* Le nom d'un PW peut être acheté à la suite de l'inactivité de la box pendant 60 jours. Le prix d'achat de celui-ci est fixé à 100 millions.
+* Le nom d'un PW peut être acheté, à la suite de l'inactivité de la box propriétaire du nom du pw pendant 60 jours. Le prix d'achat de celui-ci est fixé à 100 millions.
 
 ### <mark style="color:yellow;">Article K : L’hôtel des Ventes</mark>
 
