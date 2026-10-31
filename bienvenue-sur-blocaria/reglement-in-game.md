@@ -14,25 +14,41 @@ Le règlement est susceptible de changer à tout moment sans préavis, nous vous
 
 ### <mark style="color:yellow;">Article A : Votre compte</mark>
 
-* Vous êtes entièrement **responsable de votre compte** Minecraft, ainsi que de votre mot de passe. Il est interdit de donner ou de prêter son compte ainsi que son mot de passe à une personne tierce. Nous ne prenons en aucun cas une part de responsabilité si une personne autre que vous se connecte dessus. Si une règle n’est pas respectée par votre compte même si ce n’est pas vous dessus, une **sanction adéquate sera mise en place**.
-* Les pseudonymes (raciste, insultant, politique, homophobe …) et skins inappropriés (politique, nudité offensante …) ne sont pas acceptés, de même pour le rename d’un pet.
-* Votre <mark style="color:yellow;">`/nick`</mark> (surnom disponible avec un grade) doit également respecter ces règles. Votre nick ne doit, ni comporter de caractères spéciaux, ni être assimilable à du flood, (ect..). De plus, il est interdit d'utiliser votre surnom afin de faire de la pub (pour un pw, une box, une chaine youtube etc) ou d'usurper l'identité d'un autre joueur, un membre du staff ou une personne connue.
+* Vous êtes entièrement **responsable de votre compte** Minecraft, ainsi que de votre mot de passe. Il est interdit de donner ou de prêter son compte ainsi que son mot de passe à une personne tierce. Nous ne prenons en aucun cas une part de responsabilité si une personne autre que vous se connecte dessus. Si une règle n’est pas respectée par votre compte, même si ce n’est pas vous dessus, une **sanction adéquate sera mise en place**.
+* Les pseudonymes (racistes, insultants, politiques, homophobes…) et skins inappropriés (politique, nudité offensante…) ne sont pas acceptés, de même pour le rename d’un pet.
+* Votre <mark style="color:yellow;">`/nick`</mark> (surnom disponible avec un grade) doit également respecter ces règles. Votre nick ne doit ni comporter de caractères spéciaux, ni être assimilable à du flood, etc. De plus, il est interdit d'utiliser votre surnom afin de faire de la pub (pour un pw, une box, une chaîne YouTube, etc.) ou d'usurper l'identité d'un autre joueur, d'un membre du staff ou d'une personne connue.
 * En cas de changement de pseudo, les sites de vote ne vous distribueront pas vos récompenses obtenues avec votre ancien pseudo.
 
 ### <mark style="color:yellow;">Article B : Le Discord</mark>
 
-* Blocaria a pour moyen de communication principal son serveur Discord. L’accès y est donc fortement recommandé voire obligatoire, pour avoir les informations des **mises à jour**, autres **informations importantes** ou pour la création de **ticket**. Toute demande ne passant pas par discord ne sera pas traitée.
-* Pour tout problème, toute question, toute suggestion ou rapport de bugs, nous vous invitons à vous rendre sur cette plateforme, il est interdit de passer par message privé avec le staff.
-* **Le règlement en jeu s’applique également sur le serveur Discord que ce soit en discussion ou en vocal.**
+* Blocaria a pour moyen de communication principal son serveur Discord. L’accès y est donc fortement recommandé, voire obligatoire, pour avoir les informations des **mises à jour**, les autres **informations importantes** ou pour la création de **ticket**. Toute demande ne passant pas par Discord ne sera pas traitée.
+* Pour tout problème, toute question, toute suggestion ou tout rapport de bug, nous vous invitons à vous rendre sur cette plateforme ; il est interdit de passer par message privé avec le staff.
+* **Le règlement en jeu s’applique également sur le serveur Discord, que ce soit en discussion ou en vocal.**
 
 ### <mark style="color:yellow;">Article C : Les alliances</mark>
 
-* Toute forme d'alliance entre box est interdite si elle a pour but de vous faire progresser dans le classement de boxe, les jobs, les maitrises, le niveau de personnage (cela comprend mais ne se limite pas aux items de niveau de boxe du mois, l'argent, ainsi que tout autre item permettant de propulser une box dans le classement). Tout abus concernant ces alliances sera sanctionné que l'exemple soit noté ici ou non.
-* Toute action d'alliances entrainant un impact dans les classements sont interdits, cela sera considéré comme de l'alliance de box.
-* Plantage de pousses
-* AFK mobs
-* Remplissage de distributeurs
-* Cette liste n'est pas exhaustive
+L’alliance de box est interdite lorsqu'elle a pour but de faire progresser une autre box ou un autre joueur dans les classements.
+
+**Actions interdites :**
+
+* Aide aux quêtes du Journal (plantage de pousses, AFK mobs, remplissage de machines, etc.).
+* Don d'objets ou de ressources d'une valeur supérieure à 1M (valeur à l'appréciation du staff).
+* Prêt de fermes ou d'installations permettant de progresser dans les rangs, missions, jobs, niveaux ou classements.
+* Prêt de pets.
+
+**Actions autorisées :**
+
+* Création de warps publics avec des fermes, des spawners et des générateurs à minerais en libre-service.
+* Échange ou prêt d'objets : en cas de litige, vous devez fournir toutes les preuves de votre échange avec le joueur. Nous n’irons pas en chercher pour vous. Nous vous conseillons de faire votre échange dans un coffre, pour que nous ayons des logs.
+
+**Actions autorisées (contre rémunération) :**
+
+_La valeur doit être représentative._
+
+* Construction de fermes (hors quêtes du Journal).
+* AFK spawner/champs (hors quêtes du Journal).
+
+**Cette liste n'est pas exhaustive. Toute aide ayant pour objectif principal de faire progresser une autre box pourra être considérée comme une alliance de box et sanctionnée.**
 
 ## <mark style="color:yellow;">Partie II : Le Chat</mark>
 
@@ -40,8 +56,8 @@ Le règlement est susceptible de changer à tout moment sans préavis, nous vous
 
 * Le chat est un espace de libre échange où les discussions s'effectuent dans le respect.
 * L'utilisation de caractères spéciaux dans l'écriture (chat, nick, panneaux, ...) n’est pas autorisée.
-* Seules les langues présentes sur le serveur sont autorisées (FR, DE, US, ES, IT, PL).
-* Toutes réactions (provocatrices ou non) concernant l'orthographe sera sanctionnées.
+* Seules les langues présentes sur le serveur sont autorisées (FR et US).
+* Toute réaction (provocatrice ou non) concernant l'orthographe sera sanctionnée.
 * Il est interdit de réagir à une sanction ou une vérification anti-afk.
 
 ### <mark style="color:yellow;">Article B : Un langage respectueux</mark>
@@ -49,43 +65,47 @@ Le règlement est susceptible de changer à tout moment sans préavis, nous vous
 * **Liste non exhaustive de messages interdits :**
   * Provocation, insultes envers une personne ou une communauté.
   * Propos graves : racisme, misogynie, homophobie, transphobie, politique.
-  * Propos tendancieux (à caractère sexuel, racisme, … )
+  * Propos tendancieux (à caractère sexuel, raciste…)
   * Tous sujets amenant au débat (politiques, religieux, conflits géopolitiques, ...)
   * Troll, obscénité.
   * Tout type de réaction aux sanctions
   * Spam (envoi répété de la même phrase, du même mot), Flood supérieur à 5 caractères (succession de la même lettre, du même caractère ou même émojis. Exemple : Merciiiiiiiiiiiiiiiiiiiiiiiiii), Majuscules
   * La mendicité (demander des items, prêts d'items, d'argent, etc.).
-  * Les menaces, le harcèlement, l’humour noir ainsi que la divulgation d'informations privées, demande de réseau social, ….
+  * Les menaces, le harcèlement, l’humour noir ainsi que la divulgation d'informations privées, demande de réseau social…
   * L’envoi de liens dans le chat est strictement et inconditionnellement interdit.
 * **Où qu'ils soient, les propos sont sanctionnables :**
   * Chat public.
   * Chat de box.
   * Messages privés.
   * Panneaux, même hors pwarp.
-  * Items renames …
-  * Pets
-  * Ect.
+  * Items renommés.
+  * Pets.
+  * Etc.
 
 ### <mark style="color:yellow;">Article C : La Publicité</mark>
 
-**Les messages suivants sont interdits :**
+**La publicité externe :**
 
-* Il est interdit de faire une publicité allant à l'encontre de Blocaria. Ainsi, il est interdit de promouvoir un serveur concurrent ou de citer un serveur autre que ceux de Rivrs.
-* La publicité de son propre contenu (vidéos Youtube, chaîne Twitch, compte TikTok…) est interdite sur le serveur, hormis si vous disposez du grade Créateur ou Partenaire.
-* Toutes les **publicités devront passer par le /pub**, sans quoi des sanctions pourront être appliquées. Chaque pub quelle qu'elle soit se doit d'être espacée de 15 minutes (**pwarp, vente/achat d'item, annonce d'événement, promotion d'un item, location d'afk, recherche d'équipe, …**).
+* Il est interdit de faire une publicité allant à l'encontre de Blocaria. Ainsi, il est interdit de promouvoir un serveur concurrent et de citer un serveur autre que ceux de Rivrs.
+* La publicité de son propre contenu (vidéos YouTube, chaîne Twitch, compte TikTok, bots, mods…) est interdite sur le serveur, hormis si vous disposez du grade Créateur ou Partenaire ou que vous avez une autorisation écrite d’un administrateur du serveur.
+
+**La publicité interne :**
+
+* La promotion de votre pw, le recrutement de box, la promotion d'un item et la vente à l'ah doivent passer **obligatoirement par un /pub**.
+* Pour les recherches d’un item ou d’un mob, il est conseillé (mais non obligatoire), pour plus de visibilité, d’utiliser le /pub. Vous avez l'obligation d'espacer vos demandes : en cas d'abus, vous serez sanctionné. Le jugement du staff fera loi ; espacement conseillé : 15 minutes.
 
 ## <mark style="color:yellow;">Partie III : Le Gameplay</mark>
 
 ### <mark style="color:yellow;">Article A : Interactions entre joueurs</mark>
 
-* Toute forme d'anti-jeu est interdite dans les zones événement, zones farm, ou autre … Toute infraction pourra entraîner une sanction adaptée (ban, retrait de récompense, sortie de classement, …) selon la gravité des faits.\
+* Toute forme d'anti-jeu est interdite dans les zones d'événement, les zones de farm ou autres… Toute infraction pourra entraîner une sanction adaptée (ban, retrait de récompense, sortie de classement, …) selon la gravité des faits.\
   Cela inclut, mais ne se limite pas à :
   * Bloquer ou gêner volontairement les autres joueurs.
   * Exploiter des mécaniques du jeu pour empêcher le bon déroulement d'un événement.
   * Utiliser des bugs/glitch pour obtenir un avantage injuste.
 * Les arnaques, les pillages, les vols, les griefs, les trahisons et toutes autres actions pouvant nuire à l'expérience de jeu des autres joueurs sont interdits.
-* Il est interdit de rejoindre une box, ou de faire quelconque action de bug ou utilisation de logiciels interdits, par exemple, dans un but de copier les farms/pattern déjà présent sur celle-ci. Il est interdit de récupérer du stuff ou des schématiques sur une box avant de la quitter sans accord préalable avec son chef. Concernant les schématiques, tout non respect entrainera le cut de celui-ci sans remboursement possible.
-* Le commerce inter-serveur est interdit incluant tout échange d'items, d'argent et autres...
+* Il est interdit de rejoindre une box, ou de faire une quelconque action de bug ou utilisation de logiciels interdits, par exemple dans le but de copier les farms/patterns déjà présents sur celle-ci. Il est interdit de récupérer du stuff ou des schématiques sur une box avant de la quitter sans accord préalable avec son chef. Concernant les schématiques, tout non-respect entraînera le cut de celles-ci sans remboursement possible.
+* Le commerce inter-serveur est interdit, y compris tout échange d'items, d'argent et autres…
 
 ### <mark style="color:yellow;">Article B : Les actions interdites</mark>
 
@@ -94,11 +114,11 @@ Le règlement est susceptible de changer à tout moment sans préavis, nous vous
 * L'utilisation de systèmes Anti-AFK (circuit d’eau, AFK Farm, etc.) est interdite.
 * Les machines à pêche automatiques sont interdites.
 * Le farming à l’aide de véhicules (bateaux, wagons, etc.) est interdit.
-* Les fermes utilisant des withers ou des tnt sont interdites.
-* Le posé/casser de blocs farmables (bois, pierres, minerais…) pour les missions coopératives, jobs ou les rituels est interdit. La seule exception autorisée concerne les événements de réactions dans le chat (_chat reactions_).
+* Les fermes utilisant des withers ou de la TNT sont interdites.
+* Le fait de poser/casser des blocs farmables (bois, pierres, minerais…) pour les missions coopératives, jobs ou les rituels est interdit. La seule exception autorisée concerne les événements de réactions dans le chat (_chat reactions_).
 * Toute tentative de contourner la progression prévue par le serveur (machines automatiques, exploitation de bug, etc.) est interdite.
 * Le chunkloading (chargement de chunks via des techniques détournées) est interdit.
-* Toute technique empêchant de faire disparaître (despawn) des mobs (Rename, bateau, etc.) est interdite.
+* Toute technique empêchant de faire disparaître (despawn) des mobs (rename, bateau, déplacement des stacks, etc.) est interdite. Le fait de posséder plus d’un « tas de mob » par dimension est interdit : concrètement, c’est un bloc maximum par mob, où l'on peut stacker 36 stacks de mobs. En cas de contournement ou de non-respect de cette règle, le staff se réserve le droit de supprimer les mobs de votre box sans remboursement.
 * Il est interdit d’utiliser un clic supérieur à 10 CPS, quelle que soit la situation.
 * En cas de doute sur une farm, un ticket doit être ouvert. Le staff peut supprimer toute farm jugée non conforme sans remboursement.
 * Il est strictement interdit d’exploiter les mobiliers customs à des fins de farm.
@@ -111,14 +131,12 @@ Le règlement est susceptible de changer à tout moment sans préavis, nous vous
 
 #### <mark style="color:yellow;">B.3 -</mark> <mark style="color:yellow;">**Économie, échanges et casinos**</mark>
 
-* Les jeux de hasard sont interdits, sauf ceux de type casino avec un affichage clair des probabilités et un modérateur doit être sollicité pour vérification.
+* Les jeux de hasard sont interdits, sauf ceux de type casino avec un affichage clair des probabilités ; un modérateur peut être sollicité pour vérification.
 * La vente d’items, de services ou de contenus en jeu contre de l’argent réel ou des gemmes est interdite.
-* Toutes les formes de don que ce soit du stuff, de l'argent ou autre sont interdites dans toutes les situations.
-* Le prêt d’items entre joueurs est strictement interdit, tous les échanges doivent être définitifs.
-* Toute location est strictement interdite, à l’exception des spawners.
+* Acheter des gemmes pour le compte d’une autre personne est interdit.
 
 {% hint style="info" %}
-Informations supplémentaires Article K
+Informations supplémentaires : article K.
 {% endhint %}
 
 ### <mark style="color:yellow;">Article C : Utilisation de la Redstone</mark>
@@ -126,7 +144,7 @@ Informations supplémentaires Article K
 * La redstone est à utiliser dans la limite du raisonnable et de l'utile.
 * Les usines en dessous de "4-ticks", machines volantes ainsi que l’ensemble des machines de duplication sont interdites.
 * Les machines créant des lags, volontairement ou non, sont interdites et seront cut.
-* Toute machine permettant la plantation automatique de pousses d’arbres, champignons, azalées etc est strictement interdite.
+* Toute machine permettant la plantation automatique de pousses d’arbres, champignons, azalées, etc., est strictement interdite.
 
 {% hint style="warning" %}
 Si votre système ne respecte pas les règles du serveur, celui-ci sera supprimé sans aucun remboursement possible.
@@ -135,12 +153,12 @@ Si votre système ne respecte pas les règles du serveur, celui-ci sera supprim�
 ### <mark style="color:yellow;">Article D : Les mods autorisés</mark>
 
 * **Tous les mods ne donnant pas d'avantages sur les autres joueurs (liste non exhaustive) :**
-  * Optifine, ReplayMod (Uniquement pour Record).
+  * Optifine, ReplayMod (uniquement pour Record).
   * Badlion / Lunar / Labymod.
-    * Il est évident que l'ensemble des mods présents dans ces clients ne sont pas autorisés, veuillez vous référer à la liste des “Mods interdits" ci-dessous ainsi qu'aux "actions interdites" sur le serveur si un doute persiste merci d'ouvrir un ticket.
-  * Schematica/litematica (Sans le mode printer, easyplace ou copy/paste).
+    * Il est évident que l'ensemble des mods présents dans ces clients ne sont pas autorisés : veuillez vous référer à la liste des « Mods interdits » ci-dessous ainsi qu'aux « Actions interdites » sur le serveur. Si un doute persiste, merci d'ouvrir un ticket.
+  * Schematica/Litematica (sans le mode printer, easyplace ou copy/paste).
   * Toggle Sneak / Sprint.
-  * Inventory profil next.
+  * Inventory Profiles Next.
   * Mini-map
   * Shulker Box Tooltip
   * EntityCulling
@@ -163,26 +181,29 @@ De plus, l'utilisation d'une touche autre que le clic, d'un moyen, d’une méth
 
 ### <mark style="color:yellow;">Article F : Les doubles comptes</mark>
 
-* Les doubles-comptes sont limités à 1 par utilisateur.
+* Les doubles comptes sont limités à 1 par utilisateur.
 * Les doubles comptes ne sont pas acceptés dans les classements, tous évènements confondus, ainsi que dans le vote.
-* Il n’est pas possible de récupérer les différentes récompenses des évents grâce à vos doubles comptes ou de farmer grâce à celui-ci (calendrier, récompenses de jobs, …).
-* L’utilisation d’un double compte est dans l’unique but d'AFK, mais il est interdit de boost son compte principal. Seuls les gains du voteparty et du salaire reçu toutes les 10 minutes sont transférables vers le compte principal.
-* Jouer sur un double compte alors que son compte principal est banni, ou inversement, est interdit. En cas de non-respect de cette règle, le temps de la sanction initiale sera doublé et plus si récidives.
-* Si plusieurs personnes physiques sont sur la même IP, merci de le signaler à un membre de l'équipe de Blocaria en ticket. Toute présence d'un double compte doit aussi etre annoncer au staff.
+* Il n’est pas possible de récupérer les différentes récompenses gratuites des évents grâce à vos doubles comptes ou de farmer grâce à ceux-ci (calendrier, pass event, récompenses de jobs…).
+* L’utilisation d’un double compte est dans l’unique but d'AFK et il est interdit de booster son compte principal. Seuls les gains du voteparty (dont les clés de vote) et ceux du warp afk sont transférables sur votre compte principal.
+* L’afk, sur d'autres box que la vôtre, est autorisé contre rémunération versée sur le compte principal.
+* Jouer sur un double compte alors que son compte principal est banni, ou inversement, est interdit. En cas de non-respect de cette règle, le temps de la sanction initiale sera doublé, et plus en cas de récidive.
+* Si plusieurs personnes physiques sont sur la même IP, merci de le signaler à un membre de l'équipe de Blocaria en ticket.
+* Les doubles comptes ne peuvent intégrer que l'île de leur propriétaire et ils peuvent y consommer des items de fly ou y poser des homes pour faciliter leurs déplacements.
+* Les doubles comptes ne peuvent être propriétaires que d’une box de build et sa création doit passer, obligatoirement, par ticket sur le Discord.
 
 ### <mark style="color:yellow;">Article G : L'AFK</mark>
 
-* Des vérifications d'AFK sont régulièrement effectuées par les Modérateurs, tout manquement ou non réponses valides à celles-ci sont passibles de sanctions, même en étant physiquement présent devant l’écran.
-* Il est aussi interdit de contourner l'anti-AFK d'une quelconque, sous peine de sanctions.
+* Des vérifications d'AFK sont régulièrement effectuées par les modérateurs : tout manquement ou toute absence de réponse valide à celles-ci est passible de sanctions, même en étant physiquement présent devant l’écran.
+* Il est aussi interdit de contourner l'anti-AFK de quelque manière que ce soit, sous peine de sanctions.
 
 ### <mark style="color:yellow;">Article H : Les remboursements</mark>
 
-* Les demandes de remboursement se font seulement par tickets sur le serveur Discord.
-* Nous ne remboursons pas les pertes liées aux items non reçus par manque de place dans l’inventaire, les vols au sein de la box, cela est aussi valable pour les clés de vote ainsi que les pertes liées aux déplacements d'item lors d'une téléportation.
+* Les demandes de remboursement se font seulement par ticket sur le serveur Discord.
+* Nous ne remboursons pas les pertes liées aux items non reçus par manque de place dans l’inventaire (clés de vote comprises), les vols au sein de la box, ni les pertes liées aux déplacements d'items lors d'une téléportation.
 * Seules les pertes liées à un problème serveur sont remboursées.
-* Les pertes dues à une erreur d’inattention ne seront pas remboursées, par exemple : pertes dues au clearlag, drop d'items, etc.).
+* Les pertes dues à une erreur d’inattention ne seront pas remboursées (par exemple : pertes dues au clearlag, drop d'items, etc.).
 * Aucun remboursement ne sera effectué en cas de vol de spawner, quelle que soit la personne à qui vous avez accordé un accès. Vous êtes entièrement responsable des autorisations que vous donnez.
-* Un bannissement temporaire ou définitif vous privera de tous vos avantages jusqu'à la fin (s'il y en a une) de la sanction. Aucun transfert ne sera possible durant la durée d'une sanction et **tous vos "biens" en jeu sont gelés qu'ils vous appartiennent ou pas**.
+* Un bannissement temporaire ou définitif vous privera de tous vos avantages jusqu'à la fin (s'il y en a une) de la sanction. Aucun transfert ne sera possible durant la durée d'une sanction et **tous vos « biens » en jeu sont gelés, qu'ils vous appartiennent ou non**.
 * Si vous n'avez pas les preuves suffisantes, votre demande de remboursement peut être refusée.
 
 {% hint style="warning" %}
@@ -198,34 +219,34 @@ Les remboursements de vol ne sont pas automatiques, il est de la responsabilité
 
 ### <mark style="color:yellow;">Article J : Achat et gestion des PW</mark>
 
-* Le nom d'un PW peut être acheté à la suite de l'inactivité de la box pendant 60 jours. Le prix d'achat de celui-ci est fixé à 100 millions.
+* Le nom d'un PW peut être acheté à la suite de l'inactivité, pendant 60 jours, de la box propriétaire de ce nom. Le prix d'achat de celui-ci est fixé à 100 millions.
 
-### <mark style="color:yellow;">Article K : L’hôtel des Ventes</mark>
+### <mark style="color:yellow;">Article K : L’hôtel des ventes</mark>
 
 * Chaque joueur est responsable du prix qu’il fixe pour ses objets sur l’hôtel des ventes (/ah).
 * Si un joueur met un prix trop haut ou trop bas par erreur, aucune demande de remboursement ne pourra être imposée au staff ou à l’acheteur.
 * Il est recommandé de vérifier attentivement le prix avant de mettre un objet en vente.
 * Toute arnaque via l’hôtel des ventes (<mark style="color:yellow;">`/ah`</mark>) est interdite.
   * Cela inclut, mais ne se limite pas à :
-    * Renommer des items de manière trompeuse (ex. renommer une shulker "Full Banane" alors qu'elle en contient moins que prévu).
+    * Renommer des items de manière trompeuse (ex. renommer une shulker « Full Banane » alors qu'elle en contient moins que prévu).
     * Vendre des items en prétendant qu'ils ont une valeur ou un effet qu'ils n'ont pas.
     * Toute tentative d'arnaque sera sanctionnée.
 * Il est interdit de faire artificiellement monter ou descendre les prix du marché en achetant et revendant des objets.
   * Toute tentative de manipulation économique sera sanctionnée.
 * La vente d'empty spawner, de spawners renommés ou encore de rituels expirés est interdite.
-* Il est interdit de faire la vente : d’items de missions, d’items renommés dans le but de tromper ou de faire de la pub, de fausses clés, de fausses têtes, de tête du staff, d’items exclusifs désenchantés. Cette interdiction s’applique sur tout le serveur et non pas qu’à l’ah.
-* La proximité avec l'average est importante. Vous pouvez ajuster votre prix à la hausse ou à la baisse lors de la mise en vente, mais l'écart entre votre prix et celui de l'average doit rester logique. Si le staff estime que le prix n'est pas raisonnable, il se garde le droit de supprimer votre item sans vous le rendre. S'il n'y a pas d'average, vous devez aussi rester cohérent et raisonnable.
+* Il est interdit de faire la vente : d’items de missions, d’items renommés dans le but de tromper ou de faire de la pub, de fausses clés, de fausses têtes, de têtes du staff, d’items exclusifs désenchantés. Cette interdiction s’applique sur tout le serveur, et pas seulement à l’ah.
+* La proximité avec l'average est importante. Vous pouvez ajuster votre prix à la hausse ou à la baisse lors de la mise en vente, mais l'écart entre votre prix et celui de l'average doit rester logique. Si le staff estime que le prix n'est pas raisonnable, il se réserve le droit de supprimer votre item sans vous le rendre. S'il n'y a pas d'average, vous devez aussi rester cohérent et raisonnable.
 * Les rituels expirés ou impossibles à réaliser (car issus d’un ancien événement) doivent être placés dans une shulker renommée « Rituel de collection non faisable ».
 
 ### <mark style="color:yellow;">Article L : Limite de joueurs par box</mark>
 
 * Une box ne peut pas contenir plus de 10 membres simultanément.
 * Il est interdit de kick un membre pour en ajouter un autre temporairement dans le but d’optimiser le farm.
-* Règle du classement mensuel : Si une île participe au classement des boxs, tout membre exclu (_kick/ban_) en cours de mois ne pourra pas la réintégrer avant le 1er jour du deuxième mois suivant. \
+* Règle du classement mensuel : si une île participe au classement des box, tout membre exclu (_kick/ban_) en cours de mois ne pourra pas la réintégrer avant le 1er jour du deuxième mois suivant. \
   &#xNAN;_<mark style="color:$success;">Exemple : Si un joueur est exclu le 15 mai, il ne pourra pas rejoindre à nouveau l'île avant le 1er juillet.</mark>_
 * Toute tentative de contournement de cette règle sera sanctionnée.
 
 ### <mark style="color:yellow;">Article M : Gestion des départs de box</mark>
 
 * Tout joueur se faisant expulser conserve la propriété des items présents dans son inventaire, ainsi que tous les items présents dans ses coffres/shulker (lock) ou ses qs shop.
-* Les items achetés ou farmés pour la box restent la propriété du chef sauf si le joueur ayant farm quitte la box avant un délai de 15 jours. Passé ce délai, tout item acquis pour la box est considéré comme appartenant à la box.
+* Les items achetés ou farmés pour la box restent la propriété du chef sauf si le joueur ayant farmé quitte la box avant un délai de 15 jours. Passé ce délai, tout item acquis pour la box est considéré comme appartenant à la box.
